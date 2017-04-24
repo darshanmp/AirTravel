@@ -20,5 +20,6 @@
         <jarDirectory url="file://$MODULE_DIR$/../cloud/HW2-Source/Library" recursive="false" type="SOURCES" />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="Library" level="project" />
   </component>
 </module>

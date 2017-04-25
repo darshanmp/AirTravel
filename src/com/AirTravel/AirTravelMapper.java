@@ -26,7 +26,7 @@ public class AirTravelMapper extends Mapper<Text,Text,Text,Text> {
     @Override
     protected void map(Text key, Text value, Context context)
             throws IOException, InterruptedException {
-    	//darshan first comment
+    	// Darshan First comment
         // TODO: please implement your mapper code here
     }
 }

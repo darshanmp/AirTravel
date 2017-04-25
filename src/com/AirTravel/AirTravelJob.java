@@ -19,7 +19,7 @@ public class AirTravelJob {
 
     public static void main(String[] args) throws Exception {
 
-        String inputfile = "/Users/abhilashuday/Desktop/2008.csv";
+        String inputfile = "C:/Users/abhiu/Desktop/2008.csv";
         BufferedReader br = null;
 
         String line = "";

@@ -1,3 +1,4 @@
+
 package com.AirTravel;
 
 /**
@@ -11,6 +12,10 @@ package com.AirTravel;
 // import org.apache.commons.logging.LogFactory;
         import org.apache.hadoop.mapreduce.Reducer;
         import org.apache.hadoop.io.Text;
+
+        import javax.naming.Context;
+
+        import static com.sun.org.apache.xalan.internal.xsltc.compiler.util.Type.Text;
 
 /**
  *

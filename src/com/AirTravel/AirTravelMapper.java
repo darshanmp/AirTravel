@@ -23,30 +23,28 @@ public class AirTravelMapper extends Mapper<Text,Text,Text,Text> {
             throws IOException, InterruptedException {
     	
     	//Extract out the Source, Destination, AirlineName as the Key
-    	//Source 7
-    	//Destination 11
-    	//Airline ID 5
+    	//Source 7, Destination 11,Airline ID 5
     	String[] coll = key.toString().split(",");
-    	String newKey = coll[7] + "," + coll[12] + "," + coll[5];
-    	
+    	String newKey = coll[7] + ";" + coll[12] + ";" + coll[5];
+
     	//Remove keys from the value collection since we have to used it in the values 
     	coll = (String[]) ArrayUtils.removeElement(coll,coll[7]);
-    	coll = (String[]) ArrayUtils.removeElement(coll,coll[12]);
+    	coll = (String[]) ArrayUtils.removeElement(coll,coll[11]);
     	coll = (String[]) ArrayUtils.removeElement(coll,coll[5]);
+
     	
     	StringBuilder build = new StringBuilder();
-    	for(int i=0;i< coll.length;i++)
+    	for(int i=0; i<coll.length;i++)
     	{
-    		build.append(coll[i]);
+    		if( i == coll.length - 1) build.append(coll[i].toString());
+    		else build.append(coll[i].toString() + ";");
     	}
     	
     	String newVal = build.toString();
- 
-    	/*System.out.println(newKey.toString());
-    	System.out.println(newVal.toString());
-    	System.out.println("new value"); 	*/
-    	
-    	context.write(new Text(newKey), new Text(newVal.toString()));
+
+//    	System.out.println(newKey);
+//    	System.out.println(newVal);
+    	context.write(new Text(newKey), new Text(newVal));
     	
 
     }

@@ -28,61 +28,37 @@ public class AirTravelReducer extends Reducer<Text,Text,Text,Text> {
     protected void reduce(Text key, Iterable<Text> values, Context context)
             throws IOException, InterruptedException {
     
-    	//System.out.println("Key:" + key.toString());
-    
-    	//Store delays
-    	ProcessStoreDelay(values);
-    	
-    	//Cancel flights for source - destination, Process airline flight delays, process flight delays for each airline
+    	//System.out.println("Key:" + key.toString());    
+    	// Store delays, Cancel flights for source - destination, Process airline flight delays, process flight delays for each airline
     	ProcessCancelFlightsAndFlightsDelayAndAirlineDelay(key,values);
-    	
-    	
+    	    
     }
-    
-    private void ProcessStoreDelay(Iterable<Text> values)
-    {  	
-    	for(Text val : values){	
-    	String[] coll = val.toString().split(";");
-    	String newKey =  coll[1]  + ":" + coll[2]; //Key : Month:Day
-    	Integer newVal = Integer.parseInt(coll[14]) + Integer.parseInt(coll[17]); //Value: DepDelay + ArrDelay (coll[14] + coll[17])
-    	//System.out.println(newKey);
-    	//System.out.println(newVal);
-    	StoreDelays(newKey,newVal); //Store delay in hashtable     	    	       
-    	} 
-    }
-    
-    private static void StoreDelays(String key, Integer val)
-    {
-    	if(htDelay.containsKey(key))
-    	{   		
-    		Integer del = val +  htDelay.get(key);
-    		htDelay.put(key, del + val);
-    	}
-    	else
-    	{
-    		htDelay.put(key, val);
-    	}
-    }
-    
+        
     private void ProcessCancelFlightsAndFlightsDelayAndAirlineDelay(Text key, Iterable<Text> values)
     {
 
     	String[] keyColl = key.toString().split(";");
     	String newKey =  keyColl[0] + "," + keyColl[1];
-    	
-    	String src = keyColl[0] ;
+    	 
+    	String src = keyColl[0];
       	String dest = keyColl[1] ;
       	
       	String airline = keyColl[2];
     	Integer newVal =  0;
     	Integer srcDelay = 0 ,destDelay = 0, airlineDelay = 0;
+    	 
     	for(Text val : values)
     	{
+        	String[] coll = val.toString().split(";");
+        	String delayKey =  coll[1]  + ":" + coll[2]; //Key : Month:Day
+        	Integer delayVal = Integer.parseInt(coll[14]) + Integer.parseInt(coll[17]); //Value: DepDelay + ArrDelay (coll[14] + coll[17])
+        	StoreDelaysToHashtable(delayKey,delayVal); //Store delay in hashtable 
+        	
     		String[] cancFlight = val.toString().split(";");
-    		newVal +=  Integer.parseInt(cancFlight[20]);
-    		srcDelay += Integer.parseInt(cancFlight[15]);
-    		destDelay += Integer.parseInt(cancFlight[18]);    
-    		airlineDelay+= Integer.parseInt(cancFlight[15]) + Integer.parseInt(cancFlight[18]) ; 
+    		newVal +=  Integer.parseInt(cancFlight[19]);
+    		srcDelay += Integer.parseInt(cancFlight[14]);
+    		destDelay += Integer.parseInt(cancFlight[17]);    
+    		airlineDelay+= Integer.parseInt(cancFlight[14]) + Integer.parseInt(cancFlight[17]) ; 
     	}
     	
     	//Cancel flights
@@ -98,6 +74,20 @@ public class AirTravelReducer extends Reducer<Text,Text,Text,Text> {
     	//Airline delay
     	//System.out.println(airline + ":" + airlineDelay);
     	StoreAirlineDelayToHashtable(airline, airlineDelay);    	
+    }
+    
+    private static void StoreDelaysToHashtable(String key, Integer val)
+    {
+    	if(htDelay.containsKey(key))
+    	{   		
+    		Integer del = val +  htDelay.get(key);
+    		htDelay.put(key, del + val);
+    	}
+    	else
+    	{
+    		htDelay.put(key, val);
+    	}
+    	
     }
     
     private static void StoreCancelFlightsToHashtable(String key, Integer val)

@@ -1,19 +1,14 @@
 package com.AirTravel;
 
 /**
- * Created by abhilashuday on 4/20/17.
+ * Created by abhilashuday,Darshan Masti Prakash on 4/20/17.
  */
 import java.io.IOException;
 // import org.apache.commons.logging.Log;
 // import org.apache.commons.logging.LogFactory;
 import org.apache.hadoop.mapreduce.Mapper;
-
 import org.apache.hadoop.io.Text;
-
-import javax.naming.Context;
-
-import static com.sun.org.apache.xalan.internal.xsltc.compiler.util.Type.Text;
-
+import org.apache.commons.lang.ArrayUtils;
 
 /**
  *
@@ -26,7 +21,35 @@ public class AirTravelMapper extends Mapper<Text,Text,Text,Text> {
     @Override
     protected void map(Text key, Text value, Context context)
             throws IOException, InterruptedException {
-    	// Darshan First comment
-        // TODO: please implement your mapper code here
+    	
+    	//Extract out the Source, Destination, AirlineName as the Key
+    	//Source 7
+    	//Destination 11
+    	//Airline ID 5
+    	String[] coll = key.toString().split(",");
+    	String newKey = coll[7] + "," + coll[12] + "," + coll[5];
+    	
+    	//Remove keys from the value collection since we have to used it in the values 
+    	coll = (String[]) ArrayUtils.removeElement(coll,coll[7]);
+    	coll = (String[]) ArrayUtils.removeElement(coll,coll[12]);
+    	coll = (String[]) ArrayUtils.removeElement(coll,coll[5]);
+    	
+    	StringBuilder build = new StringBuilder();
+    	for(int i=0;i< coll.length;i++)
+    	{
+    		build.append(coll[i]);
+    	}
+    	
+    	String newVal = build.toString();
+ 
+    	/*System.out.println(newKey.toString());
+    	System.out.println(newVal.toString());
+    	System.out.println("new value"); 	*/
+    	
+    	context.write(new Text(newKey), new Text(newVal.toString()));
+    	
+
     }
+    
+    
 }

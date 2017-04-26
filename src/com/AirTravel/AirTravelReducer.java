@@ -39,7 +39,7 @@ public class AirTravelReducer extends Reducer<Text,Text,Text,Text> {
 
     	String[] keyColl = key.toString().split(";");
     	String newKey =  keyColl[0] + "," + keyColl[1];
-    	
+    	 
     	String src = keyColl[0];
       	String dest = keyColl[1] ;
       	

@@ -46,7 +46,7 @@ public class AirTravelReducer extends Reducer<Text,Text,Text,Text> {
       	String airline = keyColl[2];
     	Integer newVal =  0;
     	Integer srcDelay = 0 ,destDelay = 0, airlineDelay = 0;
-    	
+    	 
     	for(Text val : values)
     	{
         	String[] coll = val.toString().split(";");

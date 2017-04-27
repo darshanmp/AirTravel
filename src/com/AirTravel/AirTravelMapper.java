@@ -25,6 +25,9 @@ public class AirTravelMapper extends Mapper<Text,Text,Text,Text> {
     	//Extract out the Source, Destination, AirlineName as the Key
     	//Source 7, Destination 11,Airline ID 5
     	String[] coll = key.toString().split(",");
+    	
+    	if(!coll[0].equals("YEAR"))
+    	{
     	String newKey = coll[7] + ";" + coll[12] + ";" + coll[5];
 
     	//Remove keys from the value collection since we have to used it in the values 
@@ -46,7 +49,7 @@ public class AirTravelMapper extends Mapper<Text,Text,Text,Text> {
 //    	System.out.println(newVal);
     	context.write(new Text(newKey), new Text(newVal));
     	
-
+    	}
     }
     
     

@@ -23,8 +23,7 @@ public class AirTravelReducer extends Reducer<Text,Text,Text,Text> {
 	private static Hashtable<String, Integer> htCancelFlights = new Hashtable<String, Integer>();
 	private static Hashtable<String, Integer> htAirportDelay = new Hashtable<String, Integer>();
 	private static Hashtable<String, Integer> htAirlineDelay = new Hashtable<String, Integer>();	
-	private Integer count = 0;
-	private String kTemp = "";
+
     @Override
     protected void reduce(Text key, Iterable<Text> values, Context context)
             throws IOException, InterruptedException {
@@ -49,8 +48,7 @@ public class AirTravelReducer extends Reducer<Text,Text,Text,Text> {
     	 
     	for(Text val : values)
     	{
-    		//kTemp = newKey;
-    		//count++;
+
         	String[] coll = val.toString().split(";");
         	String delayKey =  coll[1]  + ":" + coll[2]; //Key : Month:Day
         	if(newKey.equals("AUS,HRL"))
@@ -83,7 +81,6 @@ public class AirTravelReducer extends Reducer<Text,Text,Text,Text> {
     	}
     	catch(Exception ex)
     	{
-    		//System.out.println("KTemp" + kTemp);
     		System.out.println(ex.getMessage() + ";Exception in ProcessCancelFlightsAndFlightsDelayAndAirlineDelay method");
     	}
     }

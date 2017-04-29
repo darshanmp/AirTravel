@@ -16,17 +16,22 @@ import org.apache.hadoop.io.Text;
 /**
  * @author mac
  */
+
 public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
     // The Karmasphere Studio Workflow Log displays logging from Apache Commons Logging, for example:
     // private static final Log LOG = LogFactory.getLog("org.smaple.HomeworkReducer");
 
     String file="./inputfiles/airline-safety.csv"; // generic path for csv file
+    long count = -1;
     private static Hashtable<String, Integer> htDelay = new Hashtable<String, Integer>();
     private static Hashtable<String, Integer> htCancelFlights = new Hashtable<String, Integer>();
     private static Hashtable<String, Integer> htAirportDelay = new Hashtable<String, Integer>();
     private static Hashtable<String, Integer> htAirlineDelay = new Hashtable<String, Integer>();
     private static HashMap<String, String> htAirlineSafety = new HashMap<String,String>();
-
+	static enum InputCount
+	{
+		PerformanceCount
+	}
     @Override
     protected void reduce(Text key, Iterable<Text> values, Context context)
             throws IOException, InterruptedException {
@@ -35,6 +40,15 @@ public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
         //Store delays, Cancel flights for source - destination, Process airline flight delays, process flight delays for each airline
         ProcessCancelFlightsAndFlightsDelayAndAirlineDelay(key, values);
         //System.out.println(htAirlineSafety=StoreAirlineSafety(file));
+        
+
+        if(count == -1) count = context.getCounter(InputCount.PerformanceCount).getValue() - 1;
+        else count--;       
+        if(count == 0)
+        {
+           //Performance analysis is done. get the safety data and send performance and safety hashtable to algorithm
+        }
+               
     }
 
     private void ProcessCancelFlightsAndFlightsDelayAndAirlineDelay(Text key, Iterable<Text> values) {
@@ -79,6 +93,7 @@ public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
             //Airline delay
             System.out.println(airline + ":" + airlineDelay);
             StoreAirlineDelayToHashtable(airline, airlineDelay);
+
         } catch (Exception ex) {
             System.out.println(ex.getMessage() + ";Exception in ProcessCancelFlightsAndFlightsDelayAndAirlineDelay method");
         }

@@ -18,6 +18,10 @@ public class AirTravelMapper extends Mapper<Text,Text,Text,Text> {
     // The Karmasphere Studio Workflow Log displays logging from Apache Commons Logging, for example:
     // private static final Log LOG = LogFactory.getLog("org.smaple.HomeworkMapper");
 
+	static enum InputCount
+	{
+		PerformanceCount
+	}
     @Override
     protected void map(Text key, Text value, Context context)
             throws IOException, InterruptedException {
@@ -45,8 +49,7 @@ public class AirTravelMapper extends Mapper<Text,Text,Text,Text> {
     	
     	String newVal = build.toString();
 
-//    	System.out.println(newKey);
-//    	System.out.println(newVal);
+    	context.getCounter(InputCount.PerformanceCount).increment(1);
     	context.write(new Text(newKey), new Text(newVal));
     	
     	}

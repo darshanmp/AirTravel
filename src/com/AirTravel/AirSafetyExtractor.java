@@ -1,9 +1,5 @@
 package com.AirTravel;
 
-import org.apache.commons.beanutils.converters.IntegerArrayConverter;
-import org.apache.commons.collections.map.HashedMap;
-import org.apache.hadoop.mapred.FileInputFormat;
-
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -15,7 +11,7 @@ import java.util.HashMap;
  */
 public class AirSafetyExtractor {
 
-    HashMap<String,String> safetyIncidents=new HashMap();
+    HashMap<String,String> safetyIncidents=new HashMap<String, String>();
     public HashMap<String,String> extraction(String csvFile) {
         if (safetyIncidents.isEmpty()) {
             BufferedReader br = null;

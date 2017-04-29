@@ -34,7 +34,7 @@ public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
         //System.out.println("Key:" + key.toString());
         //Store delays, Cancel flights for source - destination, Process airline flight delays, process flight delays for each airline
         ProcessCancelFlightsAndFlightsDelayAndAirlineDelay(key, values);
-        //System.out.println(htAirlineSafety=StoreAirlineSafety(file));
+        System.out.println(htAirlineSafety=StoreAirlineSafety(file));
     }
 
     private void ProcessCancelFlightsAndFlightsDelayAndAirlineDelay(Text key, Iterable<Text> values) {

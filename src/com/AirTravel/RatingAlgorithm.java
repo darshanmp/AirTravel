@@ -9,7 +9,7 @@ public class RatingAlgorithm {
 	private final Double maxDel;
 	RatingAlgorithm(Double minDelay, Double maxDelay)
 	{ 
-		minDel = minDelay;
+		minDel = minDelay; 
 		maxDel = maxDelay;
 		htAirlineCodes = new Hashtable<String, String>();
 		LoadAirlineMap();

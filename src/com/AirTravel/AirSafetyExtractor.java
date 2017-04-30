@@ -11,50 +11,56 @@ import java.util.HashMap;
  */
 public class AirSafetyExtractor {
 
+	String csvFile="";
+	AirSafetyExtractor(String file)
+	{
+		csvFile = file;
+	}
     HashMap<String,String> safetyIncidents=new HashMap<String, String>();
-    public HashMap<String,String> extraction(String csvFile) {
-        if (safetyIncidents.isEmpty()) {
-            BufferedReader br = null;
-            String line = "";
-            String cvsSplitBy = ",";
-            try {
-                br = new BufferedReader(new FileReader(csvFile));
-                while ((line = br.readLine()) != null) {
-                    String[] safetydata = line.split(cvsSplitBy);
-                    int totalincidents = 0, totalaccidents = 0;
-                    // pre-process to extract incidents and accidents to total
-                    if (!safetydata[0].equals("airline")) {
-                        int incidents1 = Integer.parseInt(safetydata[2]);
-                        int incidents2 = Integer.parseInt(safetydata[5]);
-                        totalincidents = incidents2 + incidents1;
-                        int accidents1 = Integer.parseInt(safetydata[3]);
-                        int accidents2 = Integer.parseInt(safetydata[6]);
-                        totalaccidents = accidents1 + accidents2;
-                    }
-                    //System.out.println(safetydata[0] + " total incidents are " + totalincidents + " total accidents are " + totalaccidents);
-                    //Hashmap for airline name,accidents and  Incidents
-                    String total = Integer.toString(totalincidents) + ";" + Integer.toString(totalaccidents);
-                    safetyIncidents.put(safetydata[0], total);
+    public  HashMap<String,String> getSafetyHashMap()
+    {
+    	if(safetyIncidents.size() == 0)
+    		return extraction();
+    	return safetyIncidents;
+    }
+    
+    public HashMap<String,String> extraction() {
+        BufferedReader br = null;
+        String line = "";
+        String cvsSplitBy = ",";
+        try {
+            br = new BufferedReader(new FileReader(csvFile));
+            while ((line = br.readLine()) != null) {
+                String[] safetydata = line.split(cvsSplitBy);
+                int totalincidents=0,totalaccidents=0;
+                // pre-process to extract incidents and accidents to total
+                if(!safetydata[0].equals("airline")) {
+                    int incidents1 = Integer.parseInt(safetydata[2]);
+                    int incidents2 = Integer.parseInt(safetydata[5]);
+                    totalincidents = incidents2 + incidents1;
+                    int accidents1 = Integer.parseInt(safetydata[3]);
+                    int accidents2 = Integer.parseInt(safetydata[6]);
+                    totalaccidents = accidents1 + accidents2;
                 }
+              //  System.out.println(safetydata[0] + " total incidents are " + totalincidents + " total accidents are " + totalaccidents);
+                //Hashmap for airline name,accidents and  Incidents
+                String total=Integer.toString(totalincidents) + ";" + Integer.toString(totalaccidents);
+                safetyIncidents.put(safetydata[0],total);
+            }
 
-            } catch (FileNotFoundException e) {
-                e.printStackTrace();
-            } catch (IOException e) {
-                e.printStackTrace();
-            } finally {
-                if (br != null) {
-                    try {
-                        br.close();
-                    } catch (IOException e) {
-                        e.printStackTrace();
-                    }
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        } finally {
+            if (br != null) {
+                try {
+                    br.close();
+                } catch (IOException e) {
+                    e.printStackTrace();
                 }
             }
-            return safetyIncidents;
         }
-        else{
-            return safetyIncidents;
-        }
-
+    return safetyIncidents;
     }
 }

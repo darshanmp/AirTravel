@@ -21,9 +21,9 @@ public class AirTravelReducer2 extends Reducer<Text, Text, Text, Text> {
 	 @Override
 	    protected void reduce(Text key, Iterable<Text> values, Context context)
 	            throws IOException, InterruptedException {
-			RatingAlgorithm rating = new RatingAlgorithm();
-			System.out.println("MinDelay : " + AirSafetyExtractor.minDelay);
-			System.out.println("MaxDelay : " + AirSafetyExtractor.maxDelay);			
+			RatingAlgorithm rating = new RatingAlgorithm(AirSafetyExtractor.minDelay,AirSafetyExtractor.maxDelay);
+			//System.out.println("MinDelay : " + AirSafetyExtractor.minDelay);
+			//System.out.println("MaxDelay : " + AirSafetyExtractor.maxDelay);			
 			String airlineCode = key.toString().split(";")[2];
 			rating.calcSafetyRating(airlineCode);
 	 }

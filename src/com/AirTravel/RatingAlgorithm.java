@@ -17,18 +17,18 @@ public class RatingAlgorithm {
 	}
 	public void LoadAirlineMap()
 	{
-		htAirlineCodes.put("AA", "");
-		htAirlineCodes.put("AS", "");
-		htAirlineCodes.put("B6", "");
-		htAirlineCodes.put("DL", "");
-		htAirlineCodes.put("EV", "");
-		htAirlineCodes.put("F9", "");
-		htAirlineCodes.put("HA", "");
-		htAirlineCodes.put("NK", "");
-		htAirlineCodes.put("OO", "");
-		htAirlineCodes.put("UA", "");
-		htAirlineCodes.put("VX", "");
-		htAirlineCodes.put("WN", "");
+		htAirlineCodes.put("AA", "American Airlines");
+		htAirlineCodes.put("AS", "Alaska Airlines");
+		htAirlineCodes.put("B6", "JetBlue Airways");
+		htAirlineCodes.put("DL", "Delta Airways");
+		htAirlineCodes.put("EV", "ExpressJet Airlines");
+		htAirlineCodes.put("F9", "Frontier Airlines");
+		htAirlineCodes.put("HA", "Hawaiian Airlines");
+		htAirlineCodes.put("NK", "Spirit Airlines");
+		htAirlineCodes.put("OO", "SkyWest Airlines");
+		htAirlineCodes.put("UA", "United Airlines");
+		htAirlineCodes.put("VX", "Virgin America");
+		htAirlineCodes.put("WN", "Southwest Airlines");
 		
 	}
 	public Double calcSafetyRating(String airlineCode)

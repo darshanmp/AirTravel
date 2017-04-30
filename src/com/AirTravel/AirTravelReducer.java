@@ -23,18 +23,20 @@ public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
 
 	static String file="./inputfiles/airline-safety.csv"; // generic path for csv file    
 	private MultipleOutputs<Text, Text> multipleOutputs;
-	private static Hashtable<String, Integer> htDelay = null;
-	private static Hashtable<String, Integer> htCancelFlights = null;
-	private static Hashtable<String, Integer> htAirportDelay = null;
-	private static Hashtable<String, Integer> htAirlineDelay = null;
+	private static Hashtable<String, Double> htDelay = null;
+	private static Hashtable<String, Double> htCancelFlights = null;
+	private static Hashtable<String, Double> htAirportDelay = null;
+	private static Hashtable<String, Double> htAirlineDelay = null;
 
+	static Double minDelay = 0.0;
+	static Double maxDelay = 0.0;
 	@Override
 	public void setup(Context context){
 		 multipleOutputs = new MultipleOutputs<Text, Text>(context);
-		 htDelay = new Hashtable<String, Integer>();
-		 htCancelFlights = new Hashtable<String, Integer>();
-		 htAirportDelay = new Hashtable<String, Integer>();
-		 htAirlineDelay = new Hashtable<String, Integer>();
+		 htDelay = new Hashtable<String, Double>();
+		 htCancelFlights = new Hashtable<String, Double>();
+		 htAirportDelay = new Hashtable<String, Double>();
+		 htAirlineDelay = new Hashtable<String, Double>();
 	}
 
 
@@ -54,15 +56,15 @@ public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
 			String dest = keyColl[1];
 
 			String airline = keyColl[2];
-			Integer newVal = 0;
-			Integer srcDelay = 0, destDelay = 0, airlineDelay = 0;
+			Double newVal = 0.0;
+			Double srcDelay = 0.0, destDelay = 0.0, airlineDelay = 0.0;
 
 			for (Text val : values) {
 
 				String[] coll = val.toString().split(";");
 				String delayKey = coll[1] + ":" + coll[2]; //Key : Month:Day
 
-				Integer delayVal = (coll[14].equals("") ? 0 : Integer.parseInt(coll[14])) + (coll[17].equals("") ? 0 : Integer.parseInt(coll[17]));
+				Double delayVal = (coll[14].equals("") ? 0 : Double.parseDouble(coll[14])) + (coll[17].equals("") ? 0 : Double.parseDouble(coll[17]));
 				//Value: DepDelay + ArrDelay (coll[14] + coll[17])
 				StoreDelaysToHashtable(delayKey, delayVal); //Store delay in hashtable
 
@@ -74,6 +76,8 @@ public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
 			}
 
 			// context.write(key, new Text(airlineDelay.toString()));
+			if(airlineDelay > maxDelay) maxDelay = airlineDelay;
+			else if(airlineDelay < minDelay) minDelay = airlineDelay;
 			multipleOutputs.write(key, new Text(airlineDelay.toString()), "Reducer1Output");  
 			//Cancel flights
 			StoreCancelFlightsToHashtable(newKey, newVal);
@@ -90,18 +94,18 @@ public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
 
 	}
 
-	private static void StoreDelaysToHashtable(String key, Integer val) {
+	private static void StoreDelaysToHashtable(String key, Double val) {
 		if (htDelay.containsKey(key)) {
-			Integer del = val + htDelay.get(key);
+			Double del = val + htDelay.get(key);
 			htDelay.put(key, del + val);
 		} else {
 			htDelay.put(key, val);
 		}
 	}
 
-	private static void StoreCancelFlightsToHashtable(String key, Integer val) {
+	private static void StoreCancelFlightsToHashtable(String key, Double val) {
 		if (htCancelFlights.containsKey(key)) {
-			Integer del = val + htCancelFlights.get(key);
+			Double del = val + htCancelFlights.get(key);
 			htCancelFlights.put(key, del + val);
 		} else {
 			htCancelFlights.put(key, val);
@@ -109,10 +113,10 @@ public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
 	}
 
 
-	private static void StoreSrcDestDelayToHashtable(String src, Integer srcDelay, String dest, Integer destDelay) {
+	private static void StoreSrcDestDelayToHashtable(String src, Double srcDelay, String dest, Double destDelay) {
 		//source to the list
 		if (htAirportDelay.containsKey(src)) {
-			Integer del = srcDelay + htAirportDelay.get(src);
+			Double del = srcDelay + htAirportDelay.get(src);
 			htAirportDelay.put(src, del + srcDelay);
 		} else {
 			htAirportDelay.put(src, srcDelay);
@@ -120,16 +124,16 @@ public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
 
 		//Destination to the list
 		if (htAirportDelay.containsKey(dest)) {
-			Integer del = destDelay + htAirportDelay.get(dest);
+			double del = destDelay + htAirportDelay.get(dest);
 			htAirportDelay.put(dest, del + destDelay);
 		} else {
 			htAirportDelay.put(dest, destDelay);
 		}
 	}
 
-	private static void StoreAirlineDelayToHashtable(String key, Integer val) {
+	private static void StoreAirlineDelayToHashtable(String key, Double val) {
 		if (htAirlineDelay.containsKey(key)) {
-			Integer del = val + htAirlineDelay.get(key);
+			Double del = val + htAirlineDelay.get(key);
 			htAirlineDelay.put(key, del + val);
 		} else {
 			htAirlineDelay.put(key, val);
@@ -138,10 +142,11 @@ public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
 
 	protected void cleanup(Context context) throws IOException,
 	InterruptedException {
-		System.out.println("Done");
-		RatingAlgorithm rating = new RatingAlgorithm();
-		AirSafetyExtractor ase=new AirSafetyExtractor(file);
-		ase.getSafetyHashMap();
+		System.out.println("Reducer1 Completed");
+		AirSafetyExtractor.minDelay = minDelay;
+		AirSafetyExtractor.maxDelay = maxDelay;
+		System.out.println("MinDelayAtRed1 : " + AirSafetyExtractor.minDelay);
+		System.out.println("MaxDelayAtRed1 : " + AirSafetyExtractor.maxDelay);			
 		multipleOutputs.close();   
 	}
 }

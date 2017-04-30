@@ -11,7 +11,7 @@ import java.util.Hashtable;
 
 import org.apache.hadoop.mapreduce.Reducer;
 import org.apache.hadoop.mapreduce.Reducer.Context;
-import org.apache.hadoop.io.Text;
+import org.apache.hadoop.io.Text; 
 
 /**
  * @author mac

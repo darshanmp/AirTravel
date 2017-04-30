@@ -37,13 +37,13 @@ public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
 		 htAirlineDelay = new Hashtable<String, Integer>();
 	}
 
+
 	@Override
 	protected void reduce(Text key, Iterable<Text> values, Context context)
 			throws IOException, InterruptedException {
-
 		//Store delays, Cancel flights for source - destination, Process airline flight delays, process flight delays for each airline
 		ProcessCancelFlightsAndFlightsDelayAndAirlineDelay(key, values,context);                      
-	}
+    }
 
 	private void ProcessCancelFlightsAndFlightsDelayAndAirlineDelay(Text key, Iterable<Text> values, Context context) {
 		try {

@@ -11,9 +11,20 @@ import java.util.HashMap;
  */
 public class AirSafetyExtractor {
 
+	String csvFile="";
+	AirSafetyExtractor(String file)
+	{
+		csvFile = file;
+	}
     HashMap<String,String> safetyIncidents=new HashMap<String, String>();
-    public HashMap<String,String> extraction(String csvFile) {
-
+    public  HashMap<String,String> getSafetyHashMap()
+    {
+    	if(safetyIncidents.size() == 0)
+    		return extraction();
+    	return safetyIncidents;
+    }
+    
+    public HashMap<String,String> extraction() {
         BufferedReader br = null;
         String line = "";
         String cvsSplitBy = ",";

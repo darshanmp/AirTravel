@@ -49,8 +49,9 @@ public class AirTravelJob {
 		{
 			String file="./inputfiles/airline-safety.csv"; // generic path for csv file           
 			//Safety data being loaded
-			AirSafetyExtractor a=new AirSafetyExtractor(file);
-			a.extraction();
+
+			AirSafetyExtractor.setFile(file);
+			AirSafetyExtractor.extraction();
 
 			//Job2
 			Job job2 = new Job();

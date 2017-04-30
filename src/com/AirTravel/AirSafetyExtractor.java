@@ -11,20 +11,37 @@ import java.util.HashMap;
  */
 public class AirSafetyExtractor {
 
-	String csvFile="";
-	AirSafetyExtractor(String file)
+    static String csvFile="";
+    public static Double minDelay = 0.0;
+    public static Double maxDelay = 0.0;
+    private static HashMap<String,String> safetyIncidents=new HashMap<String, String>();
+    
+    private AirSafetyExtractor()
+	{
+    	
+	}
+//	public static void setDelay(Double min, Double max)
+//	{
+//		minDelay = min;
+//		maxDelay = max;
+//	}
+//	public static Double[] getDelay()
+//	{
+//		return new Double[] {minDelay,maxDelay};
+//	}
+	public static void setFile(String file)
 	{
 		csvFile = file;
 	}
-    HashMap<String,String> safetyIncidents=new HashMap<String, String>();
-    public  HashMap<String,String> getSafetyHashMap()
+
+    public static  HashMap<String,String> getSafetyHashMap()
     {
     	if(safetyIncidents.size() == 0)
     		return extraction();
     	return safetyIncidents;
     }
     
-    public HashMap<String,String> extraction() {
+    public static HashMap<String,String> extraction() {
         BufferedReader br = null;
         String line = "";
         String cvsSplitBy = ",";

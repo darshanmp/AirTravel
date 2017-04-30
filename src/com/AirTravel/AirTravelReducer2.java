@@ -24,6 +24,7 @@ public class AirTravelReducer2 extends Reducer<Text, Text, Text, Text> {
 			RatingAlgorithm rating = new RatingAlgorithm();
 			System.out.println("MinDelay : " + AirSafetyExtractor.minDelay);
 			System.out.println("MaxDelay : " + AirSafetyExtractor.maxDelay);
-			AirSafetyExtractor.getSafetyHashMap();
+
+			rating.calcSafetyRating();
 	 }
 }

@@ -20,21 +20,13 @@ public class AirSafetyExtractor {
 	{
     	
 	}
-//	public static void setDelay(Double min, Double max)
-//	{
-//		minDelay = min;
-//		maxDelay = max;
-//	}
-//	public static Double[] getDelay()
-//	{
-//		return new Double[] {minDelay,maxDelay};
-//	}
+    
 	public static void setFile(String file)
 	{
 		csvFile = file;
 	}
 
-    public static  HashMap<String,String> getSafetyHashMap()
+    public static HashMap<String,String> getSafetyHashMap()
     {
     	if(safetyIncidents.size() == 0)
     		return extraction();

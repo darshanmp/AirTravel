@@ -23,8 +23,8 @@ public class AirTravelReducer2 extends Reducer<Text, Text, Text, Text> {
 	            throws IOException, InterruptedException {
 			RatingAlgorithm rating = new RatingAlgorithm();
 			System.out.println("MinDelay : " + AirSafetyExtractor.minDelay);
-			System.out.println("MaxDelay : " + AirSafetyExtractor.maxDelay);
-
-			rating.calcSafetyRating();
+			System.out.println("MaxDelay : " + AirSafetyExtractor.maxDelay);			
+			String airlineCode = key.toString().split(";")[2];
+			rating.calcSafetyRating(airlineCode);
 	 }
 }

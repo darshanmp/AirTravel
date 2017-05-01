@@ -200,7 +200,7 @@ public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
 			System.out.print("Value:"+ mAirport.getValue());
 			System.out.println();
 		}
-
+ 
 		//Which airline has the highest delay on an average?	
 		System.out.println();
 		Set<Entry<String, Double>> setAirline = sortByValues(htAirlineDelay).entrySet();

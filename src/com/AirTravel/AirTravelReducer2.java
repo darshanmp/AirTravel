@@ -39,7 +39,7 @@ public class AirTravelReducer2 extends Reducer<Text, Text, Text, Text> {
 			for(Text val : values){
 			Double delay = Double.parseDouble(val.toString());
 			Double [] results  = rating.calcRating(airlineCode, src, dest, delay);
-			multipleOutputs.write(key, new Text(results[0] + ";" + results[1] + ";" + results[2]), "Reducer1Output");   
+			multipleOutputs.write(key, new Text(results[0] + ";" + results[1] + ";" + results[2]), "Reducer2Output");   
 			}
 	 }
 	 

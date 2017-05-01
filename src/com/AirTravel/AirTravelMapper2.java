@@ -25,9 +25,9 @@ public class AirTravelMapper2 extends Mapper<Text,Text,Text,Text> {
     @Override
     protected void map(Text key, Text value, Context context)
             throws IOException, InterruptedException {
-    	System.out.print("Mapper2Key: " + key);
-    	System.out.print(" Value: " + value);
-    	System.out.println();
+    	//System.out.print("Mapper2Key: " + key);
+    	//System.out.print(" Value: " + value);
+    	//System.out.println();
     	context.write(key, value);
     }
 }

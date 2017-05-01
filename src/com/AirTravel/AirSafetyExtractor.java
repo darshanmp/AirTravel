@@ -54,7 +54,7 @@ public class AirSafetyExtractor {
               //  System.out.println(safetydata[0] + " total incidents are " + totalincidents + " total accidents are " + totalaccidents);
                 //Hashmap for airline name,accidents and  Incidents
                 String total=Integer.toString(totalincidents) + ";" + Integer.toString(totalaccidents);
-                System.out.println(safetydata[0] + ":" +total);
+                //System.out.println(safetydata[0] + ":" +total);
                 safetyIncidents.put(safetydata[0],total);
             }
 

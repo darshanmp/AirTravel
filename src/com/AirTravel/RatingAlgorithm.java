@@ -29,7 +29,7 @@ public class RatingAlgorithm {
 		htAirlineCodes.put("UA", "United Airlines");
 		htAirlineCodes.put("VX", "Virgin America");
 		htAirlineCodes.put("WN", "Southwest Airlines");
-		
+		 
 	}
 	public Double calcSafetyRating(String airlineCode)
 	{		

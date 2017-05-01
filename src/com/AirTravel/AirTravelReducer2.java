@@ -25,6 +25,6 @@ public class AirTravelReducer2 extends Reducer<Text, Text, Text, Text> {
 			//System.out.println("MinDelay : " + AirSafetyExtractor.minDelay);
 			//System.out.println("MaxDelay : " + AirSafetyExtractor.maxDelay);			
 			String airlineCode = key.toString().split(";")[2];
-			rating.calcSafetyRating(airlineCode);
+			rating.calcSafetyRating(airlineCode); 
 	 }
 }

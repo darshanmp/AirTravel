@@ -8,17 +8,7 @@ package com.AirTravel;
 
 import java.io.IOException;
 import java.util.*;
-//
-//import java.util.Arrays;
-//import java.util.Comparator;
-//import java.util.Enumeration;
-//import java.util.Hashtable;
-//import java.util.Iterator;
-//import java.util.Map;
-//import java.util.Set;
-//import java.util.TreeMap;
 import java.util.Map.Entry;
-
 import org.apache.hadoop.mapreduce.Reducer;
 import org.apache.hadoop.mapreduce.lib.output.MultipleOutputs;
 import org.apache.hadoop.io.Text;
@@ -186,17 +176,17 @@ public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
 		}
 
 		//How many cancelled flights in average for source-destination?
-		System.out.println();
-		Set<Entry<String, Double>> setCancelFlights = sortByValues(htCancelFlights).entrySet();
-		System.out.println("How many cancelled flights in average for source-destination?");
-		Iterator<Entry<String, Double>> iCancelFlights = setCancelFlights.iterator();
-		for (; iCancelFlights.hasNext();) {
-			@SuppressWarnings("rawtypes")
-			Map.Entry mCancelFlights = (Map.Entry)iCancelFlights.next();
-			System.out.print("Key: " + mCancelFlights.getKey() + " ");
-			System.out.print("Value:"+ mCancelFlights.getValue());
-			System.out.println();
-		}
+//		System.out.println();
+//		Set<Entry<String, Double>> setCancelFlights = sortByValues(htCancelFlights).entrySet();
+//		System.out.println("How many cancelled flights in average for source-destination?");
+//		Iterator<Entry<String, Double>> iCancelFlights = setCancelFlights.iterator();
+//		for (; iCancelFlights.hasNext();) {
+//			@SuppressWarnings("rawtypes")
+//			Map.Entry mCancelFlights = (Map.Entry)iCancelFlights.next();
+//			System.out.print("Key: " + mCancelFlights.getKey() + " ");
+//			System.out.print("Value:"+ mCancelFlights.getValue());
+//			System.out.println();
+//		}
 
 		//Which airports have higher delays (Top 10) ?
 		System.out.println();
@@ -210,7 +200,7 @@ public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
 			System.out.print("Value:"+ mAirport.getValue());
 			System.out.println();
 		}
-
+ 
 		//Which airline has the highest delay on an average?	
 		System.out.println();
 		Set<Entry<String, Double>> setAirline = sortByValues(htAirlineDelay).entrySet();

@@ -60,7 +60,7 @@ public class AirTravelJob {
 			DeleteOutputDirectory( new File(args[2]));
 			job2.setInputFormatClass(KeyValueTextInputFormat.class);
 			FileInputFormat.setInputPaths(job2, new Path(args[1]));
-			FileOutputFormat.setOutputPath(job2, new Path(args[3]));
+			FileOutputFormat.setOutputPath(job2, new Path(args[2]));
 			job2.submit();
 			job2.waitForCompletion(true);
 		}

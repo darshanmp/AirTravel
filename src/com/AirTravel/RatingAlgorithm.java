@@ -31,9 +31,19 @@ public class RatingAlgorithm {
 	}
 	public Double[] calcRating(String airlineCode, String srcAirp,String destAirp, Double delay)
 	{
-		Double safetyRating = calcSafetyRating(airlineCode);
-		Double perfRating = calcPerfRating(srcAirp, destAirp,  airlineCode,  delay);	
-		Double[] ratings = new Double[] {(safetyRating * 0.4 + perfRating * 0.6), safetyRating, perfRating};
+		Double tempSafe = calcSafetyRating(airlineCode);
+		Double safetyRating = Math.round(tempSafe * 100.0) / 100.0 ;
+		System.out.println(safetyRating);
+		
+		Double tempPerf = calcPerfRating(srcAirp, destAirp,  airlineCode,  delay);
+		Double perfRating = Math.round(tempPerf * 100.0) / 100.0 ;
+		System.out.println(perfRating);
+		
+		Double tempRat = safetyRating * 0.4 + perfRating * 0.6;
+		Double totalRating = Math.round(tempRat * 100.0) / 100.0;		
+		System.out.println(totalRating);
+		
+		Double[] ratings = new Double[] {totalRating, safetyRating, perfRating};
 		return ratings;
 	}
 	public Double calcSafetyRating(String airlineCode)

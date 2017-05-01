@@ -5,11 +5,9 @@ import java.util.Hashtable;
 
 public class RatingAlgorithm {
 	private static Hashtable<String, String> htAirlineCodes = null;
-	private final Double minDel;
 	private final Double maxDel;
-	RatingAlgorithm(Double minDelay, Double maxDelay)
+	RatingAlgorithm(Double maxDelay)
 	{ 
-		minDel = minDelay; 
 		maxDel = maxDelay;
 		htAirlineCodes = new Hashtable<String, String>();
 		LoadAirlineMap();
@@ -31,6 +29,13 @@ public class RatingAlgorithm {
 		htAirlineCodes.put("WN", "Southwest Airlines");
 		 
 	}
+	public Double[] calcRating(String airlineCode, String srcAirp,String destAirp, Double delay)
+	{
+		Double safetyRating = calcSafetyRating(airlineCode);
+		Double perfRating = calcPerfRating(srcAirp, destAirp,  airlineCode,  delay);	
+		Double[] ratings = new Double[] {(safetyRating * 0.4 + perfRating * 0.6), safetyRating, perfRating};
+		return ratings;
+	}
 	public Double calcSafetyRating(String airlineCode)
 	{		
 		if(AirSafetyExtractor.getSafetyHashMap().containsKey(airlineCode))
@@ -39,6 +44,7 @@ public class RatingAlgorithm {
 			String[] vals = AirSafetyExtractor.getSafetyHashMap().get(airlineCode).split(";");
 			int incidents = Integer.parseInt(vals[0]);
 			int accidents = Integer.parseInt(vals[1]);
+			safetyScore = (3- (incidents * 0.5 /10)) + (7 - (accidents * 0.5 /5));
 			return safetyScore;
 		}
 		else		
@@ -47,8 +53,11 @@ public class RatingAlgorithm {
 	
 	public Double calcPerfRating(String srcAirp,String destAirp, String airlineCode, Double delay)
 	{	
-		//calculate performance rating
-		return 10.0;
-
+		//calculate performance rating		
+		if(delay < 0 ) return 10.0;
+		else 
+		{
+			return 10 - (delay / (maxDel /10));
+		}
 	}	
 }

@@ -1,370 +1,1110 @@
-ABQ;IAH;UA	10.0;10.0;10.0
-ANC;FAI;AS	10.0;10.0;10.0
-ANC;LAX;AS	10.0;10.0;10.0
-ANC;OME;AS	10.0;10.0;10.0
-ANC;OTZ;AS	9.41;10.0;9.02
-ANC;PDX;AS	9.92;10.0;9.87
-ANC;SEA;AS	9.9;10.0;9.84
-ANC;SEA;DL	9.96;10.0;9.94
-ATL;AUS;DL	10.0;10.0;10.0
-ATL;BOS;DL	10.0;10.0;10.0
-ATL;BWI;DL	10.0;10.0;10.0
-ATL;CLT;DL	10.0;10.0;10.0
-ATL;CMH;DL	10.0;10.0;10.0
-ATL;DEN;UA	10.0;10.0;10.0
-ATL;DTW;DL	10.0;10.0;10.0
-ATL;GRR;DL	10.0;10.0;10.0
-ATL;HNL;DL	9.57;10.0;9.28
-ATL;IAH;DL	10.0;10.0;10.0
-ATL;LGA;DL	10.0;10.0;10.0
-ATL;MCO;DL	10.0;10.0;10.0
-ATL;MSY;DL	10.0;10.0;10.0
-ATL;ORD;DL	10.0;10.0;10.0
-ATL;ORF;DL	10.0;10.0;10.0
-ATL;PHL;DL	10.0;10.0;10.0
-ATL;RSW;DL	9.9;10.0;9.83
-AUS;DEN;WN	10.0;10.0;10.0
-AUS;ELP;WN	10.0;10.0;10.0
-AUS;EWR;WN	9.89;10.0;9.82
-AUS;FLL;WN	10.0;10.0;10.0
-AUS;HOU;WN	10.0;10.0;10.0
-AUS;HRL;WN	9.96;10.0;9.94
-AUS;IAH;UA	10.0;10.0;10.0
-AUS;LAS;WN	10.0;10.0;10.0
-AUS;LAX;WN	9.99;10.0;9.98
-AUS;LBB;WN	10.0;10.0;10.0
-AUS;MCO;WN	10.0;10.0;10.0
-AUS;MDW;WN	9.28;10.0;8.8
-AUS;MSY;WN	10.0;10.0;10.0
-AUS;OAK;WN	10.0;10.0;10.0
-AUS;PHX;WN	10.0;10.0;10.0
-AUS;SAN;WN	9.69;10.0;9.49
-AUS;SEA;WN	10.0;10.0;10.0
-AUS;SFO;UA	10.0;10.0;10.0
-AUS;SJC;WN	10.0;10.0;10.0
-AUS;SNA;WN	10.0;10.0;10.0
-AUS;STL;WN	10.0;10.0;10.0
-AUS;TPA;WN	10.0;10.0;10.0
-AVL;ATL;DL	10.0;10.0;10.0
-BDL;BWI;WN	9.46;10.0;9.1
-BDL;DEN;WN	10.0;10.0;10.0
-BDL;FLL;WN	10.0;10.0;10.0
-BDL;LAS;WN	10.0;10.0;10.0
-BDL;MCO;WN	10.0;10.0;10.0
-BDL;MDW;WN	10.0;10.0;10.0
-BDL;RSW;WN	10.0;10.0;10.0
-BDL;TPA;WN	10.0;10.0;10.0
-BHM;BWI;WN	10.0;10.0;10.0
-BHM;DAL;WN	9.93;10.0;9.88
-BHM;HOU;WN	9.96;10.0;9.94
-BHM;LAS;WN	10.0;10.0;10.0
-BHM;MCO;WN	10.0;10.0;10.0
-BHM;MDW;WN	9.92;10.0;9.86
-BHM;TPA;WN	10.0;10.0;10.0
-BIL;DEN;UA	10.0;10.0;10.0
-BIS;MSP;DL	10.0;10.0;10.0
-BLI;LAS;AS	10.0;10.0;10.0
-BNA;AUS;WN	9.94;10.0;9.9
-BNA;BOS;WN	10.0;10.0;10.0
-BNA;BWI;WN	10.0;10.0;10.0
-BNA;CHS;WN	10.0;10.0;10.0
-BNA;CLE;WN	10.0;10.0;10.0
-BNA;CMH;WN	10.0;10.0;10.0
-BNA;DAL;WN	9.53;10.0;9.21
-BNA;DCA;WN	10.0;10.0;10.0
-BNA;DEN;WN	9.14;10.0;8.57
-BNA;DTW;WN	9.9;10.0;9.84
-BNA;ECP;WN	10.0;10.0;10.0
-BNA;EWR;WN	10.0;10.0;10.0
-BNA;FLL;WN	10.0;10.0;10.0
-BNA;HOU;WN	9.95;10.0;9.92
-BNA;JAX;WN	9.74;10.0;9.57
-BNA;LAS;WN	10.0;10.0;10.0
-BNA;LAX;WN	10.0;10.0;10.0
-BNA;LGA;WN	10.0;10.0;10.0
-BNA;MCI;WN	10.0;10.0;10.0
-BNA;MCO;WN	10.0;10.0;10.0
-BOS;ATL;DL	9.99;10.0;9.99
-BOS;DEN;UA	10.0;10.0;10.0
-BOS;IAD;UA	10.0;10.0;10.0
-BOS;MSP;DL	10.0;10.0;10.0
-BOS;SFO;UA	10.0;10.0;10.0
-BUR;LAS;WN	10.0;10.0;10.0
-BUR;OAK;WN	10.0;10.0;10.0
-BUR;PHX;WN	8.61;10.0;7.69
-BUR;SJC;WN	10.0;10.0;10.0
-BUR;SMF;WN	10.0;10.0;10.0
-BWI;ABQ;WN	10.0;10.0;10.0
-BWI;ALB;WN	8.88;10.0;8.14
-BWI;ATL;WN	9.64;10.0;9.4
-BZN;DEN;UA	9.57;10.0;9.29
-BZN;EWR;UA	9.71;10.0;9.52
-BZN;ORD;UA	9.83;10.0;9.71
-BZN;SEA;OO	10.0;10.0;10.0
-CID;DTW;OO	10.0;10.0;10.0
-CLE;DEN;UA	10.0;10.0;10.0
-CLE;EWR;UA	9.8;10.0;9.66
-CLE;MCO;UA	10.0;10.0;10.0
-CLT;ATL;DL	10.0;10.0;10.0
-CVG;MCO;DL	9.99;10.0;9.99
-DAL;DCA;VX	10.0;10.0;10.0
-DAL;LAS;VX	9.99;10.0;9.99
-DAL;LAX;VX	10.0;10.0;10.0
-DAL;LGA;VX	10.0;10.0;10.0
-DAL;SFO;VX	10.0;10.0;10.0
-DCA;ATL;DL	9.77;10.0;9.61
-DCA;DAL;VX	10.0;10.0;10.0
-DCA;SLC;DL	10.0;10.0;10.0
-DEN;ABQ;UA	10.0;10.0;10.0
-DEN;BIL;UA	9.99;10.0;9.99
-DEN;BOS;UA	10.0;10.0;10.0
-DEN;BWI;UA	10.0;10.0;10.0
-DEN;BZN;UA	9.99;10.0;9.99
-DEN;CMH;UA	9.89;10.0;9.81
-DEN;DCA;UA	10.0;10.0;10.0
-DEN;DFW;UA	10.0;10.0;10.0
-DEN;DSM;UA	9.82;10.0;9.7
-DEN;DTW;UA	10.0;10.0;10.0
-DEN;EWR;UA	10.0;10.0;10.0
-DEN;HNL;UA	9.48;10.0;9.14
-DEN;IAD;UA	9.93;10.0;9.88
-DEN;IAH;UA	10.0;10.0;10.0
-DEN;LAX;UA	9.68;10.0;9.47
-DEN;LGA;UA	10.0;10.0;10.0
-DEN;MCO;UA	10.0;10.0;10.0
-DEN;MSY;UA	10.0;10.0;10.0
-DEN;ORD;UA	10.0;10.0;10.0
-DEN;RNO;UA	9.96;10.0;9.94
-DEN;SAN;UA	10.0;10.0;10.0
-DEN;SEA;UA	10.0;10.0;10.0
-DEN;TPA;UA	10.0;10.0;10.0
-DFW;DEN;UA	10.0;10.0;10.0
-DFW;DTW;AA	9.65;10.0;9.42
-DFW;IAD;UA	10.0;10.0;10.0
-DFW;SEA;AS	9.98;10.0;9.97
-DFW;SLC;DL	10.0;10.0;10.0
-DSM;ORD;UA	10.0;10.0;10.0
-DTW;BWI;DL	9.9;10.0;9.84
-DTW;DEN;UA	9.61;10.0;9.35
-DTW;DFW;AA	10.0;10.0;10.0
-DTW;GRB;OO	9.98;10.0;9.97
-DTW;PHL;DL	9.95;10.0;9.92
-DTW;SAN;DL	10.0;10.0;10.0
-DTW;SLC;DL	10.0;10.0;10.0
-ELP;ATL;DL	10.0;10.0;10.0
-EWR;DEN;UA	10.0;10.0;10.0
-EWR;HDN;UA	9.9;10.0;9.83
-EWR;MCO;UA	10.0;10.0;10.0
-EWR;SJU;UA	10.0;10.0;10.0
-FAI;SEA;AS	10.0;10.0;10.0
-FLL;DEN;UA	10.0;10.0;10.0
-FNT;ATL;DL	10.0;10.0;10.0
-FSD;ORD;UA	10.0;10.0;10.0
-GRB;DTW;OO	10.0;10.0;10.0
-GRR;ATL;DL	10.0;10.0;10.0
-HNL;ATL;DL	10.0;10.0;10.0
-HNL;DEN;UA	10.0;10.0;10.0
-HNL;LAS;HA	10.0;10.0;10.0
-HNL;PDX;HA	10.0;10.0;10.0
-HNL;SFO;UA	9.74;10.0;9.57
-HNL;SMF;HA	10.0;10.0;10.0
-IAD;BOS;UA	10.0;10.0;10.0
-IAD;DEN;UA	10.0;10.0;10.0
-IAD;IAH;UA	10.0;10.0;10.0
-IAD;LAS;UA	10.0;10.0;10.0
-IAD;LAX;VX	10.0;10.0;10.0
-IAD;MCO;UA	10.0;10.0;10.0
-IAD;ORD;UA	10.0;10.0;10.0
-IAD;PHX;UA	10.0;10.0;10.0
-IAD;SEA;UA	10.0;10.0;10.0
-IAD;SFO;VX	9.61;10.0;9.35
-IAD;TPA;UA	10.0;10.0;10.0
-IAH;IAD;UA	10.0;10.0;10.0
-IAH;JAC;UA	10.0;10.0;10.0
-IAH;LAX;UA	9.82;10.0;9.7
-IAH;MSY;UA	10.0;10.0;10.0
-IAH;RDU;UA	10.0;10.0;10.0
-IAH;SAT;UA	10.0;10.0;10.0
-IAH;SFO;UA	9.71;10.0;9.52
-IAH;SLC;DL	10.0;10.0;10.0
-ICT;DEN;UA	10.0;10.0;10.0
-IND;SFO;UA	10.0;10.0;10.0
-JAC;DEN;UA	10.0;10.0;10.0
-JAC;SFO;UA	9.93;10.0;9.88
-LAS;BLI;AS	9.87;10.0;9.79
-LAS;CVG;DL	10.0;10.0;10.0
-LAS;DAL;VX	9.86;10.0;9.77
-LAS;HNL;HA	9.96;10.0;9.94
-LAS;IAD;UA	10.0;10.0;10.0
-LAS;IAH;UA	10.0;10.0;10.0
-LAS;LAX;UA	10.0;10.0;10.0
-LAS;PDX;AS	10.0;10.0;10.0
-LAS;SEA;AS	10.0;10.0;10.0
-LAS;SFO;VX	10.0;10.0;10.0
-LAX;ANC;AS	10.0;10.0;10.0
-LAX;DAL;VX	10.0;10.0;10.0
-LAX;DEN;UA	10.0;10.0;10.0
-LAX;EWR;UA	9.99;10.0;9.99
-LAX;IAD;UA	10.0;10.0;10.0
-LAX;MSP;DL	10.0;10.0;10.0
-LAX;OGG;HA	10.0;10.0;10.0
-LAX;OGG;UA	10.0;10.0;10.0
-LAX;ORD;UA	10.0;10.0;10.0
-LAX;PDX;DL	10.0;10.0;10.0
-LAX;SEA;AS	9.36;10.0;8.93
-LAX;SEA;DL	10.0;10.0;10.0
-LAX;SEA;VX	10.0;10.0;10.0
-LAX;SFO;UA	10.0;10.0;10.0
-LGA;ATL;DL	10.0;10.0;10.0
-LGA;DAL;VX	10.0;10.0;10.0
-LGA;DEN;DL	10.0;10.0;10.0
-LGA;DEN;UA	10.0;10.0;10.0
-LGA;MIA;DL	10.0;10.0;10.0
-LGA;ORD;UA	10.0;10.0;10.0
-MBS;DTW;OO	10.0;10.0;10.0
-MCI;MSP;DL	9.99;10.0;9.99
-MCO;ATL;DL	10.0;10.0;10.0
-MCO;CVG;DL	10.0;10.0;10.0
-MCO;IAD;UA	10.0;10.0;10.0
-MCO;IAH;UA	9.84;10.0;9.73
-MCO;JFK;DL	10.0;10.0;10.0
-MCO;SFO;UA	9.81;10.0;9.69
-MIA;DEN;UA	10.0;10.0;10.0
-MIA;LGA;DL	10.0;10.0;10.0
-MIA;ORD;UA	10.0;10.0;10.0
-MKE;CVG;OO	9.96;10.0;9.94
-MSP;ABQ;DL	10.0;10.0;10.0
-MSP;ATL;DL	10.0;10.0;10.0
-MSP;BOS;DL	10.0;10.0;10.0
-MSP;FAR;DL	9.86;10.0;9.76
-MSP;IAH;UA	10.0;10.0;10.0
-MSP;MSN;DL	10.0;10.0;10.0
-MSP;PHX;DL	10.0;10.0;10.0
-MSP;TUS;DL	10.0;10.0;10.0
-MSY;ATL;DL	10.0;10.0;10.0
-MSY;DEN;UA	10.0;10.0;10.0
-MTJ;ORD;UA	10.0;10.0;10.0
-MYR;ATL;DL	10.0;10.0;10.0
-OAK;SEA;AS	9.98;10.0;9.97
-OGG;LAX;HA	10.0;10.0;10.0
-OGG;LAX;UA	10.0;10.0;10.0
-OGG;ORD;UA	10.0;10.0;10.0
-OMA;DEN;UA	9.91;10.0;9.85
-OMA;SLC;OO	5.71;10.0;2.85
-OME;ANC;AS	10.0;10.0;10.0
-ORD;CMH;UA	10.0;10.0;10.0
-ORD;DEN;UA	10.0;10.0;10.0
-ORD;IAH;UA	10.0;10.0;10.0
-ORD;LAX;UA	10.0;10.0;10.0
-ORD;MCO;UA	10.0;10.0;10.0
-ORD;MIA;UA	10.0;10.0;10.0
-ORD;PHX;UA	10.0;10.0;10.0
-ORD;SAN;UA	9.93;10.0;9.89
-ORD;SFO;UA	10.0;10.0;10.0
-ORD;TPA;UA	9.89;10.0;9.82
-ORF;ATL;DL	9.99;10.0;9.98
-OTZ;ANC;AS	9.5;10.0;9.17
-OTZ;OME;AS	10.0;10.0;10.0
-PBI;ATL;DL	9.98;10.0;9.97
-PBI;JFK;DL	10.0;10.0;10.0
-PDX;ANC;AS	10.0;10.0;10.0
-PDX;DFW;AS	9.96;10.0;9.93
-PDX;EWR;UA	10.0;10.0;10.0
-PDX;HNL;HA	9.45;10.0;9.08
-PDX;LAS;AS	10.0;10.0;10.0
-PDX;LAX;DL	10.0;10.0;10.0
-PDX;ORD;UA	9.8;10.0;9.66
-PDX;PHX;AS	10.0;10.0;10.0
-PDX;PSP;AS	7.44;10.0;5.73
-PDX;SFO;AS	9.33;10.0;8.88
-PDX;SFO;UA	9.63;10.0;9.38
-PDX;SJC;AS	9.46;10.0;9.1
-PDX;SNA;AS	10.0;10.0;10.0
-PHL;ATL;DL	10.0;10.0;10.0
-PHL;DEN;UA	10.0;10.0;10.0
-PHL;DTW;DL	9.8;10.0;9.67
-PHX;DTW;DL	10.0;10.0;10.0
-PHX;IAD;UA	10.0;10.0;10.0
-PHX;IAH;UA	10.0;10.0;10.0
-PHX;SEA;AS	10.0;10.0;10.0
-PHX;SEA;DL	10.0;10.0;10.0
-PHX;SFO;UA	10.0;10.0;10.0
-PSP;PDX;AS	10.0;10.0;10.0
-PSP;SFO;AS	9.14;10.0;8.56
-PSP;SFO;VX	10.0;10.0;10.0
-RIC;ORD;UA	9.91;10.0;9.85
-RSW;DEN;UA	10.0;10.0;10.0
-RSW;MSP;DL	10.0;10.0;10.0
-RSW;ORD;UA	10.0;10.0;10.0
-SAN;DEN;UA	10.0;10.0;10.0
-SAN;IAH;UA	10.0;10.0;10.0
-SAN;SEA;AS	9.98;10.0;9.96
-SAN;SFO;UA	10.0;10.0;10.0
-SAN;SFO;VX	10.0;10.0;10.0
-SBN;ATL;OO	8.98;10.0;8.3
-SEA;ANC;AS	10.0;10.0;10.0
-SEA;DTW;DL	9.99;10.0;9.99
-SEA;FAI;AS	10.0;10.0;10.0
-SEA;JFK;AA	10.0;10.0;10.0
-SEA;LAS;AS	9.76;10.0;9.6
-SEA;LAS;DL	9.99;10.0;9.99
-SEA;LAX;AS	9.95;10.0;9.92
-SEA;LAX;VX	9.98;10.0;9.97
-SEA;MCO;DL	10.0;10.0;10.0
-SEA;OAK;AS	10.0;10.0;10.0
-SEA;ORD;UA	10.0;10.0;10.0
-SEA;PDX;AS	10.0;10.0;10.0
-SEA;PHX;AS	9.83;10.0;9.71
-SEA;PHX;DL	10.0;10.0;10.0
-SEA;SAN;AS	10.0;10.0;10.0
-SEA;SFO;AS	8.17;10.0;6.95
-SEA;SFO;UA	10.0;10.0;10.0
-SEA;SFO;VX	10.0;10.0;10.0
-SEA;SJC;AS	10.0;10.0;10.0
-SEA;SMF;AS	9.71;10.0;9.52
-SEA;SMF;OO	9.9;10.0;9.83
-SEA;SNA;AS	10.0;10.0;10.0
-SEA;TUS;AS	9.91;10.0;9.85
-SFO;DAL;VX	10.0;10.0;10.0
-SFO;DTW;DL	10.0;10.0;10.0
-SFO;EWR;UA	10.0;10.0;10.0
-SFO;HNL;UA	7.19;10.0;5.31
-SFO;IAD;UA	10.0;10.0;10.0
-SFO;IAD;VX	9.98;10.0;9.97
-SFO;IAH;UA	10.0;10.0;10.0
-SFO;LAS;UA	10.0;10.0;10.0
-SFO;LAS;VX	10.0;10.0;10.0
-SFO;MCO;UA	10.0;10.0;10.0
-SFO;PDX;AS	9.65;10.0;9.42
-SFO;PDX;VX	9.84;10.0;9.73
-SFO;PIT;UA	9.9;10.0;9.83
-SFO;PSP;AS	8.75;10.0;7.91
-SFO;SAN;UA	10.0;10.0;10.0
-SFO;SAN;VX	10.0;10.0;10.0
-SFO;SEA;AS	9.25;10.0;8.75
-SFO;SEA;UA	9.91;10.0;9.85
-SFO;SEA;VX	10.0;10.0;10.0
-SJC;LAX;OO	10.0;10.0;10.0
-SJC;PDX;AS	6.78;10.0;4.63
-SJC;SEA;AS	10.0;10.0;10.0
-SJC;SLC;OO	6.47;10.0;4.12
-SJU;CLE;UA	10.0;10.0;10.0
-SJU;IAH;UA	8.99;10.0;8.32
-SLC;IAH;OO	9.77;10.0;9.61
-SLC;SAT;OO	4.91;10.0;1.52
-SLC;SEA;AS	10.0;10.0;10.0
-SLC;SJC;OO	8.29;10.0;7.15
-SMF;HNL;HA	4.0;10.0;0.0
-SMF;SEA;AS	10.0;10.0;10.0
-SNA;DEN;UA	10.0;10.0;10.0
-SNA;PDX;AS	10.0;10.0;10.0
-SNA;SEA;AS	10.0;10.0;10.0
-SNA;SFO;UA	10.0;10.0;10.0
-SRQ;ORD;UA	10.0;10.0;10.0
-STT;ATL;DL	10.0;10.0;10.0
-TPA;DEN;UA	10.0;10.0;10.0
-TPA;EWR;UA	10.0;10.0;10.0
-TPA;IAD;UA	10.0;10.0;10.0
-TUS;DEN;UA	10.0;10.0;10.0
-TUS;MSP;DL	9.98;10.0;9.97
-TUS;SEA;AS	10.0;10.0;10.0
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Albuquerque, NM;Houston, TX;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Anchorage, AK;Fairbanks, AK;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Anchorage, AK;Los Angeles, CA;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Anchorage, AK;Nome, AK;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Anchorage, AK;Kotzebue, AK;Alaska Airlines				9.17;9.4;9.02
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Anchorage, AK;Portland, OR;Alaska Airlines				9.68;9.4;9.87
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Anchorage, AK;Seattle, WA;Alaska Airlines				9.66;9.4;9.84
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Anchorage, AK;Seattle, WA;Delta Airways				8.44;6.2;9.94
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Atlanta, GA;Austin, TX;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Atlanta, GA;Boston, MA;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Atlanta, GA;Baltimore, MD;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Atlanta, GA;Charlotte, NC;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Atlanta, GA;Columbus, OH;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Atlanta, GA;Denver, CO;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Atlanta, GA;Detroit, MI;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Atlanta, GA;Grand Rapids, MI;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Atlanta, GA;Honolulu, HI;Delta Airways				8.05;6.2;9.28
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Atlanta, GA;Houston, TX;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Atlanta, GA;New York, NY;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Atlanta, GA;Orlando, FL;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Atlanta, GA;New Orleans, LA;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Atlanta, GA;Chicago, IL;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Atlanta, GA;Norfolk, VA;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Atlanta, GA;Philadelphia, PA;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Atlanta, GA;Fort Myers, FL;Delta Airways				8.38;6.2;9.83
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Austin, TX;Denver, CO;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Austin, TX;El Paso, TX;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Austin, TX;Newark, NJ;Southwest Airlines				9.71;9.55;9.82
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Austin, TX;Fort Lauderdale, FL;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Austin, TX;Houston, TX;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Austin, TX;Harlingen/San Benito, TX;Southwest Airlines				9.78;9.55;9.94
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Austin, TX;Houston, TX;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Austin, TX;Las Vegas, NV;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Austin, TX;Los Angeles, CA;Southwest Airlines				9.81;9.55;9.98
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Austin, TX;Lubbock, TX;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Austin, TX;Orlando, FL;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Austin, TX;Chicago, IL;Southwest Airlines				9.1;9.55;8.8
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Austin, TX;New Orleans, LA;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Austin, TX;Oakland, CA;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Austin, TX;Phoenix, AZ;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Austin, TX;San Diego, CA;Southwest Airlines				9.51;9.55;9.49
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Austin, TX;Seattle, WA;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Austin, TX;San Francisco, CA;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Austin, TX;San Jose, CA;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Austin, TX;Santa Ana, CA;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Austin, TX;St. Louis, MO;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Austin, TX;Tampa, FL;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Asheville, NC;Atlanta, GA;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Hartford, CT;Baltimore, MD;Southwest Airlines				9.28;9.55;9.1
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Hartford, CT;Denver, CO;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Hartford, CT;Fort Lauderdale, FL;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Hartford, CT;Las Vegas, NV;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Hartford, CT;Orlando, FL;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Hartford, CT;Chicago, IL;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Hartford, CT;Fort Myers, FL;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Hartford, CT;Tampa, FL;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Birmingham, AL;Baltimore, MD;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Birmingham, AL;Dallas, TX;Southwest Airlines				9.75;9.55;9.88
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Birmingham, AL;Houston, TX;Southwest Airlines				9.78;9.55;9.94
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Birmingham, AL;Las Vegas, NV;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Birmingham, AL;Orlando, FL;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Birmingham, AL;Chicago, IL;Southwest Airlines				9.74;9.55;9.86
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Birmingham, AL;Tampa, FL;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Billings, MT;Denver, CO;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Bismarck/Mandan, ND;Minneapolis, MN;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Bellingham, WA;Las Vegas, NV;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Nashville, TN;Austin, TX;Southwest Airlines				9.76;9.55;9.9
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Nashville, TN;Boston, MA;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Nashville, TN;Baltimore, MD;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Nashville, TN;Charleston, SC;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Nashville, TN;Cleveland, OH;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Nashville, TN;Columbus, OH;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Nashville, TN;Dallas, TX;Southwest Airlines				9.35;9.55;9.21
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Nashville, TN;Washington, DC;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Nashville, TN;Denver, CO;Southwest Airlines				8.96;9.55;8.57
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Nashville, TN;Detroit, MI;Southwest Airlines				9.72;9.55;9.84
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Nashville, TN;Panama City, FL;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Nashville, TN;Newark, NJ;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Nashville, TN;Fort Lauderdale, FL;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Nashville, TN;Houston, TX;Southwest Airlines				9.77;9.55;9.92
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Nashville, TN;Jacksonville, FL;Southwest Airlines				9.56;9.55;9.57
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Nashville, TN;Las Vegas, NV;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Nashville, TN;Los Angeles, CA;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Nashville, TN;New York, NY;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Nashville, TN;Kansas City, MO;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Nashville, TN;Orlando, FL;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Boston, MA;Atlanta, GA;Delta Airways				8.47;6.2;9.99
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Boston, MA;Denver, CO;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Boston, MA;Washington, DC;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Boston, MA;Minneapolis, MN;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Boston, MA;San Francisco, CA;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Burbank, CA;Las Vegas, NV;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Burbank, CA;Oakland, CA;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Burbank, CA;Phoenix, AZ;Southwest Airlines				8.43;9.55;7.69
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Burbank, CA;San Jose, CA;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Burbank, CA;Sacramento, CA;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Baltimore, MD;Albuquerque, NM;Southwest Airlines				9.82;9.55;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Baltimore, MD;Albany, NY;Southwest Airlines				8.7;9.55;8.14
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Baltimore, MD;Atlanta, GA;Southwest Airlines				9.46;9.55;9.4
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Bozeman, MT;Denver, CO;United Airlines				8.51;7.35;9.29
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Bozeman, MT;Newark, NJ;United Airlines				8.65;7.35;9.52
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Bozeman, MT;Chicago, IL;United Airlines				8.77;7.35;9.71
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Bozeman, MT;Seattle, WA;SkyWest Airlines				10.0;10.0;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Cedar Rapids/Iowa City, IA;Detroit, MI;SkyWest Airlines				10.0;10.0;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Cleveland, OH;Denver, CO;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Cleveland, OH;Newark, NJ;United Airlines				8.74;7.35;9.66
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Cleveland, OH;Orlando, FL;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Charlotte, NC;Atlanta, GA;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Cincinnati, OH;Orlando, FL;Delta Airways				8.47;6.2;9.99
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Dallas, TX;Washington, DC;Virgin America				9.98;9.95;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Dallas, TX;Las Vegas, NV;Virgin America				9.97;9.95;9.99
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Dallas, TX;Los Angeles, CA;Virgin America				9.98;9.95;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Dallas, TX;New York, NY;Virgin America				9.98;9.95;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Dallas, TX;San Francisco, CA;Virgin America				9.98;9.95;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Washington, DC;Atlanta, GA;Delta Airways				8.25;6.2;9.61
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Washington, DC;Dallas, TX;Virgin America				9.98;9.95;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Washington, DC;Salt Lake City, UT;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Denver, CO;Albuquerque, NM;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Denver, CO;Billings, MT;United Airlines				8.93;7.35;9.99
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Denver, CO;Boston, MA;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Denver, CO;Baltimore, MD;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Denver, CO;Bozeman, MT;United Airlines				8.93;7.35;9.99
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Denver, CO;Columbus, OH;United Airlines				8.83;7.35;9.81
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Denver, CO;Washington, DC;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Denver, CO;Dallas/Fort Worth, TX;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Denver, CO;Des Moines, IA;United Airlines				8.76;7.35;9.7
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Denver, CO;Detroit, MI;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Denver, CO;Newark, NJ;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Denver, CO;Honolulu, HI;United Airlines				8.42;7.35;9.14
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Denver, CO;Washington, DC;United Airlines				8.87;7.35;9.88
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Denver, CO;Houston, TX;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Denver, CO;Los Angeles, CA;United Airlines				8.62;7.35;9.47
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Denver, CO;New York, NY;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Denver, CO;Orlando, FL;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Denver, CO;New Orleans, LA;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Denver, CO;Chicago, IL;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Denver, CO;Reno, NV;United Airlines				8.9;7.35;9.94
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Denver, CO;San Diego, CA;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Denver, CO;Seattle, WA;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Denver, CO;Tampa, FL;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Dallas/Fort Worth, TX;Denver, CO;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Dallas/Fort Worth, TX;Detroit, MI;American Airlines				8.57;7.3;9.42
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Dallas/Fort Worth, TX;Washington, DC;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Dallas/Fort Worth, TX;Seattle, WA;Alaska Airlines				9.74;9.4;9.97
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Dallas/Fort Worth, TX;Salt Lake City, UT;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Des Moines, IA;Chicago, IL;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Detroit, MI;Baltimore, MD;Delta Airways				8.38;6.2;9.84
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Detroit, MI;Denver, CO;United Airlines				8.55;7.35;9.35
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Detroit, MI;Dallas/Fort Worth, TX;American Airlines				8.92;7.3;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Detroit, MI;Green Bay, WI;SkyWest Airlines				9.98;10.0;9.97
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Detroit, MI;Philadelphia, PA;Delta Airways				8.43;6.2;9.92
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Detroit, MI;San Diego, CA;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Detroit, MI;Salt Lake City, UT;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+El Paso, TX;Atlanta, GA;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Newark, NJ;Denver, CO;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Newark, NJ;Hayden, CO;United Airlines				8.84;7.35;9.83
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Newark, NJ;Orlando, FL;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Newark, NJ;San Juan, PR;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Fairbanks, AK;Seattle, WA;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Fort Lauderdale, FL;Denver, CO;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Flint, MI;Atlanta, GA;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Sioux Falls, SD;Chicago, IL;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Green Bay, WI;Detroit, MI;SkyWest Airlines				10.0;10.0;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Grand Rapids, MI;Atlanta, GA;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Honolulu, HI;Atlanta, GA;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Honolulu, HI;Denver, CO;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Honolulu, HI;Las Vegas, NV;Hawaiian Airlines				9.98;9.95;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Honolulu, HI;Portland, OR;Hawaiian Airlines				9.98;9.95;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Honolulu, HI;San Francisco, CA;United Airlines				8.68;7.35;9.57
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Honolulu, HI;Sacramento, CA;Hawaiian Airlines				9.98;9.95;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Washington, DC;Boston, MA;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Washington, DC;Denver, CO;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Washington, DC;Houston, TX;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Washington, DC;Las Vegas, NV;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Washington, DC;Los Angeles, CA;Virgin America				9.98;9.95;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Washington, DC;Orlando, FL;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Washington, DC;Chicago, IL;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Washington, DC;Phoenix, AZ;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Washington, DC;Seattle, WA;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Washington, DC;San Francisco, CA;Virgin America				9.59;9.95;9.35
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Washington, DC;Tampa, FL;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Houston, TX;Washington, DC;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Houston, TX;Jackson, WY;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Houston, TX;Los Angeles, CA;United Airlines				8.76;7.35;9.7
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Houston, TX;New Orleans, LA;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Houston, TX;Raleigh/Durham, NC;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Houston, TX;San Antonio, TX;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Houston, TX;San Francisco, CA;United Airlines				8.65;7.35;9.52
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Houston, TX;Salt Lake City, UT;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Wichita, KS;Denver, CO;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Indianapolis, IN;San Francisco, CA;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Jackson, WY;Denver, CO;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Jackson, WY;San Francisco, CA;United Airlines				8.87;7.35;9.88
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Las Vegas, NV;Bellingham, WA;Alaska Airlines				9.63;9.4;9.79
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Las Vegas, NV;Cincinnati, OH;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Las Vegas, NV;Dallas, TX;Virgin America				9.84;9.95;9.77
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Las Vegas, NV;Honolulu, HI;Hawaiian Airlines				9.94;9.95;9.94
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Las Vegas, NV;Washington, DC;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Las Vegas, NV;Houston, TX;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Las Vegas, NV;Los Angeles, CA;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Las Vegas, NV;Portland, OR;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Las Vegas, NV;Seattle, WA;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Las Vegas, NV;San Francisco, CA;Virgin America				9.98;9.95;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Los Angeles, CA;Anchorage, AK;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Los Angeles, CA;Dallas, TX;Virgin America				9.98;9.95;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Los Angeles, CA;Denver, CO;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Los Angeles, CA;Newark, NJ;United Airlines				8.93;7.35;9.99
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Los Angeles, CA;Washington, DC;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Los Angeles, CA;Minneapolis, MN;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Los Angeles, CA;Kahului, HI;Hawaiian Airlines				9.98;9.95;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Los Angeles, CA;Kahului, HI;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Los Angeles, CA;Chicago, IL;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Los Angeles, CA;Portland, OR;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Los Angeles, CA;Seattle, WA;Alaska Airlines				9.12;9.4;8.93
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Los Angeles, CA;Seattle, WA;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Los Angeles, CA;Seattle, WA;Virgin America				9.98;9.95;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Los Angeles, CA;San Francisco, CA;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+New York, NY;Atlanta, GA;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+New York, NY;Dallas, TX;Virgin America				9.98;9.95;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+New York, NY;Denver, CO;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+New York, NY;Denver, CO;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+New York, NY;Miami, FL;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+New York, NY;Chicago, IL;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Saginaw/Bay City/Midland, MI;Detroit, MI;SkyWest Airlines				10.0;10.0;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Kansas City, MO;Minneapolis, MN;Delta Airways				8.47;6.2;9.99
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Orlando, FL;Atlanta, GA;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Orlando, FL;Cincinnati, OH;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Orlando, FL;Washington, DC;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Orlando, FL;Houston, TX;United Airlines				8.78;7.35;9.73
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Orlando, FL;New York, NY;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Orlando, FL;San Francisco, CA;United Airlines				8.75;7.35;9.69
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Miami, FL;Denver, CO;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Miami, FL;New York, NY;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Miami, FL;Chicago, IL;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Milwaukee, WI;Cincinnati, OH;SkyWest Airlines				9.96;10.0;9.94
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Minneapolis, MN;Albuquerque, NM;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Minneapolis, MN;Atlanta, GA;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Minneapolis, MN;Boston, MA;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Minneapolis, MN;Fargo, ND;Delta Airways				8.34;6.2;9.76
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Minneapolis, MN;Houston, TX;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Minneapolis, MN;Madison, WI;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Minneapolis, MN;Phoenix, AZ;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Minneapolis, MN;Tucson, AZ;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+New Orleans, LA;Atlanta, GA;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+New Orleans, LA;Denver, CO;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Montrose/Delta, CO;Chicago, IL;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Myrtle Beach, SC;Atlanta, GA;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Oakland, CA;Seattle, WA;Alaska Airlines				9.74;9.4;9.97
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Kahului, HI;Los Angeles, CA;Hawaiian Airlines				9.98;9.95;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Kahului, HI;Los Angeles, CA;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Kahului, HI;Chicago, IL;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Omaha, NE;Denver, CO;United Airlines				8.85;7.35;9.85
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Omaha, NE;Salt Lake City, UT;SkyWest Airlines				5.71;10.0;2.85
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Nome, AK;Anchorage, AK;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Chicago, IL;Columbus, OH;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Chicago, IL;Denver, CO;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Chicago, IL;Houston, TX;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Chicago, IL;Los Angeles, CA;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Chicago, IL;Orlando, FL;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Chicago, IL;Miami, FL;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Chicago, IL;Phoenix, AZ;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Chicago, IL;San Diego, CA;United Airlines				8.87;7.35;9.89
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Chicago, IL;San Francisco, CA;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Chicago, IL;Tampa, FL;United Airlines				8.83;7.35;9.82
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Norfolk, VA;Atlanta, GA;Delta Airways				8.47;6.2;9.98
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Kotzebue, AK;Anchorage, AK;Alaska Airlines				9.26;9.4;9.17
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Kotzebue, AK;Nome, AK;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+West Palm Beach/Palm Beach, FL;Atlanta, GA;Delta Airways				8.46;6.2;9.97
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+West Palm Beach/Palm Beach, FL;New York, NY;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Portland, OR;Anchorage, AK;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Portland, OR;Dallas/Fort Worth, TX;Alaska Airlines				9.72;9.4;9.93
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Portland, OR;Newark, NJ;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Portland, OR;Honolulu, HI;Hawaiian Airlines				9.43;9.95;9.08
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Portland, OR;Las Vegas, NV;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Portland, OR;Los Angeles, CA;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Portland, OR;Chicago, IL;United Airlines				8.74;7.35;9.66
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Portland, OR;Phoenix, AZ;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Portland, OR;Palm Springs, CA;Alaska Airlines				7.2;9.4;5.73
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Portland, OR;San Francisco, CA;Alaska Airlines				9.09;9.4;8.88
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Portland, OR;San Francisco, CA;United Airlines				8.57;7.35;9.38
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Portland, OR;San Jose, CA;Alaska Airlines				9.22;9.4;9.1
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Portland, OR;Santa Ana, CA;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Philadelphia, PA;Atlanta, GA;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Philadelphia, PA;Denver, CO;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Philadelphia, PA;Detroit, MI;Delta Airways				8.28;6.2;9.67
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Phoenix, AZ;Detroit, MI;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Phoenix, AZ;Washington, DC;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Phoenix, AZ;Houston, TX;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Phoenix, AZ;Seattle, WA;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Phoenix, AZ;Seattle, WA;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Phoenix, AZ;San Francisco, CA;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Palm Springs, CA;Portland, OR;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Palm Springs, CA;San Francisco, CA;Alaska Airlines				8.9;9.4;8.56
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Palm Springs, CA;San Francisco, CA;Virgin America				9.98;9.95;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Richmond, VA;Chicago, IL;United Airlines				8.85;7.35;9.85
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Fort Myers, FL;Denver, CO;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Fort Myers, FL;Minneapolis, MN;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Fort Myers, FL;Chicago, IL;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Diego, CA;Denver, CO;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Diego, CA;Houston, TX;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Diego, CA;Seattle, WA;Alaska Airlines				9.74;9.4;9.96
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Diego, CA;San Francisco, CA;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Diego, CA;San Francisco, CA;Virgin America				9.98;9.95;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+South Bend, IN;Atlanta, GA;SkyWest Airlines				8.98;10.0;8.3
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Seattle, WA;Anchorage, AK;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Seattle, WA;Detroit, MI;Delta Airways				8.47;6.2;9.99
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Seattle, WA;Fairbanks, AK;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Seattle, WA;New York, NY;American Airlines				8.92;7.3;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Seattle, WA;Las Vegas, NV;Alaska Airlines				9.52;9.4;9.6
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Seattle, WA;Las Vegas, NV;Delta Airways				8.47;6.2;9.99
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Seattle, WA;Los Angeles, CA;Alaska Airlines				9.71;9.4;9.92
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Seattle, WA;Los Angeles, CA;Virgin America				9.96;9.95;9.97
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Seattle, WA;Orlando, FL;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Seattle, WA;Oakland, CA;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Seattle, WA;Chicago, IL;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Seattle, WA;Portland, OR;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Seattle, WA;Phoenix, AZ;Alaska Airlines				9.59;9.4;9.71
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Seattle, WA;Phoenix, AZ;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Seattle, WA;San Diego, CA;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Seattle, WA;San Francisco, CA;Alaska Airlines				7.93;9.4;6.95
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Seattle, WA;San Francisco, CA;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Seattle, WA;San Francisco, CA;Virgin America				9.98;9.95;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Seattle, WA;San Jose, CA;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Seattle, WA;Sacramento, CA;Alaska Airlines				9.47;9.4;9.52
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Seattle, WA;Sacramento, CA;SkyWest Airlines				9.9;10.0;9.83
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Seattle, WA;Santa Ana, CA;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Seattle, WA;Tucson, AZ;Alaska Airlines				9.67;9.4;9.85
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Francisco, CA;Dallas, TX;Virgin America				9.98;9.95;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Francisco, CA;Detroit, MI;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Francisco, CA;Newark, NJ;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Francisco, CA;Honolulu, HI;United Airlines				6.13;7.35;5.31
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Francisco, CA;Washington, DC;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Francisco, CA;Washington, DC;Virgin America				9.96;9.95;9.97
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Francisco, CA;Houston, TX;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Francisco, CA;Las Vegas, NV;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Francisco, CA;Las Vegas, NV;Virgin America				9.98;9.95;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Francisco, CA;Orlando, FL;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Francisco, CA;Portland, OR;Alaska Airlines				9.41;9.4;9.42
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Francisco, CA;Portland, OR;Virgin America				9.82;9.95;9.73
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Francisco, CA;Pittsburgh, PA;United Airlines				8.84;7.35;9.83
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Francisco, CA;Palm Springs, CA;Alaska Airlines				8.51;9.4;7.91
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Francisco, CA;San Diego, CA;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Francisco, CA;San Diego, CA;Virgin America				9.98;9.95;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Francisco, CA;Seattle, WA;Alaska Airlines				9.01;9.4;8.75
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Francisco, CA;Seattle, WA;United Airlines				8.85;7.35;9.85
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Francisco, CA;Seattle, WA;Virgin America				9.98;9.95;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Jose, CA;Los Angeles, CA;SkyWest Airlines				10.0;10.0;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Jose, CA;Portland, OR;Alaska Airlines				6.54;9.4;4.63
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Jose, CA;Seattle, WA;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Jose, CA;Salt Lake City, UT;SkyWest Airlines				6.47;10.0;4.12
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Juan, PR;Cleveland, OH;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+San Juan, PR;Houston, TX;United Airlines				7.93;7.35;8.32
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Salt Lake City, UT;Houston, TX;SkyWest Airlines				9.77;10.0;9.61
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Salt Lake City, UT;San Antonio, TX;SkyWest Airlines				4.91;10.0;1.52
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Salt Lake City, UT;Seattle, WA;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Salt Lake City, UT;San Jose, CA;SkyWest Airlines				8.29;10.0;7.15
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Sacramento, CA;Honolulu, HI;Hawaiian Airlines				3.98;9.95;0.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Sacramento, CA;Seattle, WA;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Santa Ana, CA;Denver, CO;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Santa Ana, CA;Portland, OR;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Santa Ana, CA;Seattle, WA;Alaska Airlines				9.76;9.4;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Santa Ana, CA;San Francisco, CA;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Sarasota/Bradenton, FL;Chicago, IL;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Charlotte Amalie, VI;Atlanta, GA;Delta Airways				8.48;6.2;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Tampa, FL;Denver, CO;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Tampa, FL;Newark, NJ;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Tampa, FL;Washington, DC;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Tucson, AZ;Denver, CO;United Airlines				8.94;7.35;10.0
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Tucson, AZ;Minneapolis, MN;Delta Airways				8.46;6.2;9.97
+
+Source;	Destination	;Airline						TotalRating;PerformanceRating;SafetyRating
+Tucson, AZ;Seattle, WA;Alaska Airlines				9.76;9.4;10.0
+

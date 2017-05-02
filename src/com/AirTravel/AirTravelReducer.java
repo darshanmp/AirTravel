@@ -165,12 +165,12 @@ public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
 	{
 		//What is the best time to travel day/week/time of year to minimize delays?		
 		Set<Entry<String, Double>> setDelay = sortByValues(htDelay).entrySet();
-		System.out.println("What is the best time to travel day/week/time of year to minimize delays?(Top 10)");
+		System.out.println("What is the best time to travel in a month to minimize delays?(Top 10)");
 		Iterator<Entry<String, Double>> iDelay = setDelay.iterator();
 		for (int i = 0; iDelay.hasNext() && i < 10; i++) {
 			@SuppressWarnings("rawtypes")
 			Map.Entry mDelay = (Map.Entry)iDelay.next();
-			System.out.print("TimeStamp: " + mDelay.getKey());
+			System.out.print("January:Day " + mDelay.getKey());
 			System.out.print(";Delay: "+ mDelay.getValue());
 			System.out.println();
 		}
@@ -178,7 +178,7 @@ public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
 		//Which airports have higher delays (Top 10) ?
 		System.out.println();
 		Set<Entry<String, Double>> setAirport = sortByValues(htAirportDelay).entrySet();
-		System.out.println("Which airports have higher delays(Top 10) ?");
+		System.out.println("Which airports have lesser delays(Top 10) ?");
 		Iterator<Entry<String, Double>> iAirport = setAirport.iterator();
 		for (int i = 0; iAirport.hasNext() && i < 10; i++) {
 			@SuppressWarnings("rawtypes")
@@ -192,12 +192,12 @@ public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
 		//Which airline has the highest delay on an average?	
 		System.out.println();
 		Set<Entry<String, Double>> setAirline = sortByValues(htAirlineDelay).entrySet();
-		System.out.println("Which airline has the highest delay on an average?(Top 10)");
+		System.out.println("Which airline has the least delay on an average?(Top 10)");
 		Iterator<Entry<String, Double>> iAirline = setAirline.iterator();
 		for (int i = 0; iAirline.hasNext() && i < 10; i++) {
 			@SuppressWarnings("rawtypes")
 			Map.Entry mAirline = (Map.Entry)iAirline.next();
-			System.out.print("Airport: " + MappingCodes.getAirlineMap(mAirline.getKey().toString()));
+			System.out.print("Airline: " + MappingCodes.getAirlineMap(mAirline.getKey().toString()));
 			System.out.print(";Delay: "+ mAirline.getValue());
 			System.out.println();
 		}

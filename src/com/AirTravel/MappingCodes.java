@@ -58,6 +58,13 @@ public class MappingCodes {
 		htAirlineCodes.put("UA", "United Airlines");
 		htAirlineCodes.put("VX", "Virgin America");
 		htAirlineCodes.put("WN", "Southwest Airlines");
+		htAirlineCodes.put("MQ", "American Eagle");
+		htAirlineCodes.put("9E", "Endeavor Air");
+		htAirlineCodes.put("CO", "Continental Airlines");
+		htAirlineCodes.put("XE", "Express Jet");
+		htAirlineCodes.put("US", "US Airways");
+		htAirlineCodes.put("FL", "AirTran");
+
 	}
 	public static  void LoadSourceDest()
 	{
@@ -158,5 +165,55 @@ public class MappingCodes {
 		htSrcDest.put("ECP","Panama City, FL");
 		htSrcDest.put("JAX","Jacksonville, FL");
 		htSrcDest.put("ALB","Albany, NY");
+		htSrcDest.put("LIH","Lihue, HI");
+		htSrcDest.put("ITO","Hilo, HI");
+		htSrcDest.put("KOA","Kalaoa, HI");
+		htSrcDest.put("AZO","Kalamazoo, MI");
+		htSrcDest.put("ACT","Waco, TX");
+		htSrcDest.put("ABE","Lehigh County, PA");
+		htSrcDest.put("AMA","Amarillo, TX");
+		htSrcDest.put("MAF","Midland County, TX");
+		htSrcDest.put("ABY","Albany, GA");
+		htSrcDest.put("ACV","McKinleyville, CA");
+		htSrcDest.put("ADK","Adak Island, AK");
+		htSrcDest.put("ADQ","Kodiak Station, AK");
+		htSrcDest.put("AEX","Rapides Parish, LA");
+		htSrcDest.put("AGS","Augusta, GA");
+		htSrcDest.put("MEI","Meridian, MS");
+		htSrcDest.put("MDT","Dauphin County, PA");
+		htSrcDest.put("MLB","Melbourne, FL");
+		htSrcDest.put("MLI","Rock Island County, IL");
+		htSrcDest.put("PHF","Newport News, VA");
+		htSrcDest.put("PWM","Portland, ME");
+		htSrcDest.put("ROA","Roanoke, VA");
+		htSrcDest.put("ROC","Rochester, NY");
+		htSrcDest.put("SAV","Savannah, GA");
+		htSrcDest.put("SDF","Louisville, KY");
+		htSrcDest.put("VPS","Okaloosa County, FL");
+		htSrcDest.put("BMI","Bloomington, IL");
+		htSrcDest.put("BKG","Taney County, MS");
+		htSrcDest.put("BOI","Boise, ID");
+		htSrcDest.put("BUF","Cheektowaga, NY");
+		htSrcDest.put("CAK","Green, OH");
+		htSrcDest.put("BRW","Barrow, AK");
+		htSrcDest.put("SCC","Prudhoe Bay, AK");
+		htSrcDest.put("BTV","South Burlington, VT");
+		htSrcDest.put("EGE","Gypsum, CO");
+		htSrcDest.put("FAT","Fresno, CA");
+		htSrcDest.put("FCA","Flathead County, MT");
+		htSrcDest.put("GEG","Spokane County, WA");
+		htSrcDest.put("GSO","Guilford County, NC");
+		htSrcDest.put("GSP","Spartanburg County, SC");
+		htSrcDest.put("HPN","Harrison, NY");
+		htSrcDest.put("HSV","Huntsville, AL");
+		htSrcDest.put("ISP","Ronkonkoma, NY");
+		htSrcDest.put("LEX","Lexington, KY");
+		htSrcDest.put("LGB","Long Beach, CA");
+		htSrcDest.put("LIT","Little Rock, AR");
+		htSrcDest.put("MEM","Memphis, TN");
+		htSrcDest.put("OKC","Oklahoma City, OK");
+		htSrcDest.put("XNA","Highfill, AR");
+//		htSrcDest.put("","");
+
 	}
 }

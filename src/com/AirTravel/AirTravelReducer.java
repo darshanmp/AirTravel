@@ -170,23 +170,10 @@ public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
 		for (int i = 0; iDelay.hasNext() && i < 10; i++) {
 			@SuppressWarnings("rawtypes")
 			Map.Entry mDelay = (Map.Entry)iDelay.next();
-			System.out.print("Key: " + mDelay.getKey() + " ");
-			System.out.print("Value:"+ mDelay.getValue());
+			System.out.print("TimeStamp: " + mDelay.getKey());
+			System.out.print(";Delay: "+ mDelay.getValue());
 			System.out.println();
 		}
-
-		//How many cancelled flights in average for source-destination?
-//		System.out.println();
-//		Set<Entry<String, Double>> setCancelFlights = sortByValues(htCancelFlights).entrySet();
-//		System.out.println("How many cancelled flights in average for source-destination?");
-//		Iterator<Entry<String, Double>> iCancelFlights = setCancelFlights.iterator();
-//		for (; iCancelFlights.hasNext();) {
-//			@SuppressWarnings("rawtypes")
-//			Map.Entry mCancelFlights = (Map.Entry)iCancelFlights.next();
-//			System.out.print("Key: " + mCancelFlights.getKey() + " ");
-//			System.out.print("Value:"+ mCancelFlights.getValue());
-//			System.out.println();
-//		}
 
 		//Which airports have higher delays (Top 10) ?
 		System.out.println();
@@ -196,8 +183,9 @@ public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
 		for (int i = 0; iAirport.hasNext() && i < 10; i++) {
 			@SuppressWarnings("rawtypes")
 			Map.Entry mAirport = (Map.Entry)iAirport.next();
-			System.out.print("Key: " + mAirport.getKey() + " ");
-			System.out.print("Value:"+ mAirport.getValue());
+			String t1 = mAirport.getKey().toString();
+			System.out.print("Airport: " + MappingCodes.getSrcDest(t1));
+			System.out.print(";Delay: "+ mAirport.getValue());
 			System.out.println();
 		}
  
@@ -209,8 +197,8 @@ public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
 		for (int i = 0; iAirline.hasNext() && i < 10; i++) {
 			@SuppressWarnings("rawtypes")
 			Map.Entry mAirline = (Map.Entry)iAirline.next();
-			System.out.print("Key: " + mAirline.getKey() + " ");
-			System.out.print("Value:"+ mAirline.getValue());
+			System.out.print("Airport: " + MappingCodes.getAirlineMap(mAirline.getKey().toString()));
+			System.out.print(";Delay: "+ mAirline.getValue());
 			System.out.println();
 		}
 		

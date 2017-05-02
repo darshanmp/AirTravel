@@ -1,17 +1,18 @@
 package com.AirTravel;
 
-import java.util.HashMap;
 import java.util.Hashtable;
 
 public class MappingCodes {
-	private static Hashtable<String, String> htAirlineCodes = null;
-	private static Hashtable<String, String> htSrcDest = null;
+	private static Hashtable<String, String> htAirlineCodes = new  Hashtable<String, String> ();
+	private static Hashtable<String, String> htSrcDest = new  Hashtable<String, String> ();
     private MappingCodes()
 	{
     	
 	}
     public static String getAirlineMap(String airlinecode)
     {
+    	if(htAirlineCodes.size() == 0)
+    		LoadAirlineMap();
     	if(htAirlineCodes.containsKey(airlinecode))
     	{
     		return htAirlineCodes.get(airlinecode);
@@ -26,6 +27,10 @@ public class MappingCodes {
     
     public static String getSrcDest(String loc)
     {
+    	if(htSrcDest.size() == 0)
+    	{
+    		LoadSourceDest();
+    	}
     	if(htSrcDest.containsKey(loc))
     	{
     		return htSrcDest.get(loc);

@@ -24,7 +24,7 @@ public class RatingAlgorithm {
 		Double totalRating = Math.round(tempRat * 100.0) / 100.0;		
 		//System.out.println(totalRating);
 		
-		Double[] ratings = new Double[] {totalRating, safetyRating, perfRating};
+		Double[] ratings = new Double[] {totalRating,perfRating,safetyRating };
 		return ratings;
 	}
 	public Double calcSafetyRating(String airlineCode)

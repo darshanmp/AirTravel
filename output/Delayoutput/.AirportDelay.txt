@@ -1,17 +1,12 @@
 What is the best time to travel in a month to minimize delays?
 
-January:Day 1:14 ;  Delay 46569.0
-January:Day 1:31 ;  Delay 58622.0
-January:Day 1:13 ;  Delay 66029.0
-January:Day 1:24 ;  Delay 69539.0
-January:Day 1:30 ;  Delay 89771.0
-January:Day 1:29 ;  Delay 92933.0
-January:Day 1:28 ;  Delay 107824.0
-January:Day 1:15 ;  Delay 109172.0
-January:Day 1:27 ;  Delay 112139.0
-January:Day 1:26 ;  Delay 113434.0
+Day: 14
+Day: 31
+Day: 13
+Day: 24
+Day: 30
 
-Which airports have lesser delays(Top 10) ?
+Which airports have lesser delays on average? (Top 10)
 
 Airport: Honolulu, HI
 Airport: Lihue, HI
@@ -24,7 +19,7 @@ Airport: Waco, TX
 Airport: Bellingham, WA
 Airport: Kotzebue, AK
 
-Which airline has the least delay on an average?(Top 10)
+Which airlines have lesser delays on an average?(Top 10)
 
 Airline: Hawaiian Airlines
 Airline: American Eagle

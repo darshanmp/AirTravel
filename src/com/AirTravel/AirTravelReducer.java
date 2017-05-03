@@ -174,12 +174,13 @@ public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
 		Iterator<Entry<String, Double>> iDelay = setDelay.iterator();
 		f0.write("What is the best time to travel in a month to minimize delays?" + newLine);
 		f0.write(newLine);
-		for (int i = 0; iDelay.hasNext() && i < 10; i++) {
+		for (int i = 0; iDelay.hasNext() && i < 5; i++) {
 			@SuppressWarnings("rawtypes")
-
 			Map.Entry mDelay = (Map.Entry)iDelay.next();
-			f0.write("January:Day "+ mDelay.getKey() + " ; "  +  " Delay "+ mDelay.getValue()  + newLine);
-			System.out.print("January:Day " + mDelay.getKey());
+			String sep =mDelay.getKey().toString();
+			String day[]=sep.split(":");
+			f0.write("Day: "+ day[1] + newLine);
+			System.out.print("Day: " + day[1]);
 			System.out.print(";Delay: "+ mDelay.getValue());
 			System.out.println();
 		}
@@ -191,7 +192,7 @@ public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
 		System.out.println("Which airports have lesser delays(Top 10) ?");
 		Iterator<Entry<String, Double>> iAirport = setAirport.iterator();
 		f0.write(newLine);
-		f0.write("Which airports have lesser delays(Top 10) ?" + newLine);
+		f0.write("Which airports have lesser delays on average? (Top 10)" + newLine);
 		f0.write(newLine);
 		for (int i = 0; iAirport.hasNext() && i < 10; i++) {
 			@SuppressWarnings("rawtypes")
@@ -209,7 +210,7 @@ public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
 		System.out.println();
 		Set<Entry<String, Double>> setAirline = sortByValues(htAirlineDelay).entrySet();
 		System.out.println("Which airline has the least delay on an average?(Top 10)");
-		f0.write("Which airline has the least delay on an average?(Top 10)"+ newLine);
+		f0.write("Which airlines have lesser delays on an average?(Top 10)"+ newLine);
 		f0.write(newLine);
 		Iterator<Entry<String, Double>> iAirline = setAirline.iterator();
 		for (int i = 0; iAirline.hasNext() && i < 10; i++) {

@@ -20,7 +20,7 @@ public class MappingCodes {
     	}
     	else
     	{
-    		System.out.println("Airline Key not found" + airlinecode);
+    		//System.out.println("Airline Key not found" + airlinecode);
     		return airlinecode;
     	}
     }
@@ -38,7 +38,7 @@ public class MappingCodes {
     	}
     	else
     	{
-    		System.out.println("Location Key not found" + loc);
+    		//System.out.println("htSrcDest.put(" + "\"" + loc + "\"" + "," + '"' + '"' + ");");
     		return loc;
     	}
     }
@@ -213,7 +213,13 @@ public class MappingCodes {
 		htSrcDest.put("MEM","Memphis, TN");
 		htSrcDest.put("OKC","Oklahoma City, OK");
 		htSrcDest.put("XNA","Highfill, AR");
-//		htSrcDest.put("","");
+		htSrcDest.put("ACY","Atlantic County, NJ");
+		htSrcDest.put("BET","Bethel, AK");
+		htSrcDest.put("CDV"," Cordova, AK");
+		htSrcDest.put("DLG","Dillingham, AK");
+		htSrcDest.put("JNU","Juneau, AK");
+		htSrcDest.put("TUL","Tulsa County, OK");
+		htSrcDest.put("TYS"," Blount County, TN");
 
 	}
 }

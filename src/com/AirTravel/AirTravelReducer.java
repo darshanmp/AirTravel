@@ -6,12 +6,14 @@ package com.AirTravel;
  */
 
 
-import java.io.IOException;
+import java.io.*;
 import java.util.*;
 import java.util.Map.Entry;
 import org.apache.hadoop.mapreduce.Reducer;
 import org.apache.hadoop.mapreduce.lib.output.MultipleOutputs;
 import org.apache.hadoop.io.Text;
+
+import javax.swing.*;
 
 /**
  * @author mac
@@ -161,47 +163,64 @@ public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
 			htAirlineDelay.put(key, val);
 		}
 	}
-	private void Output2()
-	{
+	private void Output2() throws IOException {
+
+		String Airportfile="./output/Delayoutput/.AirportDelay.txt";
+		FileWriter f0 = new FileWriter(Airportfile);
+		String newLine = System.getProperty("line.separator");
 		//What is the best time to travel day/week/time of year to minimize delays?		
 		Set<Entry<String, Double>> setDelay = sortByValues(htDelay).entrySet();
 		System.out.println("What is the best time to travel in a month to minimize delays?(Top 10)");
 		Iterator<Entry<String, Double>> iDelay = setDelay.iterator();
+		f0.write("What is the best time to travel in a month to minimize delays?" + newLine);
+		f0.write(newLine);
 		for (int i = 0; iDelay.hasNext() && i < 10; i++) {
 			@SuppressWarnings("rawtypes")
+
 			Map.Entry mDelay = (Map.Entry)iDelay.next();
+			f0.write("January:Day "+ mDelay.getKey() + " ; "  +  " Delay "+ mDelay.getValue()  + newLine);
 			System.out.print("January:Day " + mDelay.getKey());
 			System.out.print(";Delay: "+ mDelay.getValue());
 			System.out.println();
 		}
+
 
 		//Which airports have higher delays (Top 10) ?
 		System.out.println();
 		Set<Entry<String, Double>> setAirport = sortByValues(htAirportDelay).entrySet();
 		System.out.println("Which airports have lesser delays(Top 10) ?");
 		Iterator<Entry<String, Double>> iAirport = setAirport.iterator();
+		f0.write(newLine);
+		f0.write("Which airports have lesser delays(Top 10) ?" + newLine);
+		f0.write(newLine);
 		for (int i = 0; iAirport.hasNext() && i < 10; i++) {
 			@SuppressWarnings("rawtypes")
 			Map.Entry mAirport = (Map.Entry)iAirport.next();
 			String t1 = mAirport.getKey().toString();
+			f0.write("Airport: " +MappingCodes.getSrcDest(t1) + newLine );
+			//f0.write("Airport: "+ MappingCodes.getSrcDest(t1)  + ";Delay: " + mAirport.getValue()  + newLine);
 			System.out.print("Airport: " + MappingCodes.getSrcDest(t1));
 			System.out.print(";Delay: "+ mAirport.getValue());
 			System.out.println();
 		}
+		f0.write(newLine);
  
 		//Which airline has the highest delay on an average?	
 		System.out.println();
 		Set<Entry<String, Double>> setAirline = sortByValues(htAirlineDelay).entrySet();
 		System.out.println("Which airline has the least delay on an average?(Top 10)");
+		f0.write("Which airline has the least delay on an average?(Top 10)"+ newLine);
+		f0.write(newLine);
 		Iterator<Entry<String, Double>> iAirline = setAirline.iterator();
 		for (int i = 0; iAirline.hasNext() && i < 10; i++) {
 			@SuppressWarnings("rawtypes")
 			Map.Entry mAirline = (Map.Entry)iAirline.next();
+			f0.write("Airline: " + MappingCodes.getAirlineMap(mAirline.getKey().toString()) + newLine ); //";Delay " + mAirline.getValue() + newLine);
 			System.out.print("Airline: " + MappingCodes.getAirlineMap(mAirline.getKey().toString()));
 			System.out.print(";Delay: "+ mAirline.getValue());
 			System.out.println();
 		}
-		
+		f0.close();
 	}
 
 	protected void cleanup(Context context) throws IOException,

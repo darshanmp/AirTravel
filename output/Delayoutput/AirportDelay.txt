@@ -1,0 +1,33 @@
+What is the best time to travel in a month to minimize delays?
+
+Day: 14
+Day: 31
+Day: 13
+Day: 24
+Day: 30
+
+Which airports have lesser delays on average? (Top 10)
+
+Airport: Honolulu, HI
+Airport: Lihue, HI
+Airport: Kahului, HI
+Airport: Hilo, HI
+Airport: Kalaoa, HI
+Airport: Fairbanks, AK
+Airport: Kalamazoo, MI
+Airport: Waco, TX
+Airport: Bellingham, WA
+Airport: Kotzebue, AK
+
+Which airlines have lesser delays on an average?(Top 10)
+
+Airline: Hawaiian Airlines
+Airline: American Eagle
+Airline: Frontier Airlines
+Airline: Endeavor Air
+Airline: Continental Airlines
+Airline: SkyWest Airlines
+Airline: Express Jet
+Airline: AirTran
+Airline: Alaska Airlines
+Airline: Virgin America

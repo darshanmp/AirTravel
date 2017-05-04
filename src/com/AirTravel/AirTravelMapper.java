@@ -43,7 +43,6 @@ public class AirTravelMapper extends Mapper<Text, Text, Text, Text> {
             }
 
             String newVal = build.toString();
-
             context.write(new Text(newKey), new Text(newVal));
 
         }

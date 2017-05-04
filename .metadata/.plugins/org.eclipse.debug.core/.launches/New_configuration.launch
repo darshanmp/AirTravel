@@ -8,6 +8,6 @@
 </listAttribute>
 <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_START_ON_FIRST_THREAD" value="true"/>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.AirTravel.AirTravelJob"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="F:\Courses\CloudComputing\Project\AirTravel\inputfiles\testingfile.csv&#13;&#10;F:\Courses\CloudComputing\Project\AirTravel\output\reducer1&#13;&#10;F:\Courses\CloudComputing\Project\AirTravel\output\reducer2"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="F:\Courses\CloudComputing\Project\AirTravel\inputfiles\Prediction_dataset.csv&#13;&#10;F:\Courses\CloudComputing\Project\AirTravel\output\reducer1&#13;&#10;F:\Courses\CloudComputing\Project\AirTravel\output\reducer2"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="AirTravel"/>
 </launchConfiguration>

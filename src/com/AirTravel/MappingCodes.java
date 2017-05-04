@@ -66,7 +66,7 @@ public class MappingCodes {
 		htAirlineCodes.put("FL", "AirTran");
 
 	}
-	public static  void LoadSourceDest()
+	public static void LoadSourceDest()
 	{
 		htSrcDest = new Hashtable<String, String>();
 		htSrcDest.put("PSP","Palm Springs, CA");

@@ -1,0 +1,2650 @@
+YEAR,MONTH,DAY_OF_MONTH,CARRIER,ORIGIN,ORIGIN_CITY_NAME,DEST,DEST_CITY_NAME,DEP_DEL15,ARR_DEL15,DELAY
+2007,1,4,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",0,1,TRUE
+2007,1,5,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",0,0,FALSE
+2007,1,6,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",0,0,FALSE
+2007,1,7,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",1,1,TRUE
+2007,1,8,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",0,0,FALSE
+2007,1,9,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",1,1,TRUE
+2007,1,10,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",1,1,TRUE
+2007,1,11,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",0,1,TRUE
+2007,1,12,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",0,1,TRUE
+2007,1,13,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",0,0,FALSE
+2007,1,14,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",1,1,TRUE
+2007,1,15,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",1,0,TRUE
+2007,1,16,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",0,0,FALSE
+2007,1,17,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",0,0,FALSE
+2007,1,18,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",0,1,TRUE
+2007,1,19,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",0,0,FALSE
+2007,1,20,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",0,0,FALSE
+2007,1,21,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",1,1,TRUE
+2007,1,22,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",0,1,TRUE
+2007,1,23,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",0,0,FALSE
+2007,1,24,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",0,0,FALSE
+2007,1,25,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",0,0,FALSE
+2007,1,26,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",1,1,TRUE
+2007,1,27,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",0,0,FALSE
+2007,1,28,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",1,0,TRUE
+2007,1,29,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",0,0,FALSE
+2007,1,30,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",0,0,FALSE
+2007,1,31,AA,SJU,"San Juan, PR",ORD,"Chicago, IL",0,0,FALSE
+2007,1,1,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",0,0,FALSE
+2007,1,2,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",0,0,FALSE
+2007,1,3,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",0,0,FALSE
+2007,1,4,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",,,FALSE
+2007,1,5,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",,,FALSE
+2007,1,7,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",0,0,FALSE
+2007,1,8,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",0,0,FALSE
+2007,1,9,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",0,0,FALSE
+2007,1,10,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",0,0,FALSE
+2007,1,11,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",0,0,FALSE
+2007,1,12,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",0,0,FALSE
+2007,1,14,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",0,1,TRUE
+2007,1,15,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",1,1,TRUE
+2007,1,16,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",,,FALSE
+2007,1,17,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",0,0,FALSE
+2007,1,18,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",0,0,FALSE
+2007,1,19,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",1,1,TRUE
+2007,1,21,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",1,1,TRUE
+2007,1,23,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",0,0,FALSE
+2007,1,24,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",0,0,FALSE
+2007,1,25,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",0,0,FALSE
+2007,1,26,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",1,1,TRUE
+2007,1,28,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",1,1,TRUE
+2007,1,29,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",0,0,FALSE
+2007,1,30,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",,,FALSE
+2007,1,31,AA,ORD,"Chicago, IL",STL,"St. Louis, MO",0,0,FALSE
+2007,1,1,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",0,0,FALSE
+2007,1,2,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",1,1,TRUE
+2007,1,3,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",0,0,FALSE
+2007,1,4,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",1,1,TRUE
+2007,1,5,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",0,0,FALSE
+2007,1,7,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",0,0,FALSE
+2007,1,8,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",0,0,FALSE
+2007,1,9,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",0,0,FALSE
+2007,1,10,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",0,0,FALSE
+2007,1,11,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",0,0,FALSE
+2007,1,12,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",,,FALSE
+2007,1,14,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",0,0,FALSE
+2007,1,15,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",1,1,TRUE
+2007,1,16,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",0,0,FALSE
+2007,1,17,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",1,1,TRUE
+2007,1,18,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",1,0,TRUE
+2007,1,19,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",1,1,TRUE
+2007,1,21,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",0,0,FALSE
+2007,1,22,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",1,0,TRUE
+2007,1,23,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",0,0,FALSE
+2007,1,24,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",0,0,FALSE
+2007,1,25,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",0,0,FALSE
+2007,1,26,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",0,0,FALSE
+2007,1,28,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",0,0,FALSE
+2007,1,29,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",1,1,TRUE
+2007,1,30,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",0,0,FALSE
+2007,1,31,AA,DFW,"Dallas/Fort Worth, TX",XNA,"Fayetteville, AR",1,1,TRUE
+2007,1,1,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,2,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,3,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,4,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,5,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,6,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,7,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,8,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,9,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,10,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,11,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,12,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,13,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",,,FALSE
+2007,1,14,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",,,FALSE
+2007,1,15,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",,,FALSE
+2007,1,16,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,17,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",1,1,TRUE
+2007,1,18,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,19,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,20,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,21,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",1,1,TRUE
+2007,1,22,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,23,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",1,1,TRUE
+2007,1,24,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,25,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,26,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,27,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,28,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,29,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,30,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,31,AA,MCI,"Kansas City, MO",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,1,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",1,1,TRUE
+2007,1,2,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",1,1,TRUE
+2007,1,3,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",1,0,TRUE
+2007,1,4,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,1,TRUE
+2007,1,5,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",1,1,TRUE
+2007,1,6,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,7,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,8,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,9,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,10,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,11,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,1,TRUE
+2007,1,12,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,13,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,14,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,15,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,16,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,17,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,18,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,19,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,20,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,21,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,22,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,23,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,24,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,25,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,26,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,27,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",1,1,TRUE
+2007,1,28,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,29,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,30,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,31,AA,FLL,"Fort Lauderdale, FL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,1,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",1,1,TRUE
+2007,1,2,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",1,1,TRUE
+2007,1,3,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,4,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,5,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",1,1,TRUE
+2007,1,6,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,7,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,8,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,9,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,10,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,11,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,12,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,13,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,14,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,15,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,16,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,17,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,18,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,19,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,20,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,21,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,22,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,23,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,24,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,25,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,26,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,27,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,28,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,29,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,30,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,31,AA,SJU,"San Juan, PR",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,1,AA,BOS,"Boston, MA",ORD,"Chicago, IL",1,1,TRUE
+2007,1,2,AA,BOS,"Boston, MA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,3,AA,BOS,"Boston, MA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,4,AA,BOS,"Boston, MA",ORD,"Chicago, IL",1,1,TRUE
+2007,1,5,AA,BOS,"Boston, MA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,6,AA,BOS,"Boston, MA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,7,AA,BOS,"Boston, MA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,8,AA,BOS,"Boston, MA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,9,AA,BOS,"Boston, MA",ORD,"Chicago, IL",1,1,TRUE
+2007,1,10,AA,BOS,"Boston, MA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,11,AA,BOS,"Boston, MA",ORD,"Chicago, IL",1,1,TRUE
+2007,1,12,AA,BOS,"Boston, MA",ORD,"Chicago, IL",1,1,TRUE
+2007,1,13,AA,BOS,"Boston, MA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,14,AA,BOS,"Boston, MA",ORD,"Chicago, IL",1,1,TRUE
+2007,1,15,AA,BOS,"Boston, MA",ORD,"Chicago, IL",0,1,TRUE
+2007,1,16,AA,BOS,"Boston, MA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,17,AA,BOS,"Boston, MA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,18,AA,BOS,"Boston, MA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,19,AA,BOS,"Boston, MA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,20,AA,BOS,"Boston, MA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,21,AA,BOS,"Boston, MA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,22,AA,BOS,"Boston, MA",ORD,"Chicago, IL",1,0,TRUE
+2007,1,23,AA,BOS,"Boston, MA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,24,AA,BOS,"Boston, MA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,25,AA,BOS,"Boston, MA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,26,AA,BOS,"Boston, MA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,27,AA,BOS,"Boston, MA",ORD,"Chicago, IL",,,FALSE
+2007,1,28,AA,BOS,"Boston, MA",ORD,"Chicago, IL",1,1,TRUE
+2007,1,29,AA,BOS,"Boston, MA",ORD,"Chicago, IL",1,1,TRUE
+2007,1,30,AA,BOS,"Boston, MA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,31,AA,BOS,"Boston, MA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,1,AA,MIA,"Miami, FL",LGA,"New York, NY",,,FALSE
+2007,1,2,AA,MIA,"Miami, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,3,AA,MIA,"Miami, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,4,AA,MIA,"Miami, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,5,AA,MIA,"Miami, FL",LGA,"New York, NY",,,FALSE
+2007,1,7,AA,MIA,"Miami, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,8,AA,MIA,"Miami, FL",LGA,"New York, NY",1,1,TRUE
+2007,1,9,AA,MIA,"Miami, FL",LGA,"New York, NY",1,1,TRUE
+2007,1,10,AA,MIA,"Miami, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,11,AA,MIA,"Miami, FL",LGA,"New York, NY",1,1,TRUE
+2007,1,12,AA,MIA,"Miami, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,14,AA,MIA,"Miami, FL",LGA,"New York, NY",1,1,TRUE
+2007,1,15,AA,MIA,"Miami, FL",LGA,"New York, NY",1,1,TRUE
+2007,1,16,AA,MIA,"Miami, FL",LGA,"New York, NY",,,FALSE
+2007,1,17,AA,MIA,"Miami, FL",LGA,"New York, NY",0,1,TRUE
+2007,1,18,AA,MIA,"Miami, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,19,AA,MIA,"Miami, FL",LGA,"New York, NY",1,1,TRUE
+2007,1,21,AA,MIA,"Miami, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,22,AA,MIA,"Miami, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,23,AA,MIA,"Miami, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,24,AA,MIA,"Miami, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,25,AA,MIA,"Miami, FL",LGA,"New York, NY",0,1,TRUE
+2007,1,26,AA,MIA,"Miami, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,28,AA,MIA,"Miami, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,29,AA,MIA,"Miami, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,30,AA,MIA,"Miami, FL",LGA,"New York, NY",1,0,TRUE
+2007,1,31,AA,MIA,"Miami, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,1,AA,SJU,"San Juan, PR",MIA,"Miami, FL",,,FALSE
+2007,1,2,AA,SJU,"San Juan, PR",MIA,"Miami, FL",0,0,FALSE
+2007,1,3,AA,SJU,"San Juan, PR",MIA,"Miami, FL",0,0,FALSE
+2007,1,4,AA,SJU,"San Juan, PR",MIA,"Miami, FL",0,0,FALSE
+2007,1,5,AA,SJU,"San Juan, PR",MIA,"Miami, FL",1,1,TRUE
+2007,1,6,AA,SJU,"San Juan, PR",MIA,"Miami, FL",0,0,FALSE
+2007,1,7,AA,SJU,"San Juan, PR",MIA,"Miami, FL",0,0,FALSE
+2007,1,8,AA,SJU,"San Juan, PR",MIA,"Miami, FL",1,0,TRUE
+2007,1,9,AA,SJU,"San Juan, PR",MIA,"Miami, FL",1,1,TRUE
+2007,1,10,AA,SJU,"San Juan, PR",MIA,"Miami, FL",0,0,FALSE
+2007,1,11,AA,SJU,"San Juan, PR",MIA,"Miami, FL",0,0,FALSE
+2007,1,12,AA,SJU,"San Juan, PR",MIA,"Miami, FL",0,0,FALSE
+2007,1,13,AA,SJU,"San Juan, PR",MIA,"Miami, FL",0,0,FALSE
+2007,1,14,AA,SJU,"San Juan, PR",MIA,"Miami, FL",0,0,FALSE
+2007,1,15,AA,SJU,"San Juan, PR",MIA,"Miami, FL",1,1,TRUE
+2007,1,16,AA,SJU,"San Juan, PR",MIA,"Miami, FL",0,0,FALSE
+2007,1,17,AA,SJU,"San Juan, PR",MIA,"Miami, FL",1,1,TRUE
+2007,1,18,AA,SJU,"San Juan, PR",MIA,"Miami, FL",0,0,FALSE
+2007,1,19,AA,SJU,"San Juan, PR",MIA,"Miami, FL",0,0,FALSE
+2007,1,20,AA,SJU,"San Juan, PR",MIA,"Miami, FL",0,0,FALSE
+2007,1,21,AA,SJU,"San Juan, PR",MIA,"Miami, FL",0,0,FALSE
+2007,1,22,AA,SJU,"San Juan, PR",MIA,"Miami, FL",0,0,FALSE
+2007,1,23,AA,SJU,"San Juan, PR",MIA,"Miami, FL",0,0,FALSE
+2007,1,24,AA,SJU,"San Juan, PR",MIA,"Miami, FL",0,0,FALSE
+2007,1,25,AA,SJU,"San Juan, PR",MIA,"Miami, FL",0,0,FALSE
+2007,1,26,AA,SJU,"San Juan, PR",MIA,"Miami, FL",0,0,FALSE
+2007,1,27,AA,SJU,"San Juan, PR",MIA,"Miami, FL",0,0,FALSE
+2007,1,28,AA,SJU,"San Juan, PR",MIA,"Miami, FL",0,0,FALSE
+2007,1,29,AA,SJU,"San Juan, PR",MIA,"Miami, FL",0,0,FALSE
+2007,1,30,AA,SJU,"San Juan, PR",MIA,"Miami, FL",0,0,FALSE
+2007,1,31,AA,SJU,"San Juan, PR",MIA,"Miami, FL",0,0,FALSE
+2007,1,6,AA,DFW,"Dallas/Fort Worth, TX",HDN,"Hayden, CO",0,0,FALSE
+2007,1,13,AA,DFW,"Dallas/Fort Worth, TX",HDN,"Hayden, CO",1,1,TRUE
+2007,1,20,AA,DFW,"Dallas/Fort Worth, TX",HDN,"Hayden, CO",0,0,FALSE
+2007,1,27,AA,DFW,"Dallas/Fort Worth, TX",HDN,"Hayden, CO",1,0,TRUE
+2007,1,1,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",1,1,TRUE
+2007,1,2,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",1,0,TRUE
+2007,1,3,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",0,0,FALSE
+2007,1,4,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",0,0,FALSE
+2007,1,5,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",0,0,FALSE
+2007,1,6,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",0,0,FALSE
+2007,1,7,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",0,0,FALSE
+2007,1,8,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",0,0,FALSE
+2007,1,9,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",0,0,FALSE
+2007,1,10,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",0,0,FALSE
+2007,1,11,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",0,0,FALSE
+2007,1,12,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",1,1,TRUE
+2007,1,13,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",0,0,FALSE
+2007,1,14,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",1,1,TRUE
+2007,1,15,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",1,1,TRUE
+2007,1,16,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",1,1,TRUE
+2007,1,17,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",1,1,TRUE
+2007,1,18,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",1,1,TRUE
+2007,1,19,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",0,0,FALSE
+2007,1,20,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",,,FALSE
+2007,1,21,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",1,0,TRUE
+2007,1,22,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",1,1,TRUE
+2007,1,23,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",0,0,FALSE
+2007,1,24,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",0,0,FALSE
+2007,1,25,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",0,0,FALSE
+2007,1,26,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",0,0,FALSE
+2007,1,27,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",0,0,FALSE
+2007,1,28,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",0,0,FALSE
+2007,1,29,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",0,0,FALSE
+2007,1,30,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",1,1,TRUE
+2007,1,31,AA,DFW,"Dallas/Fort Worth, TX",OMA,"Omaha, NE",1,1,TRUE
+2007,1,1,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",1,1,TRUE
+2007,1,2,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",1,1,TRUE
+2007,1,3,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,4,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",1,1,TRUE
+2007,1,5,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,6,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,7,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,8,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,9,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,10,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,11,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,12,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",0,1,TRUE
+2007,1,13,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",,,FALSE
+2007,1,14,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",1,1,TRUE
+2007,1,15,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",1,1,TRUE
+2007,1,16,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,17,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,18,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,19,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,20,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",0,1,TRUE
+2007,1,21,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",1,1,TRUE
+2007,1,22,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,23,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,24,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,25,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",1,1,TRUE
+2007,1,26,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,27,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,28,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,29,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,30,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",1,1,TRUE
+2007,1,31,AA,FLL,"Fort Lauderdale, FL",DFW,"Dallas/Fort Worth, TX",1,1,TRUE
+2007,1,1,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,2,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",1,1,TRUE
+2007,1,3,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,4,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,5,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,6,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,7,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,8,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,9,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,10,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,11,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,12,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",,,FALSE
+2007,1,13,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",1,1,TRUE
+2007,1,14,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",1,1,TRUE
+2007,1,15,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",1,1,TRUE
+2007,1,16,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,17,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",1,1,TRUE
+2007,1,18,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",1,1,TRUE
+2007,1,19,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,20,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,21,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,22,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,23,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,24,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,25,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,26,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,27,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,28,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",1,1,TRUE
+2007,1,29,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,30,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,31,AA,DFW,"Dallas/Fort Worth, TX",RSW,"Fort Myers, FL",1,1,TRUE
+2007,1,1,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,2,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",1,0,TRUE
+2007,1,3,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,4,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,5,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,6,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,7,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,8,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,9,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,10,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,11,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,13,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",,,FALSE
+2007,1,14,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",1,1,TRUE
+2007,1,15,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",1,1,TRUE
+2007,1,16,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",,,FALSE
+2007,1,17,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",,,FALSE
+2007,1,18,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",1,1,TRUE
+2007,1,19,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,20,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,21,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,22,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,23,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,24,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,25,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,26,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,27,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,28,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,29,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,30,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,31,AA,SAT,"San Antonio, TX",DFW,"Dallas/Fort Worth, TX",1,1,TRUE
+2007,1,1,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,2,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,3,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,4,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",0,1,TRUE
+2007,1,5,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",1,1,TRUE
+2007,1,6,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,7,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,8,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,9,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",1,1,TRUE
+2007,1,10,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,11,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,12,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,13,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,14,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",1,1,TRUE
+2007,1,15,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",1,1,TRUE
+2007,1,16,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",1,1,TRUE
+2007,1,17,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,18,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,19,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,20,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,21,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",1,1,TRUE
+2007,1,22,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,23,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",1,0,TRUE
+2007,1,24,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,25,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,26,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",1,1,TRUE
+2007,1,27,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,28,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",1,1,TRUE
+2007,1,29,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,30,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,31,AA,ORD,"Chicago, IL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,1,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",0,0,FALSE
+2007,1,2,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",1,1,TRUE
+2007,1,3,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",0,0,FALSE
+2007,1,4,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",0,0,FALSE
+2007,1,5,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",0,0,FALSE
+2007,1,6,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",,,FALSE
+2007,1,7,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",0,0,FALSE
+2007,1,8,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",1,0,TRUE
+2007,1,9,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",0,0,FALSE
+2007,1,10,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",0,0,FALSE
+2007,1,11,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",0,0,FALSE
+2007,1,12,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",0,0,FALSE
+2007,1,13,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",1,1,TRUE
+2007,1,14,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",,,FALSE
+2007,1,15,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",1,0,TRUE
+2007,1,16,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",0,0,FALSE
+2007,1,17,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",1,1,TRUE
+2007,1,18,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",0,0,FALSE
+2007,1,19,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",0,0,FALSE
+2007,1,20,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",0,0,FALSE
+2007,1,21,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",1,1,TRUE
+2007,1,22,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",0,0,FALSE
+2007,1,23,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",1,1,TRUE
+2007,1,24,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",0,0,FALSE
+2007,1,25,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",0,0,FALSE
+2007,1,26,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",0,0,FALSE
+2007,1,27,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",0,0,FALSE
+2007,1,28,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",1,1,TRUE
+2007,1,29,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",1,1,TRUE
+2007,1,30,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",0,0,FALSE
+2007,1,31,AA,DFW,"Dallas/Fort Worth, TX",BWI,"Baltimore, MD",0,1,TRUE
+2007,1,1,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,2,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,3,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,4,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,5,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,6,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,7,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,8,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,9,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,10,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,11,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,12,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,13,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,14,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",,,FALSE
+2007,1,15,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",1,1,TRUE
+2007,1,16,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,17,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",,,FALSE
+2007,1,18,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,19,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,20,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,21,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,22,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,23,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",1,1,TRUE
+2007,1,24,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,25,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,26,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,27,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,28,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,29,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,30,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,31,AA,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,1,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,2,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,3,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,4,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,5,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,1,TRUE
+2007,1,6,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,7,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,8,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,9,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,10,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,11,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,12,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,13,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,14,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",1,1,TRUE
+2007,1,15,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",1,1,TRUE
+2007,1,16,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",1,1,TRUE
+2007,1,17,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,18,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,19,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",1,0,TRUE
+2007,1,20,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,21,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,22,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,23,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,24,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,25,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,26,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,27,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,28,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,29,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,30,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",,,FALSE
+2007,1,31,AA,ORD,"Chicago, IL",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,1,AA,MIA,"Miami, FL",TPA,"Tampa, FL",0,0,FALSE
+2007,1,2,AA,MIA,"Miami, FL",TPA,"Tampa, FL",1,1,TRUE
+2007,1,8,AA,MIA,"Miami, FL",TPA,"Tampa, FL",0,0,FALSE
+2007,1,9,AA,MIA,"Miami, FL",TPA,"Tampa, FL",0,0,FALSE
+2007,1,15,AA,MIA,"Miami, FL",TPA,"Tampa, FL",0,0,FALSE
+2007,1,16,AA,MIA,"Miami, FL",TPA,"Tampa, FL",0,0,FALSE
+2007,1,22,AA,MIA,"Miami, FL",TPA,"Tampa, FL",1,1,TRUE
+2007,1,23,AA,MIA,"Miami, FL",TPA,"Tampa, FL",0,0,FALSE
+2007,1,29,AA,MIA,"Miami, FL",TPA,"Tampa, FL",0,0,FALSE
+2007,1,30,AA,MIA,"Miami, FL",TPA,"Tampa, FL",0,0,FALSE
+2007,1,1,AA,MIA,"Miami, FL",EWR,"Newark, NJ",,,FALSE
+2007,1,2,AA,MIA,"Miami, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,3,AA,MIA,"Miami, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,4,AA,MIA,"Miami, FL",EWR,"Newark, NJ",0,0,FALSE
+2007,1,5,AA,MIA,"Miami, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,6,AA,MIA,"Miami, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,7,AA,MIA,"Miami, FL",EWR,"Newark, NJ",0,0,FALSE
+2007,1,8,AA,MIA,"Miami, FL",EWR,"Newark, NJ",1,0,TRUE
+2007,1,9,AA,MIA,"Miami, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,10,AA,MIA,"Miami, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,11,AA,MIA,"Miami, FL",EWR,"Newark, NJ",0,1,TRUE
+2007,1,12,AA,MIA,"Miami, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,13,AA,MIA,"Miami, FL",EWR,"Newark, NJ",0,0,FALSE
+2007,1,14,AA,MIA,"Miami, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,15,AA,MIA,"Miami, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,16,AA,MIA,"Miami, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,17,AA,MIA,"Miami, FL",EWR,"Newark, NJ",,,FALSE
+2007,1,18,AA,MIA,"Miami, FL",EWR,"Newark, NJ",0,1,TRUE
+2007,1,19,AA,MIA,"Miami, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,20,AA,MIA,"Miami, FL",EWR,"Newark, NJ",0,1,TRUE
+2007,1,21,AA,MIA,"Miami, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,22,AA,MIA,"Miami, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,23,AA,MIA,"Miami, FL",EWR,"Newark, NJ",0,0,FALSE
+2007,1,24,AA,MIA,"Miami, FL",EWR,"Newark, NJ",0,0,FALSE
+2007,1,25,AA,MIA,"Miami, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,26,AA,MIA,"Miami, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,27,AA,MIA,"Miami, FL",EWR,"Newark, NJ",0,0,FALSE
+2007,1,28,AA,MIA,"Miami, FL",EWR,"Newark, NJ",0,0,FALSE
+2007,1,29,AA,MIA,"Miami, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,30,AA,MIA,"Miami, FL",EWR,"Newark, NJ",0,0,FALSE
+2007,1,31,AA,MIA,"Miami, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,1,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",0,0,FALSE
+2007,1,2,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",0,0,FALSE
+2007,1,3,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",1,1,TRUE
+2007,1,4,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",0,0,FALSE
+2007,1,5,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",,,FALSE
+2007,1,6,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",0,0,FALSE
+2007,1,7,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",0,0,FALSE
+2007,1,8,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",1,1,TRUE
+2007,1,9,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",1,1,TRUE
+2007,1,10,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",0,0,FALSE
+2007,1,11,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",0,0,FALSE
+2007,1,12,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",0,0,FALSE
+2007,1,13,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",0,0,FALSE
+2007,1,14,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",0,0,FALSE
+2007,1,15,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",1,1,TRUE
+2007,1,16,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",0,0,FALSE
+2007,1,17,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",1,1,TRUE
+2007,1,18,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",0,0,FALSE
+2007,1,19,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",1,1,TRUE
+2007,1,20,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",0,0,FALSE
+2007,1,21,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",1,1,TRUE
+2007,1,22,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",0,0,FALSE
+2007,1,23,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",1,0,TRUE
+2007,1,24,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",0,0,FALSE
+2007,1,25,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",0,0,FALSE
+2007,1,26,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",0,0,FALSE
+2007,1,27,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",0,0,FALSE
+2007,1,28,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",0,0,FALSE
+2007,1,29,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",0,0,FALSE
+2007,1,30,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",0,0,FALSE
+2007,1,31,AA,BWI,"Baltimore, MD",MIA,"Miami, FL",0,0,FALSE
+2007,1,2,AA,MIA,"Miami, FL",MSY,"New Orleans, LA",0,0,FALSE
+2007,1,3,AA,MIA,"Miami, FL",MSY,"New Orleans, LA",0,0,FALSE
+2007,1,5,AA,MIA,"Miami, FL",MSY,"New Orleans, LA",0,0,FALSE
+2007,1,7,AA,MIA,"Miami, FL",MSY,"New Orleans, LA",0,0,FALSE
+2007,1,9,AA,MIA,"Miami, FL",MSY,"New Orleans, LA",1,1,TRUE
+2007,1,10,AA,MIA,"Miami, FL",MSY,"New Orleans, LA",0,0,FALSE
+2007,1,12,AA,MIA,"Miami, FL",MSY,"New Orleans, LA",0,0,FALSE
+2007,1,14,AA,MIA,"Miami, FL",MSY,"New Orleans, LA",0,0,FALSE
+2007,1,16,AA,MIA,"Miami, FL",MSY,"New Orleans, LA",0,0,FALSE
+2007,1,17,AA,MIA,"Miami, FL",MSY,"New Orleans, LA",1,1,TRUE
+2007,1,19,AA,MIA,"Miami, FL",MSY,"New Orleans, LA",0,0,FALSE
+2007,1,21,AA,MIA,"Miami, FL",MSY,"New Orleans, LA",0,0,FALSE
+2007,1,23,AA,MIA,"Miami, FL",MSY,"New Orleans, LA",0,0,FALSE
+2007,1,24,AA,MIA,"Miami, FL",MSY,"New Orleans, LA",0,0,FALSE
+2007,1,26,AA,MIA,"Miami, FL",MSY,"New Orleans, LA",0,0,FALSE
+2007,1,28,AA,MIA,"Miami, FL",MSY,"New Orleans, LA",0,0,FALSE
+2007,1,30,AA,MIA,"Miami, FL",MSY,"New Orleans, LA",0,0,FALSE
+2007,1,1,AA,MIA,"Miami, FL",MCO,"Orlando, FL",1,1,TRUE
+2007,1,2,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,0,FALSE
+2007,1,3,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,1,TRUE
+2007,1,4,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,0,FALSE
+2007,1,5,AA,MIA,"Miami, FL",MCO,"Orlando, FL",1,1,TRUE
+2007,1,6,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,0,FALSE
+2007,1,7,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,0,FALSE
+2007,1,8,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,0,FALSE
+2007,1,9,AA,MIA,"Miami, FL",MCO,"Orlando, FL",1,1,TRUE
+2007,1,10,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,0,FALSE
+2007,1,11,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,0,FALSE
+2007,1,12,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,0,FALSE
+2007,1,13,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,1,TRUE
+2007,1,14,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,0,FALSE
+2007,1,15,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,0,FALSE
+2007,1,16,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,0,FALSE
+2007,1,17,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,0,FALSE
+2007,1,18,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,0,FALSE
+2007,1,19,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,0,FALSE
+2007,1,20,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,0,FALSE
+2007,1,21,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,0,FALSE
+2007,1,22,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,0,FALSE
+2007,1,23,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,0,FALSE
+2007,1,24,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,0,FALSE
+2007,1,25,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,0,FALSE
+2007,1,26,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,0,FALSE
+2007,1,27,AA,MIA,"Miami, FL",MCO,"Orlando, FL",1,1,TRUE
+2007,1,28,AA,MIA,"Miami, FL",MCO,"Orlando, FL",1,1,TRUE
+2007,1,29,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,0,FALSE
+2007,1,30,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,0,FALSE
+2007,1,31,AA,MIA,"Miami, FL",MCO,"Orlando, FL",0,0,FALSE
+2007,1,1,AA,MIA,"Miami, FL",DEN,"Denver, CO",1,1,TRUE
+2007,1,2,AA,MIA,"Miami, FL",DEN,"Denver, CO",0,0,FALSE
+2007,1,3,AA,MIA,"Miami, FL",DEN,"Denver, CO",0,0,FALSE
+2007,1,4,AA,MIA,"Miami, FL",DEN,"Denver, CO",0,0,FALSE
+2007,1,5,AA,MIA,"Miami, FL",DEN,"Denver, CO",0,0,FALSE
+2007,1,6,AA,MIA,"Miami, FL",DEN,"Denver, CO",0,0,FALSE
+2007,1,7,AA,MIA,"Miami, FL",DEN,"Denver, CO",0,1,TRUE
+2007,1,8,AA,MIA,"Miami, FL",DEN,"Denver, CO",0,0,FALSE
+2007,1,9,AA,MIA,"Miami, FL",DEN,"Denver, CO",0,1,TRUE
+2007,1,10,AA,MIA,"Miami, FL",DEN,"Denver, CO",0,0,FALSE
+2007,1,11,AA,MIA,"Miami, FL",DEN,"Denver, CO",0,0,FALSE
+2007,1,12,AA,MIA,"Miami, FL",DEN,"Denver, CO",0,0,FALSE
+2007,1,13,AA,MIA,"Miami, FL",DEN,"Denver, CO",0,0,FALSE
+2007,1,14,AA,MIA,"Miami, FL",DEN,"Denver, CO",0,0,FALSE
+2007,1,15,AA,MIA,"Miami, FL",DEN,"Denver, CO",0,0,FALSE
+2007,1,16,AA,MIA,"Miami, FL",DEN,"Denver, CO",0,0,FALSE
+2007,1,17,AA,MIA,"Miami, FL",DEN,"Denver, CO",0,0,FALSE
+2007,1,18,AA,MIA,"Miami, FL",DEN,"Denver, CO",0,0,FALSE
+2007,1,19,AA,MIA,"Miami, FL",DEN,"Denver, CO",0,0,FALSE
+2007,1,20,AA,MIA,"Miami, FL",DEN,"Denver, CO",0,0,FALSE
+2007,1,21,AA,MIA,"Miami, FL",DEN,"Denver, CO",0,0,FALSE
+2007,1,22,AA,MIA,"Miami, FL",DEN,"Denver, CO",0,0,FALSE
+2007,1,23,AA,MIA,"Miami, FL",DEN,"Denver, CO",0,0,FALSE
+2007,1,24,AA,MIA,"Miami, FL",DEN,"Denver, CO",0,0,FALSE
+2007,1,25,AA,MIA,"Miami, FL",DEN,"Denver, CO",1,1,TRUE
+2007,1,26,AA,MIA,"Miami, FL",DEN,"Denver, CO",0,0,FALSE
+2007,1,27,AA,MIA,"Miami, FL",DEN,"Denver, CO",0,0,FALSE
+2007,1,28,AA,MIA,"Miami, FL",DEN,"Denver, CO",1,1,TRUE
+2007,1,27,AS,ORD,"Chicago, IL",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,SNA,"Santa Ana, CA",PDX,"Portland, OR",0,0,FALSE
+2007,1,27,AS,PDX,"Portland, OR",OAK,"Oakland, CA",0,0,FALSE
+2007,1,27,AS,OAK,"Oakland, CA",SNA,"Santa Ana, CA",0,0,FALSE
+2007,1,27,AS,SNA,"Santa Ana, CA",OAK,"Oakland, CA",0,0,FALSE
+2007,1,27,AS,OAK,"Oakland, CA",PDX,"Portland, OR",0,0,FALSE
+2007,1,27,AS,PDX,"Portland, OR",LAS,"Las Vegas, NV",0,0,FALSE
+2007,1,27,AS,LAS,"Las Vegas, NV",PDX,"Portland, OR",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",LGB,"Long Beach, CA",0,1,TRUE
+2007,1,27,AS,LGB,"Long Beach, CA",SEA,"Seattle, WA",1,1,TRUE
+2007,1,27,AS,SEA,"Seattle, WA",ONT,"Ontario, CA",0,0,FALSE
+2007,1,27,AS,ONT,"Ontario, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,SAN,"San Diego, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",SMF,"Sacramento, CA",0,0,FALSE
+2007,1,27,AS,SMF,"Sacramento, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",ONT,"Ontario, CA",0,0,FALSE
+2007,1,27,AS,ONT,"Ontario, CA",SEA,"Seattle, WA",1,1,TRUE
+2007,1,27,AS,LAX,"Los Angeles, CA",SEA,"Seattle, WA",1,1,TRUE
+2007,1,27,AS,SEA,"Seattle, WA",TUS,"Tucson, AZ",0,0,FALSE
+2007,1,27,AS,TUS,"Tucson, AZ",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",LAX,"Los Angeles, CA",1,1,TRUE
+2007,1,27,AS,SFO,"San Francisco, CA",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,27,AS,DEN,"Denver, CO",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",DEN,"Denver, CO",0,0,FALSE
+2007,1,27,AS,SAN,"San Diego, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,LAX,"Los Angeles, CA",SEA,"Seattle, WA",1,1,TRUE
+2007,1,27,AS,DEN,"Denver, CO",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",DEN,"Denver, CO",0,0,FALSE
+2007,1,27,AS,ANC,"Anchorage, AK",SEA,"Seattle, WA",0,1,TRUE
+2007,1,27,AS,SEA,"Seattle, WA",SNA,"Santa Ana, CA",0,0,FALSE
+2007,1,27,AS,SNA,"Santa Ana, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",SAN,"San Diego, CA",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",SJC,"San Jose, CA",0,0,FALSE
+2007,1,27,AS,SJC,"San Jose, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,27,AS,LAX,"Los Angeles, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,27,AS,ANC,"Anchorage, AK",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,GEG,"Spokane, WA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,YAK,"Yakutat, AK",CDV,"Cordova, AK",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",JNU,"Juneau, AK",0,0,FALSE
+2007,1,27,AS,JNU,"Juneau, AK",YAK,"Yakutat, AK",0,0,FALSE
+2007,1,27,AS,CDV,"Cordova, AK",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,27,AS,YAK,"Yakutat, AK",JNU,"Juneau, AK",0,0,FALSE
+2007,1,27,AS,JNU,"Juneau, AK",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,CDV,"Cordova, AK",YAK,"Yakutat, AK",0,0,FALSE
+2007,1,27,AS,ANC,"Anchorage, AK",CDV,"Cordova, AK",0,0,FALSE
+2007,1,27,AS,ANC,"Anchorage, AK",FAI,"Fairbanks, AK",,,FALSE
+2007,1,27,AS,FAI,"Fairbanks, AK",ANC,"Anchorage, AK",,,FALSE
+2007,1,27,AS,ANC,"Anchorage, AK",FAI,"Fairbanks, AK",,,FALSE
+2007,1,27,AS,FAI,"Fairbanks, AK",ANC,"Anchorage, AK",,,FALSE
+2007,1,27,AS,ANC,"Anchorage, AK",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",SAN,"San Diego, CA",0,0,FALSE
+2007,1,27,AS,ANC,"Anchorage, AK",BET,"Bethel, AK",0,0,FALSE
+2007,1,27,AS,BET,"Bethel, AK",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,27,AS,ANC,"Anchorage, AK",DLG,"Dillingham, AK",0,0,FALSE
+2007,1,27,AS,DLG,"Dillingham, AK",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,27,AS,ANC,"Anchorage, AK",FAI,"Fairbanks, AK",0,0,FALSE
+2007,1,27,AS,FAI,"Fairbanks, AK",ANC,"Anchorage, AK",1,1,TRUE
+2007,1,27,AS,SEA,"Seattle, WA",DCA,"Washington, DC",1,1,TRUE
+2007,1,27,AS,ANC,"Anchorage, AK",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,LAX,"Los Angeles, CA",SEA,"Seattle, WA",1,1,TRUE
+2007,1,27,AS,SEA,"Seattle, WA",PSP,"Palm Springs, CA",0,0,FALSE
+2007,1,27,AS,PSP,"Palm Springs, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,OAK,"Oakland, CA",PDX,"Portland, OR",0,0,FALSE
+2007,1,27,AS,PDX,"Portland, OR",SJC,"San Jose, CA",0,0,FALSE
+2007,1,27,AS,SJC,"San Jose, CA",PDX,"Portland, OR",0,0,FALSE
+2007,1,27,AS,PDX,"Portland, OR",OAK,"Oakland, CA",0,0,FALSE
+2007,1,27,AS,OAK,"Oakland, CA",SNA,"Santa Ana, CA",0,0,FALSE
+2007,1,27,AS,SNA,"Santa Ana, CA",PDX,"Portland, OR",0,0,FALSE
+2007,1,27,AS,RNO,"Reno, NV",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",PHX,"Phoenix, AZ",0,0,FALSE
+2007,1,27,AS,PHX,"Phoenix, AZ",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",SAN,"San Diego, CA",0,0,FALSE
+2007,1,27,AS,SAN,"San Diego, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,SIT,"Sitka, AK",JNU,"Juneau, AK",0,0,FALSE
+2007,1,27,AS,JNU,"Juneau, AK",ANC,"Anchorage, AK",1,1,TRUE
+2007,1,27,AS,ANC,"Anchorage, AK",SEA,"Seattle, WA",1,1,TRUE
+2007,1,27,AS,SEA,"Seattle, WA",SMF,"Sacramento, CA",0,0,FALSE
+2007,1,27,AS,SMF,"Sacramento, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,LAX,"Los Angeles, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",JNU,"Juneau, AK",1,1,TRUE
+2007,1,27,AS,JNU,"Juneau, AK",SEA,"Seattle, WA",1,1,TRUE
+2007,1,27,AS,SFO,"San Francisco, CA",PSP,"Palm Springs, CA",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",SFO,"San Francisco, CA",0,0,FALSE
+2007,1,27,AS,SCC,"Deadhorse, AK",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,27,AS,FAI,"Fairbanks, AK",BRW,"Barrow, AK",0,0,FALSE
+2007,1,27,AS,BRW,"Barrow, AK",SCC,"Deadhorse, AK",0,0,FALSE
+2007,1,27,AS,ANC,"Anchorage, AK",FAI,"Fairbanks, AK",0,0,FALSE
+2007,1,27,AS,SCC,"Deadhorse, AK",BRW,"Barrow, AK",0,0,FALSE
+2007,1,27,AS,FAI,"Fairbanks, AK",ANC,"Anchorage, AK",,,FALSE
+2007,1,27,AS,BRW,"Barrow, AK",FAI,"Fairbanks, AK",0,0,FALSE
+2007,1,27,AS,ANC,"Anchorage, AK",SCC,"Deadhorse, AK",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",SFO,"San Francisco, CA",1,1,TRUE
+2007,1,27,AS,SFO,"San Francisco, CA",PDX,"Portland, OR",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",BOS,"Boston, MA",0,0,FALSE
+2007,1,27,AS,BOS,"Boston, MA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",MCO,"Orlando, FL",0,0,FALSE
+2007,1,27,AS,BUR,"Burbank, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",BUR,"Burbank, CA",0,0,FALSE
+2007,1,27,AS,MCO,"Orlando, FL",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,PDX,"Portland, OR",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,27,AS,SAN,"San Diego, CA",PDX,"Portland, OR",0,0,FALSE
+2007,1,27,AS,SFO,"San Francisco, CA",SAN,"San Diego, CA",0,0,FALSE
+2007,1,27,AS,EWR,"Newark, NJ",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",EWR,"Newark, NJ",0,0,FALSE
+2007,1,27,AS,WRG,"Wrangell, AK",KTN,"Ketchikan, AK",0,0,FALSE
+2007,1,27,AS,PSG,"Petersburg, AK",WRG,"Wrangell, AK",1,1,TRUE
+2007,1,27,AS,KTN,"Ketchikan, AK",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,JNU,"Juneau, AK",PSG,"Petersburg, AK",1,1,TRUE
+2007,1,27,AS,ANC,"Anchorage, AK",JNU,"Juneau, AK",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,27,AS,ANC,"Anchorage, AK",ORD,"Chicago, IL",0,0,FALSE
+2007,1,27,AS,FAI,"Fairbanks, AK",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,27,AS,DCA,"Washington, DC",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,ANC,"Anchorage, AK",FAI,"Fairbanks, AK",0,0,FALSE
+2007,1,27,AS,GEG,"Spokane, WA",SEA,"Seattle, WA",1,1,TRUE
+2007,1,27,AS,SEA,"Seattle, WA",GEG,"Spokane, WA",1,1,TRUE
+2007,1,27,AS,SFO,"San Francisco, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,PSP,"Palm Springs, CA",SFO,"San Francisco, CA",0,0,FALSE
+2007,1,27,AS,SFO,"San Francisco, CA",PSP,"Palm Springs, CA",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",LAS,"Las Vegas, NV",0,0,FALSE
+2007,1,27,AS,LAS,"Las Vegas, NV",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",DCA,"Washington, DC",0,0,FALSE
+2007,1,27,AS,DCA,"Washington, DC",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,FAI,"Fairbanks, AK",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",SFO,"San Francisco, CA",1,1,TRUE
+2007,1,27,AS,ANC,"Anchorage, AK",PDX,"Portland, OR",0,0,FALSE
+2007,1,27,AS,PDX,"Portland, OR",SJC,"San Jose, CA",0,0,FALSE
+2007,1,27,AS,SJC,"San Jose, CA",PDX,"Portland, OR",0,0,FALSE
+2007,1,27,AS,PDX,"Portland, OR",PHX,"Phoenix, AZ",0,0,FALSE
+2007,1,27,AS,PHX,"Phoenix, AZ",PDX,"Portland, OR",0,0,FALSE
+2007,1,27,AS,PDX,"Portland, OR",SFO,"San Francisco, CA",0,0,FALSE
+2007,1,27,AS,SFO,"San Francisco, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",ONT,"Ontario, CA",0,0,FALSE
+2007,1,27,AS,ONT,"Ontario, CA",SEA,"Seattle, WA",1,1,TRUE
+2007,1,27,AS,SEA,"Seattle, WA",BUR,"Burbank, CA",0,0,FALSE
+2007,1,27,AS,BUR,"Burbank, CA",SEA,"Seattle, WA",1,1,TRUE
+2007,1,27,AS,SEA,"Seattle, WA",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,27,AS,EWR,"Newark, NJ",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,27,AS,ORD,"Chicago, IL",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,27,AS,PDX,"Portland, OR",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,27,AS,PDX,"Portland, OR",DEN,"Denver, CO",0,0,FALSE
+2007,1,27,AS,DEN,"Denver, CO",PDX,"Portland, OR",0,0,FALSE
+2007,1,27,AS,PDX,"Portland, OR",DEN,"Denver, CO",0,0,FALSE
+2007,1,27,AS,DEN,"Denver, CO",PDX,"Portland, OR",0,0,FALSE
+2007,1,27,AS,PDX,"Portland, OR",LAX,"Los Angeles, CA",0,1,TRUE
+2007,1,27,AS,LAX,"Los Angeles, CA",ANC,"Anchorage, AK",1,1,TRUE
+2007,1,27,AS,SEA,"Seattle, WA",MCO,"Orlando, FL",0,1,TRUE
+2007,1,27,AS,MCO,"Orlando, FL",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",MIA,"Miami, FL",0,1,TRUE
+2007,1,27,AS,SEA,"Seattle, WA",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,27,AS,ANC,"Anchorage, AK",FAI,"Fairbanks, AK",0,0,FALSE
+2007,1,27,AS,FAI,"Fairbanks, AK",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,27,AS,ANC,"Anchorage, AK",SEA,"Seattle, WA",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",PHX,"Phoenix, AZ",0,0,FALSE
+2007,1,27,AS,SEA,"Seattle, WA",SAN,"San Diego, CA",0,0,FALSE
+2007,1,27,AS,SAN,"San Diego, CA",SFO,"San Francisco, CA",1,1,TRUE
+2007,1,27,AS,SFO,"San Francisco, CA",SAN,"San Diego, CA",1,1,TRUE
+2007,1,27,AS,SAN,"San Diego, CA",SFO,"San Francisco, CA",1,1,TRUE
+2007,1,27,AS,ANC,"Anchorage, AK",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,27,AS,LAX,"Los Angeles, CA",PDX,"Portland, OR",0,0,FALSE
+2007,1,27,AS,SJC,"San Jose, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,OAK,"Oakland, CA",SNA,"Santa Ana, CA",0,0,FALSE
+2007,1,26,AS,SNA,"Santa Ana, CA",PDX,"Portland, OR",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",EWR,"Newark, NJ",0,0,FALSE
+2007,1,26,AS,EWR,"Newark, NJ",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SIT,"Sitka, AK",JNU,"Juneau, AK",0,0,FALSE
+2007,1,26,AS,JNU,"Juneau, AK",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",SMF,"Sacramento, CA",0,0,FALSE
+2007,1,26,AS,SMF,"Sacramento, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",SAN,"San Diego, CA",0,0,FALSE
+2007,1,26,AS,SFO,"San Francisco, CA",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,26,AS,LAX,"Los Angeles, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,GEG,"Spokane, WA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,YAK,"Yakutat, AK",CDV,"Cordova, AK",,,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",JNU,"Juneau, AK",0,1,TRUE
+2007,1,26,AS,JNU,"Juneau, AK",YAK,"Yakutat, AK",1,,TRUE
+2007,1,26,AS,CDV,"Cordova, AK",ANC,"Anchorage, AK",,,FALSE
+2007,1,26,AS,YAK,"Yakutat, AK",JNU,"Juneau, AK",1,1,TRUE
+2007,1,26,AS,JNU,"Juneau, AK",SEA,"Seattle, WA",1,1,TRUE
+2007,1,26,AS,CDV,"Cordova, AK",YAK,"Yakutat, AK",1,1,TRUE
+2007,1,26,AS,ANC,"Anchorage, AK",CDV,"Cordova, AK",0,1,TRUE
+2007,1,26,AS,LAX,"Los Angeles, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",OAK,"Oakland, CA",0,1,TRUE
+2007,1,26,AS,OAK,"Oakland, CA",SEA,"Seattle, WA",1,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",GEG,"Spokane, WA",1,1,TRUE
+2007,1,26,AS,GEG,"Spokane, WA",SEA,"Seattle, WA",1,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",SJC,"San Jose, CA",0,0,FALSE
+2007,1,26,AS,ONT,"Ontario, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",RNO,"Reno, NV",0,0,FALSE
+2007,1,26,AS,RNO,"Reno, NV",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",SJC,"San Jose, CA",0,0,FALSE
+2007,1,26,AS,SJC,"San Jose, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",ONT,"Ontario, CA",1,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",OAK,"Oakland, CA",0,0,FALSE
+2007,1,26,AS,OAK,"Oakland, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",SMF,"Sacramento, CA",0,0,FALSE
+2007,1,26,AS,SMF,"Sacramento, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",ONT,"Ontario, CA",0,0,FALSE
+2007,1,26,AS,ONT,"Ontario, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,WRG,"Wrangell, AK",KTN,"Ketchikan, AK",0,0,FALSE
+2007,1,26,AS,PSG,"Petersburg, AK",WRG,"Wrangell, AK",0,0,FALSE
+2007,1,26,AS,KTN,"Ketchikan, AK",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,JNU,"Juneau, AK",PSG,"Petersburg, AK",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",JNU,"Juneau, AK",0,0,FALSE
+2007,1,26,AS,SIT,"Sitka, AK",KTN,"Ketchikan, AK",1,1,TRUE
+2007,1,26,AS,KTN,"Ketchikan, AK",SEA,"Seattle, WA",1,1,TRUE
+2007,1,26,AS,JNU,"Juneau, AK",SIT,"Sitka, AK",1,1,TRUE
+2007,1,26,AS,FAI,"Fairbanks, AK",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",JNU,"Juneau, AK",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",SNA,"Santa Ana, CA",0,0,FALSE
+2007,1,26,AS,SNA,"Santa Ana, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",LGB,"Long Beach, CA",0,1,TRUE
+2007,1,26,AS,LGB,"Long Beach, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",ONT,"Ontario, CA",0,0,FALSE
+2007,1,26,AS,ONT,"Ontario, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,PDX,"Portland, OR",PHX,"Phoenix, AZ",0,0,FALSE
+2007,1,26,AS,PHX,"Phoenix, AZ",PDX,"Portland, OR",0,0,FALSE
+2007,1,26,AS,PDX,"Portland, OR",SNA,"Santa Ana, CA",0,0,FALSE
+2007,1,26,AS,SNA,"Santa Ana, CA",OAK,"Oakland, CA",0,0,FALSE
+2007,1,26,AS,OAK,"Oakland, CA",PDX,"Portland, OR",0,0,FALSE
+2007,1,26,AS,PDX,"Portland, OR",LAX,"Los Angeles, CA",1,1,TRUE
+2007,1,26,AS,SNA,"Santa Ana, CA",PDX,"Portland, OR",0,0,FALSE
+2007,1,26,AS,PDX,"Portland, OR",OAK,"Oakland, CA",0,0,FALSE
+2007,1,26,AS,OAK,"Oakland, CA",SNA,"Santa Ana, CA",0,0,FALSE
+2007,1,26,AS,SNA,"Santa Ana, CA",OAK,"Oakland, CA",0,0,FALSE
+2007,1,26,AS,OAK,"Oakland, CA",PDX,"Portland, OR",0,0,FALSE
+2007,1,26,AS,PDX,"Portland, OR",LAS,"Las Vegas, NV",0,1,TRUE
+2007,1,26,AS,LAS,"Las Vegas, NV",PDX,"Portland, OR",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",BUR,"Burbank, CA",0,0,FALSE
+2007,1,26,AS,BUR,"Burbank, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",RNO,"Reno, NV",1,1,TRUE
+2007,1,26,AS,RNO,"Reno, NV",SEA,"Seattle, WA",1,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",BUR,"Burbank, CA",1,1,TRUE
+2007,1,26,AS,ANC,"Anchorage, AK",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,26,AS,LGB,"Long Beach, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,26,AS,SNA,"Santa Ana, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,26,AS,SFO,"San Francisco, CA",LAX,"Los Angeles, CA",,,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",DCA,"Washington, DC",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SJC,"San Jose, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",LAS,"Las Vegas, NV",1,1,TRUE
+2007,1,26,AS,LAS,"Las Vegas, NV",SEA,"Seattle, WA",1,0,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",PHX,"Phoenix, AZ",1,1,TRUE
+2007,1,26,AS,PHX,"Phoenix, AZ",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,LAX,"Los Angeles, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,LGB,"Long Beach, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",BOI,"Boise, ID",0,0,FALSE
+2007,1,26,AS,BOI,"Boise, ID",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",SAN,"San Diego, CA",0,0,FALSE
+2007,1,26,AS,SAN,"San Diego, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,DCA,"Washington, DC",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,26,AS,SAN,"San Diego, CA",PDX,"Portland, OR",0,0,FALSE
+2007,1,26,AS,PDX,"Portland, OR",PSP,"Palm Springs, CA",1,1,TRUE
+2007,1,26,AS,PSP,"Palm Springs, CA",PDX,"Portland, OR",1,1,TRUE
+2007,1,26,AS,PDX,"Portland, OR",SAN,"San Diego, CA",1,1,TRUE
+2007,1,26,AS,SAN,"San Diego, CA",PDX,"Portland, OR",1,1,TRUE
+2007,1,26,AS,RNO,"Reno, NV",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",PHX,"Phoenix, AZ",0,0,FALSE
+2007,1,26,AS,PHX,"Phoenix, AZ",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",SAN,"San Diego, CA",0,0,FALSE
+2007,1,26,AS,SAN,"San Diego, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,KTN,"Ketchikan, AK",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,JNU,"Juneau, AK",KTN,"Ketchikan, AK",0,0,FALSE
+2007,1,26,AS,SFO,"San Francisco, CA",SAN,"San Diego, CA",1,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",SFO,"San Francisco, CA",1,1,TRUE
+2007,1,26,AS,SAN,"San Diego, CA",SFO,"San Francisco, CA",1,1,TRUE
+2007,1,26,AS,SFO,"San Francisco, CA",SAN,"San Diego, CA",1,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",LAX,"Los Angeles, CA",1,1,TRUE
+2007,1,26,AS,GEG,"Spokane, WA",SEA,"Seattle, WA",1,1,TRUE
+2007,1,26,AS,LAX,"Los Angeles, CA",SFO,"San Francisco, CA",1,0,TRUE
+2007,1,26,AS,PDX,"Portland, OR",SNA,"Santa Ana, CA",0,0,FALSE
+2007,1,26,AS,SNA,"Santa Ana, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",OAK,"Oakland, CA",0,0,FALSE
+2007,1,26,AS,OAK,"Oakland, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",PHX,"Phoenix, AZ",0,1,TRUE
+2007,1,26,AS,SNA,"Santa Ana, CA",OAK,"Oakland, CA",0,0,FALSE
+2007,1,26,AS,OAK,"Oakland, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",PSP,"Palm Springs, CA",0,1,TRUE
+2007,1,26,AS,PSP,"Palm Springs, CA",SEA,"Seattle, WA",1,0,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",KTN,"Ketchikan, AK",0,0,FALSE
+2007,1,26,AS,KTN,"Ketchikan, AK",JNU,"Juneau, AK",0,0,FALSE
+2007,1,26,AS,OAK,"Oakland, CA",SNA,"Santa Ana, CA",0,0,FALSE
+2007,1,26,AS,SNA,"Santa Ana, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",SNA,"Santa Ana, CA",0,0,FALSE
+2007,1,26,AS,SNA,"Santa Ana, CA",PDX,"Portland, OR",0,0,FALSE
+2007,1,26,AS,PDX,"Portland, OR",LAX,"Los Angeles, CA",0,1,TRUE
+2007,1,26,AS,LAX,"Los Angeles, CA",ANC,"Anchorage, AK",1,0,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",PHX,"Phoenix, AZ",0,1,TRUE
+2007,1,26,AS,PHX,"Phoenix, AZ",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",ANC,"Anchorage, AK",1,1,TRUE
+2007,1,26,AS,ANC,"Anchorage, AK",SEA,"Seattle, WA",1,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",DFW,"Dallas/Fort Worth, TX",1,1,TRUE
+2007,1,26,AS,ANC,"Anchorage, AK",SEA,"Seattle, WA",0,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,DFW,"Dallas/Fort Worth, TX",SEA,"Seattle, WA",1,1,TRUE
+2007,1,26,AS,ANC,"Anchorage, AK",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",LAS,"Las Vegas, NV",0,0,FALSE
+2007,1,26,AS,LAS,"Las Vegas, NV",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",SJC,"San Jose, CA",0,0,FALSE
+2007,1,26,AS,SJC,"San Jose, CA",PDX,"Portland, OR",0,0,FALSE
+2007,1,26,AS,PDX,"Portland, OR",SMF,"Sacramento, CA",1,1,TRUE
+2007,1,26,AS,SMF,"Sacramento, CA",PDX,"Portland, OR",1,1,TRUE
+2007,1,26,AS,SAN,"San Diego, CA",SEA,"Seattle, WA",,,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",OAK,"Oakland, CA",0,1,TRUE
+2007,1,26,AS,PHX,"Phoenix, AZ",SEA,"Seattle, WA",1,0,TRUE
+2007,1,26,AS,DEN,"Denver, CO",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",SNA,"Santa Ana, CA",1,1,TRUE
+2007,1,26,AS,SNA,"Santa Ana, CA",PDX,"Portland, OR",1,1,TRUE
+2007,1,26,AS,PDX,"Portland, OR",SNA,"Santa Ana, CA",1,1,TRUE
+2007,1,26,AS,SNA,"Santa Ana, CA",OAK,"Oakland, CA",0,0,FALSE
+2007,1,26,AS,OAK,"Oakland, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,GEG,"Spokane, WA",LAX,"Los Angeles, CA",0,1,TRUE
+2007,1,26,AS,LAX,"Los Angeles, CA",GEG,"Spokane, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",SMF,"Sacramento, CA",0,1,TRUE
+2007,1,26,AS,SMF,"Sacramento, CA",SEA,"Seattle, WA",1,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",SNA,"Santa Ana, CA",0,0,FALSE
+2007,1,26,AS,SNA,"Santa Ana, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",DEN,"Denver, CO",1,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,26,AS,LAX,"Los Angeles, CA",PDX,"Portland, OR",0,0,FALSE
+2007,1,26,AS,PDX,"Portland, OR",LAS,"Las Vegas, NV",0,0,FALSE
+2007,1,26,AS,LAS,"Las Vegas, NV",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",SMF,"Sacramento, CA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",MCO,"Orlando, FL",0,0,FALSE
+2007,1,26,AS,MCO,"Orlando, FL",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",MIA,"Miami, FL",0,0,FALSE
+2007,1,26,AS,LAS,"Las Vegas, NV",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",ORD,"Chicago, IL",1,1,TRUE
+2007,1,26,AS,ORD,"Chicago, IL",SEA,"Seattle, WA",1,0,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",DFW,"Dallas/Fort Worth, TX",0,0,FALSE
+2007,1,26,AS,LAX,"Los Angeles, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",JNU,"Juneau, AK",1,1,TRUE
+2007,1,26,AS,JNU,"Juneau, AK",SEA,"Seattle, WA",1,1,TRUE
+2007,1,26,AS,SFO,"San Francisco, CA",PSP,"Palm Springs, CA",1,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",SFO,"San Francisco, CA",1,1,TRUE
+2007,1,26,AS,PDX,"Portland, OR",DEN,"Denver, CO",0,0,FALSE
+2007,1,26,AS,DEN,"Denver, CO",PDX,"Portland, OR",0,0,FALSE
+2007,1,26,AS,PDX,"Portland, OR",DEN,"Denver, CO",1,0,TRUE
+2007,1,26,AS,DEN,"Denver, CO",PDX,"Portland, OR",1,0,TRUE
+2007,1,26,AS,PDX,"Portland, OR",SNA,"Santa Ana, CA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,26,AS,LAX,"Los Angeles, CA",SEA,"Seattle, WA",1,1,TRUE
+2007,1,26,AS,PDX,"Portland, OR",OAK,"Oakland, CA",1,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",SFO,"San Francisco, CA",1,1,TRUE
+2007,1,26,AS,SFO,"San Francisco, CA",PDX,"Portland, OR",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",SNA,"Santa Ana, CA",0,0,FALSE
+2007,1,26,AS,SNA,"Santa Ana, CA",OAK,"Oakland, CA",0,0,FALSE
+2007,1,26,AS,OAK,"Oakland, CA",SNA,"Santa Ana, CA",0,0,FALSE
+2007,1,26,AS,SNA,"Santa Ana, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,26,AS,SFO,"San Francisco, CA",PSP,"Palm Springs, CA",0,0,FALSE
+2007,1,26,AS,SFO,"San Francisco, CA",SEA,"Seattle, WA",1,1,TRUE
+2007,1,26,AS,PSP,"Palm Springs, CA",SFO,"San Francisco, CA",1,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",GEG,"Spokane, WA",1,1,TRUE
+2007,1,26,AS,PDX,"Portland, OR",SAN,"San Diego, CA",0,0,FALSE
+2007,1,26,AS,SAN,"San Diego, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",FAI,"Fairbanks, AK",0,0,FALSE
+2007,1,26,AS,LAX,"Los Angeles, CA",SEA,"Seattle, WA",1,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",LAX,"Los Angeles, CA",1,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",PHX,"Phoenix, AZ",1,1,TRUE
+2007,1,26,AS,SFO,"San Francisco, CA",SEA,"Seattle, WA",1,1,TRUE
+2007,1,26,AS,SAN,"San Diego, CA",SFO,"San Francisco, CA",1,1,TRUE
+2007,1,26,AS,GEG,"Spokane, WA",SEA,"Seattle, WA",1,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",ANC,"Anchorage, AK",1,1,TRUE
+2007,1,26,AS,ANC,"Anchorage, AK",SEA,"Seattle, WA",1,1,TRUE
+2007,1,26,AS,PHX,"Phoenix, AZ",PDX,"Portland, OR",0,0,FALSE
+2007,1,26,AS,PDX,"Portland, OR",LAS,"Las Vegas, NV",1,1,TRUE
+2007,1,26,AS,LAS,"Las Vegas, NV",PDX,"Portland, OR",1,1,TRUE
+2007,1,26,AS,PDX,"Portland, OR",SJC,"San Jose, CA",1,1,TRUE
+2007,1,26,AS,SJC,"San Jose, CA",PDX,"Portland, OR",1,1,TRUE
+2007,1,26,AS,PDX,"Portland, OR",PHX,"Phoenix, AZ",1,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",LAX,"Los Angeles, CA",0,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",FAI,"Fairbanks, AK",0,0,FALSE
+2007,1,26,AS,FAI,"Fairbanks, AK",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",OAK,"Oakland, CA",0,0,FALSE
+2007,1,26,AS,OAK,"Oakland, CA",SNA,"Santa Ana, CA",0,0,FALSE
+2007,1,26,AS,LAX,"Los Angeles, CA",PDX,"Portland, OR",0,0,FALSE
+2007,1,26,AS,OTZ,"Kotzebue, AK",OME,"Nome, AK",0,0,FALSE
+2007,1,26,AS,OME,"Nome, AK",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",OTZ,"Kotzebue, AK",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",BET,"Bethel, AK",0,1,TRUE
+2007,1,26,AS,BET,"Bethel, AK",ANC,"Anchorage, AK",1,1,TRUE
+2007,1,26,AS,OTZ,"Kotzebue, AK",OME,"Nome, AK",1,1,TRUE
+2007,1,26,AS,OME,"Nome, AK",ANC,"Anchorage, AK",1,1,TRUE
+2007,1,26,AS,ANC,"Anchorage, AK",OTZ,"Kotzebue, AK",1,1,TRUE
+2007,1,26,AS,ANC,"Anchorage, AK",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",DFW,"Dallas/Fort Worth, TX",0,1,TRUE
+2007,1,26,AS,DFW,"Dallas/Fort Worth, TX",SEA,"Seattle, WA",0,,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",ANC,"Anchorage, AK",1,1,TRUE
+2007,1,26,AS,OTZ,"Kotzebue, AK",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,OME,"Nome, AK",OTZ,"Kotzebue, AK",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",OME,"Nome, AK",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",ADQ,"Kodiak, AK",1,1,TRUE
+2007,1,26,AS,ADQ,"Kodiak, AK",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",BET,"Bethel, AK",0,0,FALSE
+2007,1,26,AS,BET,"Bethel, AK",ANC,"Anchorage, AK",0,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",SJC,"San Jose, CA",0,0,FALSE
+2007,1,26,AS,SJC,"San Jose, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",SAN,"San Diego, CA",0,0,FALSE
+2007,1,26,AS,SAN,"San Diego, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",LGB,"Long Beach, CA",1,1,TRUE
+2007,1,26,AS,ANC,"Anchorage, AK",SEA,"Seattle, WA",0,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",DEN,"Denver, CO",0,0,FALSE
+2007,1,26,AS,DEN,"Denver, CO",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SIT,"Sitka, AK",JNU,"Juneau, AK",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",KTN,"Ketchikan, AK",0,0,FALSE
+2007,1,26,AS,KTN,"Ketchikan, AK",SIT,"Sitka, AK",0,0,FALSE
+2007,1,26,AS,JNU,"Juneau, AK",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",SFO,"San Francisco, CA",0,0,FALSE
+2007,1,26,AS,SFO,"San Francisco, CA",SEA,"Seattle, WA",1,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",GEG,"Spokane, WA",0,0,FALSE
+2007,1,26,AS,SFO,"San Francisco, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",FAI,"Fairbanks, AK",0,0,FALSE
+2007,1,26,AS,FAI,"Fairbanks, AK",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,DCA,"Washington, DC",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",FAI,"Fairbanks, AK",0,0,FALSE
+2007,1,26,AS,FAI,"Fairbanks, AK",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",ORD,"Chicago, IL",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",PHX,"Phoenix, AZ",0,0,FALSE
+2007,1,26,AS,PHX,"Phoenix, AZ",SEA,"Seattle, WA",1,0,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,26,AS,LGB,"Long Beach, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",LAS,"Las Vegas, NV",0,0,FALSE
+2007,1,26,AS,SFO,"San Francisco, CA",SAN,"San Diego, CA",0,0,FALSE
+2007,1,26,AS,SAN,"San Diego, CA",PDX,"Portland, OR",0,0,FALSE
+2007,1,26,AS,PDX,"Portland, OR",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,26,AS,ORD,"Chicago, IL",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",SNA,"Santa Ana, CA",0,0,FALSE
+2007,1,26,AS,LAS,"Las Vegas, NV",PDX,"Portland, OR",0,0,FALSE
+2007,1,26,AS,PDX,"Portland, OR",SJC,"San Jose, CA",0,0,FALSE
+2007,1,26,AS,SJC,"San Jose, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",SJC,"San Jose, CA",0,0,FALSE
+2007,1,26,AS,SJC,"San Jose, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",FAI,"Fairbanks, AK",0,0,FALSE
+2007,1,26,AS,FAI,"Fairbanks, AK",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",FAI,"Fairbanks, AK",0,0,FALSE
+2007,1,26,AS,FAI,"Fairbanks, AK",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",SEA,"Seattle, WA",0,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",SAN,"San Diego, CA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",TUS,"Tucson, AZ",0,0,FALSE
+2007,1,26,AS,TUS,"Tucson, AZ",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",PDX,"Portland, OR",0,0,FALSE
+2007,1,26,AS,PDX,"Portland, OR",SJC,"San Jose, CA",0,0,FALSE
+2007,1,26,AS,SJC,"San Jose, CA",PDX,"Portland, OR",0,0,FALSE
+2007,1,26,AS,PDX,"Portland, OR",PHX,"Phoenix, AZ",0,0,FALSE
+2007,1,26,AS,PHX,"Phoenix, AZ",PDX,"Portland, OR",0,0,FALSE
+2007,1,26,AS,PDX,"Portland, OR",SFO,"San Francisco, CA",1,1,TRUE
+2007,1,26,AS,SFO,"San Francisco, CA",SEA,"Seattle, WA",1,0,TRUE
+2007,1,26,AS,PDX,"Portland, OR",SFO,"San Francisco, CA",0,0,FALSE
+2007,1,26,AS,SFO,"San Francisco, CA",PDX,"Portland, OR",0,0,FALSE
+2007,1,26,AS,PDX,"Portland, OR",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",SAN,"San Diego, CA",0,0,FALSE
+2007,1,26,AS,SAN,"San Diego, CA",SFO,"San Francisco, CA",1,1,TRUE
+2007,1,26,AS,SFO,"San Francisco, CA",SAN,"San Diego, CA",1,1,TRUE
+2007,1,26,AS,SAN,"San Diego, CA",SFO,"San Francisco, CA",1,1,TRUE
+2007,1,26,AS,LAX,"Los Angeles, CA",SFO,"San Francisco, CA",0,0,FALSE
+2007,1,26,AS,LAX,"Los Angeles, CA",PDX,"Portland, OR",0,0,FALSE
+2007,1,26,AS,PDX,"Portland, OR",SAN,"San Diego, CA",0,0,FALSE
+2007,1,26,AS,BUR,"Burbank, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",DEN,"Denver, CO",0,0,FALSE
+2007,1,26,AS,DEN,"Denver, CO",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",LAS,"Las Vegas, NV",1,1,TRUE
+2007,1,26,AS,LAS,"Las Vegas, NV",SEA,"Seattle, WA",1,1,TRUE
+2007,1,26,AS,OAK,"Oakland, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",GEG,"Spokane, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",ONT,"Ontario, CA",0,0,FALSE
+2007,1,26,AS,ONT,"Ontario, CA",SEA,"Seattle, WA",1,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",BUR,"Burbank, CA",1,1,TRUE
+2007,1,26,AS,BUR,"Burbank, CA",SEA,"Seattle, WA",1,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",ANC,"Anchorage, AK",0,1,TRUE
+2007,1,26,AS,ANC,"Anchorage, AK",DLG,"Dillingham, AK",0,0,FALSE
+2007,1,26,AS,DLG,"Dillingham, AK",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",FAI,"Fairbanks, AK",0,0,FALSE
+2007,1,26,AS,FAI,"Fairbanks, AK",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,EWR,"Newark, NJ",SEA,"Seattle, WA",1,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,26,AS,ORD,"Chicago, IL",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,LAX,"Los Angeles, CA",SEA,"Seattle, WA",1,1,TRUE
+2007,1,26,AS,ORD,"Chicago, IL",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",SNA,"Santa Ana, CA",0,0,FALSE
+2007,1,26,AS,SNA,"Santa Ana, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",LAX,"Los Angeles, CA",1,1,TRUE
+2007,1,26,AS,LAX,"Los Angeles, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",SNA,"Santa Ana, CA",0,0,FALSE
+2007,1,26,AS,SNA,"Santa Ana, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",OAK,"Oakland, CA",0,0,FALSE
+2007,1,26,AS,SMF,"Sacramento, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",SMF,"Sacramento, CA",1,1,TRUE
+2007,1,26,AS,SMF,"Sacramento, CA",SEA,"Seattle, WA",1,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",LAX,"Los Angeles, CA",0,1,TRUE
+2007,1,26,AS,LAX,"Los Angeles, CA",SEA,"Seattle, WA",1,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",RNO,"Reno, NV",1,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,LAX,"Los Angeles, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,JNU,"Juneau, AK",SIT,"Sitka, AK",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",JNU,"Juneau, AK",0,0,FALSE
+2007,1,26,AS,PHX,"Phoenix, AZ",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",LAS,"Las Vegas, NV",0,0,FALSE
+2007,1,26,AS,SCC,"Deadhorse, AK",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,FAI,"Fairbanks, AK",BRW,"Barrow, AK",0,0,FALSE
+2007,1,26,AS,BRW,"Barrow, AK",SCC,"Deadhorse, AK",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",FAI,"Fairbanks, AK",0,0,FALSE
+2007,1,26,AS,SCC,"Deadhorse, AK",BRW,"Barrow, AK",0,0,FALSE
+2007,1,26,AS,FAI,"Fairbanks, AK",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,BRW,"Barrow, AK",FAI,"Fairbanks, AK",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",SCC,"Deadhorse, AK",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",BET,"Bethel, AK",0,0,FALSE
+2007,1,26,AS,BET,"Bethel, AK",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,DFW,"Dallas/Fort Worth, TX",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",DEN,"Denver, CO",0,0,FALSE
+2007,1,26,AS,DEN,"Denver, CO",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,MCO,"Orlando, FL",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",BUR,"Burbank, CA",0,0,FALSE
+2007,1,26,AS,BUR,"Burbank, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",LAS,"Las Vegas, NV",0,0,FALSE
+2007,1,26,AS,LAS,"Las Vegas, NV",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,PSP,"Palm Springs, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",PSP,"Palm Springs, CA",0,0,FALSE
+2007,1,26,AS,LAX,"Los Angeles, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",MCO,"Orlando, FL",0,0,FALSE
+2007,1,26,AS,BOS,"Boston, MA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",BOS,"Boston, MA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",SFO,"San Francisco, CA",1,1,TRUE
+2007,1,26,AS,FAI,"Fairbanks, AK",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,DCA,"Washington, DC",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",DCA,"Washington, DC",0,0,FALSE
+2007,1,26,AS,ANC,"Anchorage, AK",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,WRG,"Wrangell, AK",PSG,"Petersburg, AK",0,0,FALSE
+2007,1,26,AS,SEA,"Seattle, WA",KTN,"Ketchikan, AK",0,0,FALSE
+2007,1,26,AS,PSG,"Petersburg, AK",JNU,"Juneau, AK",0,0,FALSE
+2007,1,26,AS,KTN,"Ketchikan, AK",WRG,"Wrangell, AK",0,0,FALSE
+2007,1,26,AS,JNU,"Juneau, AK",ANC,"Anchorage, AK",0,0,FALSE
+2007,1,26,AS,PDX,"Portland, OR",LAX,"Los Angeles, CA",0,0,FALSE
+2007,1,26,AS,LAX,"Los Angeles, CA",DCA,"Washington, DC",0,0,FALSE
+2007,1,26,AS,LAX,"Los Angeles, CA",PDX,"Portland, OR",0,0,FALSE
+2007,1,26,AS,PSP,"Palm Springs, CA",SFO,"San Francisco, CA",1,1,TRUE
+2007,1,26,AS,SFO,"San Francisco, CA",PSP,"Palm Springs, CA",1,1,TRUE
+2007,1,26,AS,SEA,"Seattle, WA",SFO,"San Francisco, CA",1,1,TRUE
+2007,1,26,AS,SFO,"San Francisco, CA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,26,AS,PSP,"Palm Springs, CA",SFO,"San Francisco, CA",0,0,FALSE
+2007,1,17,B6,TPA,"Tampa, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,17,B6,TPA,"Tampa, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,17,B6,TPA,"Tampa, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,17,B6,TPA,"Tampa, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,17,B6,TPA,"Tampa, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,17,B6,TPA,"Tampa, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,17,B6,TUS,"Tucson, AZ",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,AUS,"Austin, TX",BOS,"Boston, MA",1,0,TRUE
+2007,1,18,B6,AUS,"Austin, TX",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,AUS,"Austin, TX",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,AUS,"Austin, TX",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,BNA,"Nashville, TN",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,BNA,"Nashville, TN",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,BNA,"Nashville, TN",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,BOS,"Boston, MA",AUS,"Austin, TX",0,1,TRUE
+2007,1,18,B6,BOS,"Boston, MA",BUF,"Buffalo, NY",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",BUF,"Buffalo, NY",1,1,TRUE
+2007,1,18,B6,BOS,"Boston, MA",BUF,"Buffalo, NY",1,1,TRUE
+2007,1,18,B6,BOS,"Boston, MA",CMH,"Columbus, OH",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",DEN,"Denver, CO",0,1,TRUE
+2007,1,18,B6,BOS,"Boston, MA",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",IAD,"Washington, DC",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",IAD,"Washington, DC",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",IAD,"Washington, DC",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",IAD,"Washington, DC",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",IAD,"Washington, DC",1,1,TRUE
+2007,1,18,B6,BOS,"Boston, MA",IAD,"Washington, DC",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,BOS,"Boston, MA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,BOS,"Boston, MA",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,BOS,"Boston, MA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",LAS,"Las Vegas, NV",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",LGB,"Long Beach, CA",0,1,TRUE
+2007,1,18,B6,BOS,"Boston, MA",MCO,"Orlando, FL",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",MCO,"Orlando, FL",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",MCO,"Orlando, FL",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",MCO,"Orlando, FL",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",MCO,"Orlando, FL",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",OAK,"Oakland, CA",0,1,TRUE
+2007,1,18,B6,BOS,"Boston, MA",PBI,"West Palm Beach/Palm Beach, FL",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",PBI,"West Palm Beach/Palm Beach, FL",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",PHX,"Phoenix, AZ",1,1,TRUE
+2007,1,18,B6,BOS,"Boston, MA",PIT,"Pittsburgh, PA",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",PIT,"Pittsburgh, PA",0,1,TRUE
+2007,1,18,B6,BOS,"Boston, MA",RDU,"Raleigh/Durham, NC",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",RIC,"Richmond, VA",1,1,TRUE
+2007,1,18,B6,BOS,"Boston, MA",RIC,"Richmond, VA",1,1,TRUE
+2007,1,18,B6,BOS,"Boston, MA",RSW,"Fort Myers, FL",1,1,TRUE
+2007,1,18,B6,BOS,"Boston, MA",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",SJC,"San Jose, CA",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",SJU,"San Juan, PR",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",TPA,"Tampa, FL",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",TPA,"Tampa, FL",0,0,FALSE
+2007,1,18,B6,BOS,"Boston, MA",TPA,"Tampa, FL",0,0,FALSE
+2007,1,18,B6,BQN,"Aguadilla, PR",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,BQN,"Aguadilla, PR",MCO,"Orlando, FL",0,0,FALSE
+2007,1,18,B6,BTV,"Burlington, VT",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,BTV,"Burlington, VT",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,BTV,"Burlington, VT",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,BTV,"Burlington, VT",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,BUF,"Buffalo, NY",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,BUF,"Buffalo, NY",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,BUF,"Buffalo, NY",BOS,"Boston, MA",1,1,TRUE
+2007,1,18,B6,BUF,"Buffalo, NY",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,BUF,"Buffalo, NY",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,BUF,"Buffalo, NY",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,BUF,"Buffalo, NY",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,BUF,"Buffalo, NY",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,BUF,"Buffalo, NY",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,BUF,"Buffalo, NY",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,BUR,"Burbank, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,BUR,"Burbank, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,BUR,"Burbank, CA",JFK,"New York, NY",1,,TRUE
+2007,1,18,B6,BUR,"Burbank, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,CLT,"Charlotte, NC",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,CLT,"Charlotte, NC",JFK,"New York, NY",0,1,TRUE
+2007,1,18,B6,CLT,"Charlotte, NC",JFK,"New York, NY",0,1,TRUE
+2007,1,18,B6,CLT,"Charlotte, NC",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,CMH,"Columbus, OH",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,CMH,"Columbus, OH",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,CMH,"Columbus, OH",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,CMH,"Columbus, OH",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,CMH,"Columbus, OH",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,DEN,"Denver, CO",BOS,"Boston, MA",1,0,TRUE
+2007,1,18,B6,DEN,"Denver, CO",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,DEN,"Denver, CO",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,EWR,"Newark, NJ",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,18,B6,EWR,"Newark, NJ",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,18,B6,EWR,"Newark, NJ",FLL,"Fort Lauderdale, FL",1,1,TRUE
+2007,1,18,B6,EWR,"Newark, NJ",MCO,"Orlando, FL",0,0,FALSE
+2007,1,18,B6,EWR,"Newark, NJ",MCO,"Orlando, FL",0,0,FALSE
+2007,1,18,B6,EWR,"Newark, NJ",MCO,"Orlando, FL",0,0,FALSE
+2007,1,18,B6,EWR,"Newark, NJ",MCO,"Orlando, FL",1,1,TRUE
+2007,1,18,B6,EWR,"Newark, NJ",PBI,"West Palm Beach/Palm Beach, FL",1,1,TRUE
+2007,1,18,B6,EWR,"Newark, NJ",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,18,B6,EWR,"Newark, NJ",TPA,"Tampa, FL",1,1,TRUE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",EWR,"Newark, NJ",0,0,FALSE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",EWR,"Newark, NJ",0,1,TRUE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",IAD,"Washington, DC",0,0,FALSE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",IAD,"Washington, DC",0,0,FALSE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",0,1,TRUE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",LGA,"New York, NY",0,1,TRUE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",LGA,"New York, NY",1,1,TRUE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",LGA,"New York, NY",1,1,TRUE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",OAK,"Oakland, CA",0,0,FALSE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",SWF,"Newburgh/Poughkeepsie, NY",0,0,FALSE
+2007,1,18,B6,FLL,"Fort Lauderdale, FL",SWF,"Newburgh/Poughkeepsie, NY",0,0,FALSE
+2007,1,18,B6,HOU,"Houston, TX",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,HOU,"Houston, TX",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,HOU,"Houston, TX",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,IAD,"Washington, DC",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,IAD,"Washington, DC",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,IAD,"Washington, DC",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,IAD,"Washington, DC",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,IAD,"Washington, DC",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,IAD,"Washington, DC",BOS,"Boston, MA",1,1,TRUE
+2007,1,18,B6,IAD,"Washington, DC",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,18,B6,IAD,"Washington, DC",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,18,B6,IAD,"Washington, DC",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,IAD,"Washington, DC",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,IAD,"Washington, DC",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,IAD,"Washington, DC",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,IAD,"Washington, DC",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,IAD,"Washington, DC",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,IAD,"Washington, DC",LAS,"Las Vegas, NV",0,1,TRUE
+2007,1,18,B6,IAD,"Washington, DC",LGB,"Long Beach, CA",0,1,TRUE
+2007,1,18,B6,IAD,"Washington, DC",LGB,"Long Beach, CA",0,1,TRUE
+2007,1,18,B6,IAD,"Washington, DC",LGB,"Long Beach, CA",1,1,TRUE
+2007,1,18,B6,IAD,"Washington, DC",OAK,"Oakland, CA",0,0,FALSE
+2007,1,18,B6,IAD,"Washington, DC",OAK,"Oakland, CA",0,0,FALSE
+2007,1,18,B6,IAD,"Washington, DC",PBI,"West Palm Beach/Palm Beach, FL",0,0,FALSE
+2007,1,18,B6,IAD,"Washington, DC",SAN,"San Diego, CA",0,1,TRUE
+2007,1,18,B6,JAX,"Jacksonville, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,JAX,"Jacksonville, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,JAX,"Jacksonville, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",AUS,"Austin, TX",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",AUS,"Austin, TX",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",AUS,"Austin, TX",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",BNA,"Nashville, TN",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",BNA,"Nashville, TN",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",BNA,"Nashville, TN",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",BOS,"Boston, MA",1,0,TRUE
+2007,1,18,B6,JFK,"New York, NY",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",BOS,"Boston, MA",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",BOS,"Boston, MA",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",BQN,"Aguadilla, PR",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",BTV,"Burlington, VT",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",BTV,"Burlington, VT",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",BTV,"Burlington, VT",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",BTV,"Burlington, VT",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",BUF,"Buffalo, NY",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",BUF,"Buffalo, NY",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",BUF,"Buffalo, NY",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",BUF,"Buffalo, NY",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",BUF,"Buffalo, NY",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",BUF,"Buffalo, NY",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",BUF,"Buffalo, NY",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",BUR,"Burbank, CA",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",BUR,"Burbank, CA",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",BUR,"Burbank, CA",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",BUR,"Burbank, CA",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",CLT,"Charlotte, NC",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",CLT,"Charlotte, NC",0,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",CLT,"Charlotte, NC",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",CLT,"Charlotte, NC",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",CMH,"Columbus, OH",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",CMH,"Columbus, OH",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",CMH,"Columbus, OH",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",CMH,"Columbus, OH",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",DEN,"Denver, CO",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",DEN,"Denver, CO",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",1,0,TRUE
+2007,1,18,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",HOU,"Houston, TX",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",HOU,"Houston, TX",0,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",HOU,"Houston, TX",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",IAD,"Washington, DC",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",IAD,"Washington, DC",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",IAD,"Washington, DC",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",IAD,"Washington, DC",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",IAD,"Washington, DC",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",IAD,"Washington, DC",1,0,TRUE
+2007,1,18,B6,JFK,"New York, NY",JAX,"Jacksonville, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",JAX,"Jacksonville, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",JAX,"Jacksonville, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",LAS,"Las Vegas, NV",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",LAS,"Las Vegas, NV",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",LAS,"Las Vegas, NV",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",MCO,"Orlando, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",MCO,"Orlando, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",MCO,"Orlando, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",MCO,"Orlando, FL",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",MCO,"Orlando, FL",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",MCO,"Orlando, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",MCO,"Orlando, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",MCO,"Orlando, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",MCO,"Orlando, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",MCO,"Orlando, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",MSY,"New Orleans, LA",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",MSY,"New Orleans, LA",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",OAK,"Oakland, CA",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",OAK,"Oakland, CA",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",OAK,"Oakland, CA",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",OAK,"Oakland, CA",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",OAK,"Oakland, CA",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",ONT,"Ontario, CA",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",ORD,"Chicago, IL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",ORD,"Chicago, IL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",ORD,"Chicago, IL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",ORD,"Chicago, IL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",ORD,"Chicago, IL",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",PDX,"Portland, OR",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",PHX,"Phoenix, AZ",0,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",PHX,"Phoenix, AZ",0,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",PIT,"Pittsburgh, PA",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",PIT,"Pittsburgh, PA",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",PIT,"Pittsburgh, PA",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",PIT,"Pittsburgh, PA",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",PSE,"Ponce, PR",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",PWM,"Portland, ME",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",PWM,"Portland, ME",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",PWM,"Portland, ME",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",PWM,"Portland, ME",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",RDU,"Raleigh/Durham, NC",0,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",RDU,"Raleigh/Durham, NC",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",RDU,"Raleigh/Durham, NC",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",RDU,"Raleigh/Durham, NC",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",RIC,"Richmond, VA",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",RIC,"Richmond, VA",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",RIC,"Richmond, VA",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",RIC,"Richmond, VA",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",ROC,"Rochester, NY",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",ROC,"Rochester, NY",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",ROC,"Rochester, NY",0,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",ROC,"Rochester, NY",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",ROC,"Rochester, NY",0,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",RSW,"Fort Myers, FL",0,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",SAN,"San Diego, CA",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",SAN,"San Diego, CA",0,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",SEA,"Seattle, WA",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",SJC,"San Jose, CA",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",SJU,"San Juan, PR",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",SJU,"San Juan, PR",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",SJU,"San Juan, PR",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",SLC,"Salt Lake City, UT",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",SMF,"Sacramento, CA",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",SRQ,"Sarasota/Bradenton, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",SYR,"Syracuse, NY",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",SYR,"Syracuse, NY",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",SYR,"Syracuse, NY",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",SYR,"Syracuse, NY",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",TPA,"Tampa, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",TPA,"Tampa, FL",1,1,TRUE
+2007,1,18,B6,JFK,"New York, NY",TPA,"Tampa, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",TPA,"Tampa, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",TPA,"Tampa, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",TPA,"Tampa, FL",0,0,FALSE
+2007,1,18,B6,JFK,"New York, NY",TUS,"Tucson, AZ",0,1,TRUE
+2007,1,18,B6,LAS,"Las Vegas, NV",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,LAS,"Las Vegas, NV",IAD,"Washington, DC",0,0,FALSE
+2007,1,18,B6,LAS,"Las Vegas, NV",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,LAS,"Las Vegas, NV",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,LAS,"Las Vegas, NV",JFK,"New York, NY",1,0,TRUE
+2007,1,18,B6,LAS,"Las Vegas, NV",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,18,B6,LAS,"Las Vegas, NV",LGB,"Long Beach, CA",1,0,TRUE
+2007,1,18,B6,LGA,"New York, NY",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,18,B6,LGA,"New York, NY",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,18,B6,LGA,"New York, NY",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,18,B6,LGA,"New York, NY",FLL,"Fort Lauderdale, FL",1,1,TRUE
+2007,1,18,B6,LGA,"New York, NY",FLL,"Fort Lauderdale, FL",1,1,TRUE
+2007,1,18,B6,LGA,"New York, NY",MCO,"Orlando, FL",1,1,TRUE
+2007,1,18,B6,LGA,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",0,0,FALSE
+2007,1,18,B6,LGA,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",1,1,TRUE
+2007,1,18,B6,LGB,"Long Beach, CA",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,LGB,"Long Beach, CA",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,LGB,"Long Beach, CA",FLL,"Fort Lauderdale, FL",1,1,TRUE
+2007,1,18,B6,LGB,"Long Beach, CA",IAD,"Washington, DC",0,0,FALSE
+2007,1,18,B6,LGB,"Long Beach, CA",IAD,"Washington, DC",0,0,FALSE
+2007,1,18,B6,LGB,"Long Beach, CA",IAD,"Washington, DC",1,0,TRUE
+2007,1,18,B6,LGB,"Long Beach, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,LGB,"Long Beach, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,LGB,"Long Beach, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,LGB,"Long Beach, CA",JFK,"New York, NY",1,0,TRUE
+2007,1,18,B6,LGB,"Long Beach, CA",LAS,"Las Vegas, NV",0,0,FALSE
+2007,1,18,B6,LGB,"Long Beach, CA",LAS,"Las Vegas, NV",1,1,TRUE
+2007,1,18,B6,LGB,"Long Beach, CA",OAK,"Oakland, CA",0,0,FALSE
+2007,1,18,B6,LGB,"Long Beach, CA",OAK,"Oakland, CA",0,0,FALSE
+2007,1,18,B6,LGB,"Long Beach, CA",OAK,"Oakland, CA",0,0,FALSE
+2007,1,18,B6,LGB,"Long Beach, CA",OAK,"Oakland, CA",0,0,FALSE
+2007,1,18,B6,LGB,"Long Beach, CA",OAK,"Oakland, CA",0,0,FALSE
+2007,1,18,B6,LGB,"Long Beach, CA",OAK,"Oakland, CA",1,1,TRUE
+2007,1,18,B6,LGB,"Long Beach, CA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,18,B6,LGB,"Long Beach, CA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,18,B6,LGB,"Long Beach, CA",SLC,"Salt Lake City, UT",0,0,FALSE
+2007,1,18,B6,LGB,"Long Beach, CA",SLC,"Salt Lake City, UT",0,0,FALSE
+2007,1,18,B6,LGB,"Long Beach, CA",SMF,"Sacramento, CA",0,0,FALSE
+2007,1,18,B6,LGB,"Long Beach, CA",SMF,"Sacramento, CA",0,0,FALSE
+2007,1,18,B6,LGB,"Long Beach, CA",SMF,"Sacramento, CA",0,0,FALSE
+2007,1,18,B6,MCO,"Orlando, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,MCO,"Orlando, FL",BOS,"Boston, MA",0,1,TRUE
+2007,1,18,B6,MCO,"Orlando, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,MCO,"Orlando, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,MCO,"Orlando, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,MCO,"Orlando, FL",BQN,"Aguadilla, PR",1,1,TRUE
+2007,1,18,B6,MCO,"Orlando, FL",EWR,"Newark, NJ",0,0,FALSE
+2007,1,18,B6,MCO,"Orlando, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,18,B6,MCO,"Orlando, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,18,B6,MCO,"Orlando, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,18,B6,MCO,"Orlando, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,MCO,"Orlando, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,MCO,"Orlando, FL",JFK,"New York, NY",1,0,TRUE
+2007,1,18,B6,MCO,"Orlando, FL",JFK,"New York, NY",0,1,TRUE
+2007,1,18,B6,MCO,"Orlando, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,MCO,"Orlando, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,MCO,"Orlando, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,MCO,"Orlando, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,MCO,"Orlando, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,MCO,"Orlando, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,MCO,"Orlando, FL",LGA,"New York, NY",1,1,TRUE
+2007,1,18,B6,MCO,"Orlando, FL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,18,B6,MCO,"Orlando, FL",SWF,"Newburgh/Poughkeepsie, NY",1,1,TRUE
+2007,1,18,B6,MCO,"Orlando, FL",SWF,"Newburgh/Poughkeepsie, NY",1,1,TRUE
+2007,1,18,B6,MCO,"Orlando, FL",SYR,"Syracuse, NY",0,0,FALSE
+2007,1,18,B6,MSY,"New Orleans, LA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,MSY,"New Orleans, LA",JFK,"New York, NY",1,0,TRUE
+2007,1,18,B6,OAK,"Oakland, CA",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,OAK,"Oakland, CA",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,18,B6,OAK,"Oakland, CA",IAD,"Washington, DC",0,0,FALSE
+2007,1,18,B6,OAK,"Oakland, CA",IAD,"Washington, DC",0,0,FALSE
+2007,1,18,B6,OAK,"Oakland, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,OAK,"Oakland, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,OAK,"Oakland, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,OAK,"Oakland, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,OAK,"Oakland, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,OAK,"Oakland, CA",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,18,B6,OAK,"Oakland, CA",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,18,B6,OAK,"Oakland, CA",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,18,B6,OAK,"Oakland, CA",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,18,B6,OAK,"Oakland, CA",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,18,B6,OAK,"Oakland, CA",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,18,B6,ONT,"Ontario, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,ORD,"Chicago, IL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,ORD,"Chicago, IL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,ORD,"Chicago, IL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,ORD,"Chicago, IL",JFK,"New York, NY",0,1,TRUE
+2007,1,18,B6,ORD,"Chicago, IL",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,ORD,"Chicago, IL",LGB,"Long Beach, CA",1,1,TRUE
+2007,1,18,B6,ORD,"Chicago, IL",LGB,"Long Beach, CA",0,1,TRUE
+2007,1,18,B6,PBI,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",0,,FALSE
+2007,1,18,B6,PBI,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,PBI,"West Palm Beach/Palm Beach, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,18,B6,PBI,"West Palm Beach/Palm Beach, FL",IAD,"Washington, DC",0,0,FALSE
+2007,1,18,B6,PBI,"West Palm Beach/Palm Beach, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,PBI,"West Palm Beach/Palm Beach, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,PBI,"West Palm Beach/Palm Beach, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,PBI,"West Palm Beach/Palm Beach, FL",JFK,"New York, NY",0,1,TRUE
+2007,1,18,B6,PBI,"West Palm Beach/Palm Beach, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,PBI,"West Palm Beach/Palm Beach, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,PBI,"West Palm Beach/Palm Beach, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,PBI,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,18,B6,PBI,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1,1,TRUE
+2007,1,18,B6,PBI,"West Palm Beach/Palm Beach, FL",SWF,"Newburgh/Poughkeepsie, NY",0,0,FALSE
+2007,1,18,B6,PDX,"Portland, OR",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,PHX,"Phoenix, AZ",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,PHX,"Phoenix, AZ",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,PHX,"Phoenix, AZ",JFK,"New York, NY",,,FALSE
+2007,1,18,B6,PIT,"Pittsburgh, PA",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,PIT,"Pittsburgh, PA",BOS,"Boston, MA",1,1,TRUE
+2007,1,18,B6,PIT,"Pittsburgh, PA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,PIT,"Pittsburgh, PA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,PIT,"Pittsburgh, PA",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,PIT,"Pittsburgh, PA",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,PSE,"Ponce, PR",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,PWM,"Portland, ME",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,PWM,"Portland, ME",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,PWM,"Portland, ME",JFK,"New York, NY",0,1,TRUE
+2007,1,18,B6,PWM,"Portland, ME",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,RDU,"Raleigh/Durham, NC",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,RDU,"Raleigh/Durham, NC",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,RDU,"Raleigh/Durham, NC",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,RDU,"Raleigh/Durham, NC",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,RDU,"Raleigh/Durham, NC",JFK,"New York, NY",1,0,TRUE
+2007,1,18,B6,RIC,"Richmond, VA",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,RIC,"Richmond, VA",BOS,"Boston, MA",1,1,TRUE
+2007,1,18,B6,RIC,"Richmond, VA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,RIC,"Richmond, VA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,RIC,"Richmond, VA",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,RIC,"Richmond, VA",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,ROC,"Rochester, NY",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,ROC,"Rochester, NY",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,ROC,"Rochester, NY",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,ROC,"Rochester, NY",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,ROC,"Rochester, NY",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,RSW,"Fort Myers, FL",BOS,"Boston, MA",1,1,TRUE
+2007,1,18,B6,RSW,"Fort Myers, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,RSW,"Fort Myers, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,RSW,"Fort Myers, FL",EWR,"Newark, NJ",0,0,FALSE
+2007,1,18,B6,RSW,"Fort Myers, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,RSW,"Fort Myers, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,RSW,"Fort Myers, FL",JFK,"New York, NY",1,0,TRUE
+2007,1,18,B6,RSW,"Fort Myers, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,RSW,"Fort Myers, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,RSW,"Fort Myers, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,SAN,"San Diego, CA",IAD,"Washington, DC",0,0,FALSE
+2007,1,18,B6,SAN,"San Diego, CA",JFK,"New York, NY",1,0,TRUE
+2007,1,18,B6,SAN,"San Diego, CA",JFK,"New York, NY",1,0,TRUE
+2007,1,18,B6,SEA,"Seattle, WA",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,SEA,"Seattle, WA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,SJC,"San Jose, CA",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,SJC,"San Jose, CA",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,SJU,"San Juan, PR",BOS,"Boston, MA",0,1,TRUE
+2007,1,18,B6,SJU,"San Juan, PR",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,SJU,"San Juan, PR",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,SJU,"San Juan, PR",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,SJU,"San Juan, PR",MCO,"Orlando, FL",0,0,FALSE
+2007,1,18,B6,SLC,"Salt Lake City, UT",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,SLC,"Salt Lake City, UT",LGB,"Long Beach, CA",0,1,TRUE
+2007,1,18,B6,SLC,"Salt Lake City, UT",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,18,B6,SMF,"Sacramento, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,SMF,"Sacramento, CA",LGB,"Long Beach, CA",0,1,TRUE
+2007,1,18,B6,SMF,"Sacramento, CA",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,18,B6,SMF,"Sacramento, CA",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,18,B6,SRQ,"Sarasota/Bradenton, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,SWF,"Newburgh/Poughkeepsie, NY",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,18,B6,SWF,"Newburgh/Poughkeepsie, NY",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,18,B6,SWF,"Newburgh/Poughkeepsie, NY",MCO,"Orlando, FL",1,1,TRUE
+2007,1,18,B6,SWF,"Newburgh/Poughkeepsie, NY",MCO,"Orlando, FL",1,1,TRUE
+2007,1,18,B6,SWF,"Newburgh/Poughkeepsie, NY",PBI,"West Palm Beach/Palm Beach, FL",0,0,FALSE
+2007,1,18,B6,SYR,"Syracuse, NY",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,SYR,"Syracuse, NY",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,SYR,"Syracuse, NY",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,SYR,"Syracuse, NY",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,SYR,"Syracuse, NY",MCO,"Orlando, FL",0,0,FALSE
+2007,1,18,B6,TPA,"Tampa, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,TPA,"Tampa, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,TPA,"Tampa, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,18,B6,TPA,"Tampa, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,18,B6,TPA,"Tampa, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,TPA,"Tampa, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,TPA,"Tampa, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,18,B6,TPA,"Tampa, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,TPA,"Tampa, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,TPA,"Tampa, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,18,B6,TUS,"Tucson, AZ",JFK,"New York, NY",1,,TRUE
+2007,1,19,B6,AUS,"Austin, TX",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,AUS,"Austin, TX",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,AUS,"Austin, TX",JFK,"New York, NY",1,0,TRUE
+2007,1,19,B6,AUS,"Austin, TX",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,BNA,"Nashville, TN",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,BNA,"Nashville, TN",JFK,"New York, NY",0,1,TRUE
+2007,1,19,B6,BNA,"Nashville, TN",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",AUS,"Austin, TX",0,1,TRUE
+2007,1,19,B6,BOS,"Boston, MA",BUF,"Buffalo, NY",1,1,TRUE
+2007,1,19,B6,BOS,"Boston, MA",BUF,"Buffalo, NY",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",BUF,"Buffalo, NY",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",CMH,"Columbus, OH",0,1,TRUE
+2007,1,19,B6,BOS,"Boston, MA",DEN,"Denver, CO",1,1,TRUE
+2007,1,19,B6,BOS,"Boston, MA",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",FLL,"Fort Lauderdale, FL",1,1,TRUE
+2007,1,19,B6,BOS,"Boston, MA",IAD,"Washington, DC",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",IAD,"Washington, DC",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",IAD,"Washington, DC",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",IAD,"Washington, DC",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",IAD,"Washington, DC",1,1,TRUE
+2007,1,19,B6,BOS,"Boston, MA",IAD,"Washington, DC",0,1,TRUE
+2007,1,19,B6,BOS,"Boston, MA",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,BOS,"Boston, MA",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,BOS,"Boston, MA",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,BOS,"Boston, MA",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,BOS,"Boston, MA",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,BOS,"Boston, MA",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,BOS,"Boston, MA",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,BOS,"Boston, MA",LAS,"Las Vegas, NV",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",MCO,"Orlando, FL",0,1,TRUE
+2007,1,19,B6,BOS,"Boston, MA",MCO,"Orlando, FL",0,1,TRUE
+2007,1,19,B6,BOS,"Boston, MA",MCO,"Orlando, FL",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",MCO,"Orlando, FL",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",MCO,"Orlando, FL",1,0,TRUE
+2007,1,19,B6,BOS,"Boston, MA",OAK,"Oakland, CA",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",PBI,"West Palm Beach/Palm Beach, FL",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",PBI,"West Palm Beach/Palm Beach, FL",0,1,TRUE
+2007,1,19,B6,BOS,"Boston, MA",PBI,"West Palm Beach/Palm Beach, FL",1,0,TRUE
+2007,1,19,B6,BOS,"Boston, MA",PHX,"Phoenix, AZ",1,1,TRUE
+2007,1,19,B6,BOS,"Boston, MA",PIT,"Pittsburgh, PA",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",PIT,"Pittsburgh, PA",1,1,TRUE
+2007,1,19,B6,BOS,"Boston, MA",RDU,"Raleigh/Durham, NC",1,1,TRUE
+2007,1,19,B6,BOS,"Boston, MA",RIC,"Richmond, VA",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",RIC,"Richmond, VA",1,1,TRUE
+2007,1,19,B6,BOS,"Boston, MA",RSW,"Fort Myers, FL",1,1,TRUE
+2007,1,19,B6,BOS,"Boston, MA",RSW,"Fort Myers, FL",0,1,TRUE
+2007,1,19,B6,BOS,"Boston, MA",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",SEA,"Seattle, WA",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",SJC,"San Jose, CA",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",SJU,"San Juan, PR",1,1,TRUE
+2007,1,19,B6,BOS,"Boston, MA",TPA,"Tampa, FL",0,1,TRUE
+2007,1,19,B6,BOS,"Boston, MA",TPA,"Tampa, FL",0,0,FALSE
+2007,1,19,B6,BOS,"Boston, MA",TPA,"Tampa, FL",0,0,FALSE
+2007,1,19,B6,BQN,"Aguadilla, PR",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,BQN,"Aguadilla, PR",MCO,"Orlando, FL",0,0,FALSE
+2007,1,19,B6,BTV,"Burlington, VT",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,BTV,"Burlington, VT",JFK,"New York, NY",0,1,TRUE
+2007,1,19,B6,BTV,"Burlington, VT",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,BTV,"Burlington, VT",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,BUF,"Buffalo, NY",BOS,"Boston, MA",1,1,TRUE
+2007,1,19,B6,BUF,"Buffalo, NY",BOS,"Boston, MA",1,1,TRUE
+2007,1,19,B6,BUF,"Buffalo, NY",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,BUF,"Buffalo, NY",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,BUF,"Buffalo, NY",JFK,"New York, NY",0,1,TRUE
+2007,1,19,B6,BUF,"Buffalo, NY",JFK,"New York, NY",1,0,TRUE
+2007,1,19,B6,BUF,"Buffalo, NY",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,BUF,"Buffalo, NY",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,BUF,"Buffalo, NY",JFK,"New York, NY",0,1,TRUE
+2007,1,19,B6,BUF,"Buffalo, NY",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,BUF,"Buffalo, NY",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,BUR,"Burbank, CA",JFK,"New York, NY",1,,TRUE
+2007,1,19,B6,BUR,"Burbank, CA",JFK,"New York, NY",1,0,TRUE
+2007,1,19,B6,BUR,"Burbank, CA",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,BUR,"Burbank, CA",JFK,"New York, NY",1,0,TRUE
+2007,1,19,B6,CLT,"Charlotte, NC",JFK,"New York, NY",0,1,TRUE
+2007,1,19,B6,CLT,"Charlotte, NC",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,CLT,"Charlotte, NC",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,CLT,"Charlotte, NC",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,CMH,"Columbus, OH",BOS,"Boston, MA",1,1,TRUE
+2007,1,19,B6,CMH,"Columbus, OH",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,CMH,"Columbus, OH",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,CMH,"Columbus, OH",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,CMH,"Columbus, OH",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,DEN,"Denver, CO",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,DEN,"Denver, CO",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,DEN,"Denver, CO",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,EWR,"Newark, NJ",FLL,"Fort Lauderdale, FL",0,1,TRUE
+2007,1,19,B6,EWR,"Newark, NJ",FLL,"Fort Lauderdale, FL",1,1,TRUE
+2007,1,19,B6,EWR,"Newark, NJ",FLL,"Fort Lauderdale, FL",1,1,TRUE
+2007,1,19,B6,EWR,"Newark, NJ",MCO,"Orlando, FL",0,1,TRUE
+2007,1,19,B6,EWR,"Newark, NJ",MCO,"Orlando, FL",0,0,FALSE
+2007,1,19,B6,EWR,"Newark, NJ",MCO,"Orlando, FL",1,1,TRUE
+2007,1,19,B6,EWR,"Newark, NJ",MCO,"Orlando, FL",1,1,TRUE
+2007,1,19,B6,EWR,"Newark, NJ",PBI,"West Palm Beach/Palm Beach, FL",1,1,TRUE
+2007,1,19,B6,EWR,"Newark, NJ",RSW,"Fort Myers, FL",0,1,TRUE
+2007,1,19,B6,EWR,"Newark, NJ",TPA,"Tampa, FL",1,1,TRUE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",BOS,"Boston, MA",0,1,TRUE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",BOS,"Boston, MA",1,1,TRUE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",EWR,"Newark, NJ",0,0,FALSE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",IAD,"Washington, DC",1,1,TRUE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",IAD,"Washington, DC",0,0,FALSE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",0,1,TRUE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",0,,FALSE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",LGA,"New York, NY",1,1,TRUE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",LGA,"New York, NY",1,1,TRUE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",LGA,"New York, NY",1,1,TRUE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",OAK,"Oakland, CA",0,0,FALSE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",SWF,"Newburgh/Poughkeepsie, NY",0,0,FALSE
+2007,1,19,B6,FLL,"Fort Lauderdale, FL",SWF,"Newburgh/Poughkeepsie, NY",0,0,FALSE
+2007,1,19,B6,HOU,"Houston, TX",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,HOU,"Houston, TX",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,HOU,"Houston, TX",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,IAD,"Washington, DC",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,IAD,"Washington, DC",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,IAD,"Washington, DC",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,IAD,"Washington, DC",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,IAD,"Washington, DC",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,IAD,"Washington, DC",BOS,"Boston, MA",1,1,TRUE
+2007,1,19,B6,IAD,"Washington, DC",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,19,B6,IAD,"Washington, DC",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,19,B6,IAD,"Washington, DC",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,IAD,"Washington, DC",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,IAD,"Washington, DC",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,IAD,"Washington, DC",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,IAD,"Washington, DC",JFK,"New York, NY",0,1,TRUE
+2007,1,19,B6,IAD,"Washington, DC",JFK,"New York, NY",0,1,TRUE
+2007,1,19,B6,IAD,"Washington, DC",LAS,"Las Vegas, NV",0,0,FALSE
+2007,1,19,B6,IAD,"Washington, DC",LGB,"Long Beach, CA",0,1,TRUE
+2007,1,19,B6,IAD,"Washington, DC",LGB,"Long Beach, CA",1,1,TRUE
+2007,1,19,B6,IAD,"Washington, DC",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,19,B6,IAD,"Washington, DC",OAK,"Oakland, CA",0,0,FALSE
+2007,1,19,B6,IAD,"Washington, DC",OAK,"Oakland, CA",0,0,FALSE
+2007,1,19,B6,IAD,"Washington, DC",PBI,"West Palm Beach/Palm Beach, FL",0,0,FALSE
+2007,1,19,B6,IAD,"Washington, DC",SAN,"San Diego, CA",1,1,TRUE
+2007,1,19,B6,JAX,"Jacksonville, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,JAX,"Jacksonville, FL",JFK,"New York, NY",1,0,TRUE
+2007,1,19,B6,JAX,"Jacksonville, FL",JFK,"New York, NY",1,0,TRUE
+2007,1,19,B6,JFK,"New York, NY",AUS,"Austin, TX",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",AUS,"Austin, TX",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",AUS,"Austin, TX",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BNA,"Nashville, TN",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BNA,"Nashville, TN",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BNA,"Nashville, TN",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",BOS,"Boston, MA",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BOS,"Boston, MA",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BOS,"Boston, MA",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BOS,"Boston, MA",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",BOS,"Boston, MA",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BOS,"Boston, MA",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BOS,"Boston, MA",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BOS,"Boston, MA",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BQN,"Aguadilla, PR",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BTV,"Burlington, VT",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BTV,"Burlington, VT",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BTV,"Burlington, VT",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BTV,"Burlington, VT",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BUF,"Buffalo, NY",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BUF,"Buffalo, NY",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",BUF,"Buffalo, NY",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BUF,"Buffalo, NY",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BUF,"Buffalo, NY",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BUF,"Buffalo, NY",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BUF,"Buffalo, NY",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BUF,"Buffalo, NY",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BUR,"Burbank, CA",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BUR,"Burbank, CA",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BUR,"Burbank, CA",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",BUR,"Burbank, CA",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",CLT,"Charlotte, NC",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",CLT,"Charlotte, NC",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",CLT,"Charlotte, NC",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",CLT,"Charlotte, NC",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",CMH,"Columbus, OH",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",CMH,"Columbus, OH",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",CMH,"Columbus, OH",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",CMH,"Columbus, OH",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",DEN,"Denver, CO",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",DEN,"Denver, CO",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",0,,FALSE
+2007,1,19,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",HOU,"Houston, TX",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",HOU,"Houston, TX",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",HOU,"Houston, TX",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",IAD,"Washington, DC",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",IAD,"Washington, DC",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",IAD,"Washington, DC",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",IAD,"Washington, DC",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",IAD,"Washington, DC",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",IAD,"Washington, DC",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",JAX,"Jacksonville, FL",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",JAX,"Jacksonville, FL",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",JAX,"Jacksonville, FL",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",LAS,"Las Vegas, NV",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",LAS,"Las Vegas, NV",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",LAS,"Las Vegas, NV",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",LGB,"Long Beach, CA",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",LGB,"Long Beach, CA",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",MCO,"Orlando, FL",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",MCO,"Orlando, FL",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",MCO,"Orlando, FL",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",MCO,"Orlando, FL",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",MCO,"Orlando, FL",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",MCO,"Orlando, FL",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",MCO,"Orlando, FL",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",MCO,"Orlando, FL",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",MCO,"Orlando, FL",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",MCO,"Orlando, FL",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",MSY,"New Orleans, LA",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",MSY,"New Orleans, LA",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",OAK,"Oakland, CA",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",OAK,"Oakland, CA",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",OAK,"Oakland, CA",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",OAK,"Oakland, CA",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",OAK,"Oakland, CA",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",ONT,"Ontario, CA",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",ORD,"Chicago, IL",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",ORD,"Chicago, IL",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",ORD,"Chicago, IL",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",ORD,"Chicago, IL",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",ORD,"Chicago, IL",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",1,,TRUE
+2007,1,19,B6,JFK,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",PDX,"Portland, OR",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",PHX,"Phoenix, AZ",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",PHX,"Phoenix, AZ",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",PIT,"Pittsburgh, PA",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",PIT,"Pittsburgh, PA",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",PIT,"Pittsburgh, PA",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",PIT,"Pittsburgh, PA",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",PSE,"Ponce, PR",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",PWM,"Portland, ME",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",PWM,"Portland, ME",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",PWM,"Portland, ME",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",PWM,"Portland, ME",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",RDU,"Raleigh/Durham, NC",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",RDU,"Raleigh/Durham, NC",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",RDU,"Raleigh/Durham, NC",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",RDU,"Raleigh/Durham, NC",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",RIC,"Richmond, VA",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",RIC,"Richmond, VA",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",RIC,"Richmond, VA",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",RIC,"Richmond, VA",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",ROC,"Rochester, NY",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",ROC,"Rochester, NY",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",ROC,"Rochester, NY",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",ROC,"Rochester, NY",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",ROC,"Rochester, NY",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",RSW,"Fort Myers, FL",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",RSW,"Fort Myers, FL",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",RSW,"Fort Myers, FL",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",RSW,"Fort Myers, FL",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",RSW,"Fort Myers, FL",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",RSW,"Fort Myers, FL",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",SAN,"San Diego, CA",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",SAN,"San Diego, CA",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",SEA,"Seattle, WA",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",SJC,"San Jose, CA",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",SJU,"San Juan, PR",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",SJU,"San Juan, PR",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",SJU,"San Juan, PR",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",SLC,"Salt Lake City, UT",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",SMF,"Sacramento, CA",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",SRQ,"Sarasota/Bradenton, FL",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",SYR,"Syracuse, NY",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",SYR,"Syracuse, NY",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",SYR,"Syracuse, NY",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",SYR,"Syracuse, NY",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",TPA,"Tampa, FL",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",TPA,"Tampa, FL",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",TPA,"Tampa, FL",1,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",TPA,"Tampa, FL",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",TPA,"Tampa, FL",0,0,FALSE
+2007,1,19,B6,JFK,"New York, NY",TPA,"Tampa, FL",0,1,TRUE
+2007,1,19,B6,JFK,"New York, NY",TUS,"Tucson, AZ",0,1,TRUE
+2007,1,19,B6,LAS,"Las Vegas, NV",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,LAS,"Las Vegas, NV",IAD,"Washington, DC",0,0,FALSE
+2007,1,19,B6,LAS,"Las Vegas, NV",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,LAS,"Las Vegas, NV",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,LAS,"Las Vegas, NV",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,LAS,"Las Vegas, NV",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,19,B6,LAS,"Las Vegas, NV",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,19,B6,LGA,"New York, NY",FLL,"Fort Lauderdale, FL",0,1,TRUE
+2007,1,19,B6,LGA,"New York, NY",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,19,B6,LGA,"New York, NY",FLL,"Fort Lauderdale, FL",1,1,TRUE
+2007,1,19,B6,LGA,"New York, NY",FLL,"Fort Lauderdale, FL",1,1,TRUE
+2007,1,19,B6,LGA,"New York, NY",MCO,"Orlando, FL",0,0,FALSE
+2007,1,19,B6,LGA,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",1,1,TRUE
+2007,1,19,B6,LGB,"Long Beach, CA",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,LGB,"Long Beach, CA",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,LGB,"Long Beach, CA",FLL,"Fort Lauderdale, FL",1,1,TRUE
+2007,1,19,B6,LGB,"Long Beach, CA",IAD,"Washington, DC",0,0,FALSE
+2007,1,19,B6,LGB,"Long Beach, CA",IAD,"Washington, DC",0,0,FALSE
+2007,1,19,B6,LGB,"Long Beach, CA",IAD,"Washington, DC",0,0,FALSE
+2007,1,19,B6,LGB,"Long Beach, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,LGB,"Long Beach, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,LGB,"Long Beach, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,LGB,"Long Beach, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,LGB,"Long Beach, CA",LAS,"Las Vegas, NV",0,0,FALSE
+2007,1,19,B6,LGB,"Long Beach, CA",LAS,"Las Vegas, NV",0,1,TRUE
+2007,1,19,B6,LGB,"Long Beach, CA",OAK,"Oakland, CA",0,0,FALSE
+2007,1,19,B6,LGB,"Long Beach, CA",OAK,"Oakland, CA",0,0,FALSE
+2007,1,19,B6,LGB,"Long Beach, CA",OAK,"Oakland, CA",0,0,FALSE
+2007,1,19,B6,LGB,"Long Beach, CA",OAK,"Oakland, CA",0,0,FALSE
+2007,1,19,B6,LGB,"Long Beach, CA",OAK,"Oakland, CA",0,0,FALSE
+2007,1,19,B6,LGB,"Long Beach, CA",OAK,"Oakland, CA",1,1,TRUE
+2007,1,19,B6,LGB,"Long Beach, CA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,19,B6,LGB,"Long Beach, CA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,19,B6,LGB,"Long Beach, CA",SLC,"Salt Lake City, UT",0,0,FALSE
+2007,1,19,B6,LGB,"Long Beach, CA",SLC,"Salt Lake City, UT",0,0,FALSE
+2007,1,19,B6,LGB,"Long Beach, CA",SMF,"Sacramento, CA",0,1,TRUE
+2007,1,19,B6,LGB,"Long Beach, CA",SMF,"Sacramento, CA",0,0,FALSE
+2007,1,19,B6,LGB,"Long Beach, CA",SMF,"Sacramento, CA",1,1,TRUE
+2007,1,19,B6,MCO,"Orlando, FL",BOS,"Boston, MA",1,1,TRUE
+2007,1,19,B6,MCO,"Orlando, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,MCO,"Orlando, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,MCO,"Orlando, FL",BOS,"Boston, MA",1,1,TRUE
+2007,1,19,B6,MCO,"Orlando, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,MCO,"Orlando, FL",BQN,"Aguadilla, PR",1,1,TRUE
+2007,1,19,B6,MCO,"Orlando, FL",EWR,"Newark, NJ",0,0,FALSE
+2007,1,19,B6,MCO,"Orlando, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,19,B6,MCO,"Orlando, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,19,B6,MCO,"Orlando, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,19,B6,MCO,"Orlando, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,MCO,"Orlando, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,MCO,"Orlando, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,MCO,"Orlando, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,MCO,"Orlando, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,MCO,"Orlando, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,MCO,"Orlando, FL",JFK,"New York, NY",1,0,TRUE
+2007,1,19,B6,MCO,"Orlando, FL",JFK,"New York, NY",1,0,TRUE
+2007,1,19,B6,MCO,"Orlando, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,MCO,"Orlando, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,MCO,"Orlando, FL",LGA,"New York, NY",1,1,TRUE
+2007,1,19,B6,MCO,"Orlando, FL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,19,B6,MCO,"Orlando, FL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,19,B6,MCO,"Orlando, FL",SWF,"Newburgh/Poughkeepsie, NY",0,0,FALSE
+2007,1,19,B6,MCO,"Orlando, FL",SWF,"Newburgh/Poughkeepsie, NY",0,0,FALSE
+2007,1,19,B6,MCO,"Orlando, FL",SYR,"Syracuse, NY",0,0,FALSE
+2007,1,19,B6,MSY,"New Orleans, LA",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,MSY,"New Orleans, LA",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,OAK,"Oakland, CA",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,OAK,"Oakland, CA",FLL,"Fort Lauderdale, FL",1,1,TRUE
+2007,1,19,B6,OAK,"Oakland, CA",IAD,"Washington, DC",0,0,FALSE
+2007,1,19,B6,OAK,"Oakland, CA",IAD,"Washington, DC",0,0,FALSE
+2007,1,19,B6,OAK,"Oakland, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,OAK,"Oakland, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,OAK,"Oakland, CA",JFK,"New York, NY",1,0,TRUE
+2007,1,19,B6,OAK,"Oakland, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,OAK,"Oakland, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,OAK,"Oakland, CA",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,19,B6,OAK,"Oakland, CA",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,19,B6,OAK,"Oakland, CA",LGB,"Long Beach, CA",1,1,TRUE
+2007,1,19,B6,OAK,"Oakland, CA",LGB,"Long Beach, CA",1,1,TRUE
+2007,1,19,B6,OAK,"Oakland, CA",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,19,B6,OAK,"Oakland, CA",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,19,B6,ONT,"Ontario, CA",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,ORD,"Chicago, IL",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,ORD,"Chicago, IL",JFK,"New York, NY",1,0,TRUE
+2007,1,19,B6,ORD,"Chicago, IL",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,ORD,"Chicago, IL",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,ORD,"Chicago, IL",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,ORD,"Chicago, IL",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,19,B6,ORD,"Chicago, IL",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,19,B6,PBI,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,PBI,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1,1,TRUE
+2007,1,19,B6,PBI,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,PBI,"West Palm Beach/Palm Beach, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,19,B6,PBI,"West Palm Beach/Palm Beach, FL",IAD,"Washington, DC",0,0,FALSE
+2007,1,19,B6,PBI,"West Palm Beach/Palm Beach, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,PBI,"West Palm Beach/Palm Beach, FL",JFK,"New York, NY",0,,FALSE
+2007,1,19,B6,PBI,"West Palm Beach/Palm Beach, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,PBI,"West Palm Beach/Palm Beach, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,PBI,"West Palm Beach/Palm Beach, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,PBI,"West Palm Beach/Palm Beach, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,PBI,"West Palm Beach/Palm Beach, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,PBI,"West Palm Beach/Palm Beach, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,PBI,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1,0,TRUE
+2007,1,19,B6,PBI,"West Palm Beach/Palm Beach, FL",SWF,"Newburgh/Poughkeepsie, NY",0,0,FALSE
+2007,1,19,B6,PDX,"Portland, OR",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,PHX,"Phoenix, AZ",BOS,"Boston, MA",1,0,TRUE
+2007,1,19,B6,PHX,"Phoenix, AZ",JFK,"New York, NY",1,0,TRUE
+2007,1,19,B6,PHX,"Phoenix, AZ",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,PIT,"Pittsburgh, PA",BOS,"Boston, MA",1,1,TRUE
+2007,1,19,B6,PIT,"Pittsburgh, PA",BOS,"Boston, MA",1,1,TRUE
+2007,1,19,B6,PIT,"Pittsburgh, PA",JFK,"New York, NY",0,1,TRUE
+2007,1,19,B6,PIT,"Pittsburgh, PA",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,PIT,"Pittsburgh, PA",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,PIT,"Pittsburgh, PA",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,PSE,"Ponce, PR",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,PWM,"Portland, ME",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,PWM,"Portland, ME",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,PWM,"Portland, ME",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,PWM,"Portland, ME",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,RDU,"Raleigh/Durham, NC",BOS,"Boston, MA",1,1,TRUE
+2007,1,19,B6,RDU,"Raleigh/Durham, NC",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,RDU,"Raleigh/Durham, NC",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,RDU,"Raleigh/Durham, NC",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,RDU,"Raleigh/Durham, NC",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,RIC,"Richmond, VA",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,RIC,"Richmond, VA",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,RIC,"Richmond, VA",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,RIC,"Richmond, VA",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,RIC,"Richmond, VA",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,RIC,"Richmond, VA",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,ROC,"Rochester, NY",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,ROC,"Rochester, NY",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,ROC,"Rochester, NY",JFK,"New York, NY",0,1,TRUE
+2007,1,19,B6,ROC,"Rochester, NY",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,ROC,"Rochester, NY",JFK,"New York, NY",0,1,TRUE
+2007,1,19,B6,RSW,"Fort Myers, FL",BOS,"Boston, MA",1,1,TRUE
+2007,1,19,B6,RSW,"Fort Myers, FL",BOS,"Boston, MA",1,1,TRUE
+2007,1,19,B6,RSW,"Fort Myers, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,RSW,"Fort Myers, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,19,B6,RSW,"Fort Myers, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,RSW,"Fort Myers, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,RSW,"Fort Myers, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,RSW,"Fort Myers, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,RSW,"Fort Myers, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,RSW,"Fort Myers, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,SAN,"San Diego, CA",IAD,"Washington, DC",1,0,TRUE
+2007,1,19,B6,SAN,"San Diego, CA",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,SAN,"San Diego, CA",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,SEA,"Seattle, WA",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,SEA,"Seattle, WA",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,SJC,"San Jose, CA",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,SJC,"San Jose, CA",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,SJU,"San Juan, PR",BOS,"Boston, MA",1,1,TRUE
+2007,1,19,B6,SJU,"San Juan, PR",JFK,"New York, NY",0,1,TRUE
+2007,1,19,B6,SJU,"San Juan, PR",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,SJU,"San Juan, PR",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,SJU,"San Juan, PR",MCO,"Orlando, FL",0,0,FALSE
+2007,1,19,B6,SJU,"San Juan, PR",MCO,"Orlando, FL",1,0,TRUE
+2007,1,19,B6,SLC,"Salt Lake City, UT",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,SLC,"Salt Lake City, UT",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,19,B6,SLC,"Salt Lake City, UT",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,19,B6,SMF,"Sacramento, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,SMF,"Sacramento, CA",LGB,"Long Beach, CA",0,1,TRUE
+2007,1,19,B6,SMF,"Sacramento, CA",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,19,B6,SMF,"Sacramento, CA",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,19,B6,SRQ,"Sarasota/Bradenton, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,SWF,"Newburgh/Poughkeepsie, NY",FLL,"Fort Lauderdale, FL",0,1,TRUE
+2007,1,19,B6,SWF,"Newburgh/Poughkeepsie, NY",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,19,B6,SWF,"Newburgh/Poughkeepsie, NY",MCO,"Orlando, FL",0,0,FALSE
+2007,1,19,B6,SWF,"Newburgh/Poughkeepsie, NY",MCO,"Orlando, FL",0,0,FALSE
+2007,1,19,B6,SWF,"Newburgh/Poughkeepsie, NY",PBI,"West Palm Beach/Palm Beach, FL",0,0,FALSE
+2007,1,19,B6,SYR,"Syracuse, NY",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,SYR,"Syracuse, NY",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,SYR,"Syracuse, NY",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,SYR,"Syracuse, NY",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,SYR,"Syracuse, NY",MCO,"Orlando, FL",1,1,TRUE
+2007,1,19,B6,TPA,"Tampa, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,TPA,"Tampa, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,19,B6,TPA,"Tampa, FL",BOS,"Boston, MA",1,1,TRUE
+2007,1,19,B6,TPA,"Tampa, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,19,B6,TPA,"Tampa, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,TPA,"Tampa, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,TPA,"Tampa, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,TPA,"Tampa, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,TPA,"Tampa, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,19,B6,TPA,"Tampa, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,19,B6,TUS,"Tucson, AZ",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,AUS,"Austin, TX",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,AUS,"Austin, TX",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,AUS,"Austin, TX",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,BNA,"Nashville, TN",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,BNA,"Nashville, TN",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,BNA,"Nashville, TN",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",AUS,"Austin, TX",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",BUF,"Buffalo, NY",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",BUF,"Buffalo, NY",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",BUF,"Buffalo, NY",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",CMH,"Columbus, OH",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",DEN,"Denver, CO",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",IAD,"Washington, DC",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",IAD,"Washington, DC",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",IAD,"Washington, DC",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",IAD,"Washington, DC",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",IAD,"Washington, DC",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,BOS,"Boston, MA",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,BOS,"Boston, MA",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",JFK,"New York, NY",,,FALSE
+2007,1,20,B6,BOS,"Boston, MA",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",LAS,"Las Vegas, NV",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",MCO,"Orlando, FL",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",MCO,"Orlando, FL",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",MCO,"Orlando, FL",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",MCO,"Orlando, FL",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",MCO,"Orlando, FL",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",OAK,"Oakland, CA",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",PBI,"West Palm Beach/Palm Beach, FL",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",PBI,"West Palm Beach/Palm Beach, FL",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",PBI,"West Palm Beach/Palm Beach, FL",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",PHX,"Phoenix, AZ",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",PIT,"Pittsburgh, PA",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",PIT,"Pittsburgh, PA",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",RDU,"Raleigh/Durham, NC",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",RIC,"Richmond, VA",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",RIC,"Richmond, VA",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",RSW,"Fort Myers, FL",1,1,TRUE
+2007,1,20,B6,BOS,"Boston, MA",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",SEA,"Seattle, WA",1,0,TRUE
+2007,1,20,B6,BOS,"Boston, MA",SJC,"San Jose, CA",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",SJU,"San Juan, PR",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",TPA,"Tampa, FL",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",TPA,"Tampa, FL",0,0,FALSE
+2007,1,20,B6,BOS,"Boston, MA",TPA,"Tampa, FL",0,0,FALSE
+2007,1,20,B6,BQN,"Aguadilla, PR",JFK,"New York, NY",0,1,TRUE
+2007,1,20,B6,BQN,"Aguadilla, PR",MCO,"Orlando, FL",1,0,TRUE
+2007,1,20,B6,BTV,"Burlington, VT",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,BTV,"Burlington, VT",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,BTV,"Burlington, VT",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,BTV,"Burlington, VT",JFK,"New York, NY",1,0,TRUE
+2007,1,20,B6,BUF,"Buffalo, NY",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,BUF,"Buffalo, NY",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,BUF,"Buffalo, NY",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,BUF,"Buffalo, NY",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,BUF,"Buffalo, NY",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,BUF,"Buffalo, NY",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,BUF,"Buffalo, NY",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,BUF,"Buffalo, NY",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,BUF,"Buffalo, NY",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,BUR,"Burbank, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,BUR,"Burbank, CA",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,BUR,"Burbank, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,CLT,"Charlotte, NC",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,CLT,"Charlotte, NC",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,CLT,"Charlotte, NC",JFK,"New York, NY",0,1,TRUE
+2007,1,20,B6,CLT,"Charlotte, NC",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,CMH,"Columbus, OH",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,CMH,"Columbus, OH",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,CMH,"Columbus, OH",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,CMH,"Columbus, OH",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,CMH,"Columbus, OH",JFK,"New York, NY",1,0,TRUE
+2007,1,20,B6,DEN,"Denver, CO",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,DEN,"Denver, CO",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,DEN,"Denver, CO",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,EWR,"Newark, NJ",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,20,B6,EWR,"Newark, NJ",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,20,B6,EWR,"Newark, NJ",FLL,"Fort Lauderdale, FL",1,1,TRUE
+2007,1,20,B6,EWR,"Newark, NJ",MCO,"Orlando, FL",0,0,FALSE
+2007,1,20,B6,EWR,"Newark, NJ",MCO,"Orlando, FL",0,0,FALSE
+2007,1,20,B6,EWR,"Newark, NJ",MCO,"Orlando, FL",1,0,TRUE
+2007,1,20,B6,EWR,"Newark, NJ",MCO,"Orlando, FL",1,1,TRUE
+2007,1,20,B6,EWR,"Newark, NJ",PBI,"West Palm Beach/Palm Beach, FL",1,1,TRUE
+2007,1,20,B6,EWR,"Newark, NJ",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,20,B6,EWR,"Newark, NJ",TPA,"Tampa, FL",1,1,TRUE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",EWR,"Newark, NJ",0,0,FALSE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",IAD,"Washington, DC",1,1,TRUE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",IAD,"Washington, DC",0,0,FALSE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",OAK,"Oakland, CA",0,0,FALSE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",SWF,"Newburgh/Poughkeepsie, NY",0,0,FALSE
+2007,1,20,B6,FLL,"Fort Lauderdale, FL",SWF,"Newburgh/Poughkeepsie, NY",0,0,FALSE
+2007,1,20,B6,HOU,"Houston, TX",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,HOU,"Houston, TX",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,IAD,"Washington, DC",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,IAD,"Washington, DC",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,IAD,"Washington, DC",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,IAD,"Washington, DC",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,IAD,"Washington, DC",BOS,"Boston, MA",1,1,TRUE
+2007,1,20,B6,IAD,"Washington, DC",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,20,B6,IAD,"Washington, DC",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,20,B6,IAD,"Washington, DC",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,IAD,"Washington, DC",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,IAD,"Washington, DC",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,IAD,"Washington, DC",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,IAD,"Washington, DC",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,IAD,"Washington, DC",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,IAD,"Washington, DC",LAS,"Las Vegas, NV",0,0,FALSE
+2007,1,20,B6,IAD,"Washington, DC",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,20,B6,IAD,"Washington, DC",LGB,"Long Beach, CA",1,1,TRUE
+2007,1,20,B6,IAD,"Washington, DC",LGB,"Long Beach, CA",0,1,TRUE
+2007,1,20,B6,IAD,"Washington, DC",OAK,"Oakland, CA",0,0,FALSE
+2007,1,20,B6,IAD,"Washington, DC",OAK,"Oakland, CA",0,0,FALSE
+2007,1,20,B6,IAD,"Washington, DC",PBI,"West Palm Beach/Palm Beach, FL",0,0,FALSE
+2007,1,20,B6,IAD,"Washington, DC",SAN,"San Diego, CA",0,0,FALSE
+2007,1,20,B6,JAX,"Jacksonville, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,JAX,"Jacksonville, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,JAX,"Jacksonville, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",AUS,"Austin, TX",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",AUS,"Austin, TX",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",BNA,"Nashville, TN",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",BNA,"Nashville, TN",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",BNA,"Nashville, TN",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",BOS,"Boston, MA",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",BOS,"Boston, MA",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",BOS,"Boston, MA",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",BQN,"Aguadilla, PR",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",BTV,"Burlington, VT",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",BTV,"Burlington, VT",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",BTV,"Burlington, VT",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",BTV,"Burlington, VT",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",BUF,"Buffalo, NY",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",BUF,"Buffalo, NY",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",BUF,"Buffalo, NY",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",BUF,"Buffalo, NY",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",BUF,"Buffalo, NY",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",BUF,"Buffalo, NY",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",BUR,"Burbank, CA",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",BUR,"Burbank, CA",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",BUR,"Burbank, CA",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",CLT,"Charlotte, NC",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",CLT,"Charlotte, NC",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",CLT,"Charlotte, NC",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",CLT,"Charlotte, NC",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",CMH,"Columbus, OH",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",CMH,"Columbus, OH",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",CMH,"Columbus, OH",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",DEN,"Denver, CO",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",DEN,"Denver, CO",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",1,0,TRUE
+2007,1,20,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",1,0,TRUE
+2007,1,20,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",1,0,TRUE
+2007,1,20,B6,JFK,"New York, NY",FLL,"Fort Lauderdale, FL",1,0,TRUE
+2007,1,20,B6,JFK,"New York, NY",HOU,"Houston, TX",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",HOU,"Houston, TX",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",IAD,"Washington, DC",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",IAD,"Washington, DC",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",IAD,"Washington, DC",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",IAD,"Washington, DC",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",IAD,"Washington, DC",1,0,TRUE
+2007,1,20,B6,JFK,"New York, NY",IAD,"Washington, DC",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",JAX,"Jacksonville, FL",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",JAX,"Jacksonville, FL",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",LAS,"Las Vegas, NV",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",LAS,"Las Vegas, NV",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",LAS,"Las Vegas, NV",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",LGB,"Long Beach, CA",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",LGB,"Long Beach, CA",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",LGB,"Long Beach, CA",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",LGB,"Long Beach, CA",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",MCO,"Orlando, FL",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",MCO,"Orlando, FL",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",MCO,"Orlando, FL",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",MCO,"Orlando, FL",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",MCO,"Orlando, FL",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",MCO,"Orlando, FL",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",MCO,"Orlando, FL",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",MCO,"Orlando, FL",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",MCO,"Orlando, FL",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",MCO,"Orlando, FL",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",MSY,"New Orleans, LA",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",MSY,"New Orleans, LA",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",OAK,"Oakland, CA",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",OAK,"Oakland, CA",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",OAK,"Oakland, CA",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",OAK,"Oakland, CA",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",OAK,"Oakland, CA",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",ONT,"Ontario, CA",1,0,TRUE
+2007,1,20,B6,JFK,"New York, NY",ORD,"Chicago, IL",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",ORD,"Chicago, IL",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",ORD,"Chicago, IL",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",ORD,"Chicago, IL",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",1,0,TRUE
+2007,1,20,B6,JFK,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",1,0,TRUE
+2007,1,20,B6,JFK,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",PDX,"Portland, OR",1,0,TRUE
+2007,1,20,B6,JFK,"New York, NY",PHX,"Phoenix, AZ",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",PHX,"Phoenix, AZ",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",PIT,"Pittsburgh, PA",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",PIT,"Pittsburgh, PA",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",PIT,"Pittsburgh, PA",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",PSE,"Ponce, PR",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",PWM,"Portland, ME",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",PWM,"Portland, ME",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",PWM,"Portland, ME",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",RDU,"Raleigh/Durham, NC",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",RDU,"Raleigh/Durham, NC",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",RDU,"Raleigh/Durham, NC",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",RDU,"Raleigh/Durham, NC",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",RIC,"Richmond, VA",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",RIC,"Richmond, VA",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",RIC,"Richmond, VA",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",ROC,"Rochester, NY",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",ROC,"Rochester, NY",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",ROC,"Rochester, NY",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",ROC,"Rochester, NY",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",RSW,"Fort Myers, FL",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",RSW,"Fort Myers, FL",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",RSW,"Fort Myers, FL",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",RSW,"Fort Myers, FL",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",RSW,"Fort Myers, FL",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",RSW,"Fort Myers, FL",1,0,TRUE
+2007,1,20,B6,JFK,"New York, NY",SAN,"San Diego, CA",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",SAN,"San Diego, CA",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",SEA,"Seattle, WA",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",SJC,"San Jose, CA",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",SJU,"San Juan, PR",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",SJU,"San Juan, PR",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",SJU,"San Juan, PR",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",SLC,"Salt Lake City, UT",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",SMF,"Sacramento, CA",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",SRQ,"Sarasota/Bradenton, FL",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",SYR,"Syracuse, NY",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",SYR,"Syracuse, NY",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",SYR,"Syracuse, NY",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",SYR,"Syracuse, NY",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",TPA,"Tampa, FL",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",TPA,"Tampa, FL",0,0,FALSE
+2007,1,20,B6,JFK,"New York, NY",TPA,"Tampa, FL",1,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",TPA,"Tampa, FL",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",TPA,"Tampa, FL",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",TPA,"Tampa, FL",0,1,TRUE
+2007,1,20,B6,JFK,"New York, NY",TUS,"Tucson, AZ",0,1,TRUE
+2007,1,20,B6,LAS,"Las Vegas, NV",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,LAS,"Las Vegas, NV",IAD,"Washington, DC",0,0,FALSE
+2007,1,20,B6,LAS,"Las Vegas, NV",JFK,"New York, NY",1,0,TRUE
+2007,1,20,B6,LAS,"Las Vegas, NV",JFK,"New York, NY",1,0,TRUE
+2007,1,20,B6,LAS,"Las Vegas, NV",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,LAS,"Las Vegas, NV",LGB,"Long Beach, CA",1,0,TRUE
+2007,1,20,B6,LAS,"Las Vegas, NV",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,20,B6,LGA,"New York, NY",FLL,"Fort Lauderdale, FL",0,1,TRUE
+2007,1,20,B6,LGA,"New York, NY",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,20,B6,LGA,"New York, NY",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,20,B6,LGA,"New York, NY",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,20,B6,LGA,"New York, NY",FLL,"Fort Lauderdale, FL",0,1,TRUE
+2007,1,20,B6,LGA,"New York, NY",MCO,"Orlando, FL",0,0,FALSE
+2007,1,20,B6,LGA,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",1,0,TRUE
+2007,1,20,B6,LGA,"New York, NY",PBI,"West Palm Beach/Palm Beach, FL",0,0,FALSE
+2007,1,20,B6,LGB,"Long Beach, CA",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,LGB,"Long Beach, CA",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,LGB,"Long Beach, CA",FLL,"Fort Lauderdale, FL",0,0,FALSE
+2007,1,20,B6,LGB,"Long Beach, CA",IAD,"Washington, DC",0,0,FALSE
+2007,1,20,B6,LGB,"Long Beach, CA",IAD,"Washington, DC",0,0,FALSE
+2007,1,20,B6,LGB,"Long Beach, CA",IAD,"Washington, DC",0,0,FALSE
+2007,1,20,B6,LGB,"Long Beach, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,LGB,"Long Beach, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,LGB,"Long Beach, CA",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,LGB,"Long Beach, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,LGB,"Long Beach, CA",LAS,"Las Vegas, NV",0,1,TRUE
+2007,1,20,B6,LGB,"Long Beach, CA",LAS,"Las Vegas, NV",0,0,FALSE
+2007,1,20,B6,LGB,"Long Beach, CA",OAK,"Oakland, CA",0,0,FALSE
+2007,1,20,B6,LGB,"Long Beach, CA",OAK,"Oakland, CA",0,0,FALSE
+2007,1,20,B6,LGB,"Long Beach, CA",OAK,"Oakland, CA",0,0,FALSE
+2007,1,20,B6,LGB,"Long Beach, CA",OAK,"Oakland, CA",0,1,TRUE
+2007,1,20,B6,LGB,"Long Beach, CA",OAK,"Oakland, CA",1,1,TRUE
+2007,1,20,B6,LGB,"Long Beach, CA",ORD,"Chicago, IL",0,0,FALSE
+2007,1,20,B6,LGB,"Long Beach, CA",SLC,"Salt Lake City, UT",0,0,FALSE
+2007,1,20,B6,LGB,"Long Beach, CA",SLC,"Salt Lake City, UT",0,0,FALSE
+2007,1,20,B6,LGB,"Long Beach, CA",SMF,"Sacramento, CA",0,0,FALSE
+2007,1,20,B6,LGB,"Long Beach, CA",SMF,"Sacramento, CA",0,0,FALSE
+2007,1,20,B6,LGB,"Long Beach, CA",SMF,"Sacramento, CA",0,0,FALSE
+2007,1,20,B6,MCO,"Orlando, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,MCO,"Orlando, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,MCO,"Orlando, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,MCO,"Orlando, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,MCO,"Orlando, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,MCO,"Orlando, FL",BQN,"Aguadilla, PR",1,1,TRUE
+2007,1,20,B6,MCO,"Orlando, FL",EWR,"Newark, NJ",0,0,FALSE
+2007,1,20,B6,MCO,"Orlando, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,20,B6,MCO,"Orlando, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,20,B6,MCO,"Orlando, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,20,B6,MCO,"Orlando, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,MCO,"Orlando, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,MCO,"Orlando, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,MCO,"Orlando, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,MCO,"Orlando, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,MCO,"Orlando, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,MCO,"Orlando, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,MCO,"Orlando, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,MCO,"Orlando, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,MCO,"Orlando, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,MCO,"Orlando, FL",LGA,"New York, NY",0,1,TRUE
+2007,1,20,B6,MCO,"Orlando, FL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,20,B6,MCO,"Orlando, FL",SJU,"San Juan, PR",0,0,FALSE
+2007,1,20,B6,MCO,"Orlando, FL",SWF,"Newburgh/Poughkeepsie, NY",0,0,FALSE
+2007,1,20,B6,MCO,"Orlando, FL",SWF,"Newburgh/Poughkeepsie, NY",0,0,FALSE
+2007,1,20,B6,MCO,"Orlando, FL",SYR,"Syracuse, NY",1,1,TRUE
+2007,1,20,B6,MSY,"New Orleans, LA",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,MSY,"New Orleans, LA",JFK,"New York, NY",0,1,TRUE
+2007,1,20,B6,OAK,"Oakland, CA",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,OAK,"Oakland, CA",FLL,"Fort Lauderdale, FL",0,1,TRUE
+2007,1,20,B6,OAK,"Oakland, CA",IAD,"Washington, DC",0,0,FALSE
+2007,1,20,B6,OAK,"Oakland, CA",IAD,"Washington, DC",0,0,FALSE
+2007,1,20,B6,OAK,"Oakland, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,OAK,"Oakland, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,OAK,"Oakland, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,OAK,"Oakland, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,OAK,"Oakland, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,OAK,"Oakland, CA",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,20,B6,OAK,"Oakland, CA",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,20,B6,OAK,"Oakland, CA",LGB,"Long Beach, CA",1,1,TRUE
+2007,1,20,B6,OAK,"Oakland, CA",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,20,B6,OAK,"Oakland, CA",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,20,B6,ONT,"Ontario, CA",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,ORD,"Chicago, IL",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,ORD,"Chicago, IL",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,ORD,"Chicago, IL",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,ORD,"Chicago, IL",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,ORD,"Chicago, IL",LGB,"Long Beach, CA",0,0,FALSE
+2007,1,20,B6,PBI,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,PBI,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,PBI,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,PBI,"West Palm Beach/Palm Beach, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,20,B6,PBI,"West Palm Beach/Palm Beach, FL",IAD,"Washington, DC",0,0,FALSE
+2007,1,20,B6,PBI,"West Palm Beach/Palm Beach, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,PBI,"West Palm Beach/Palm Beach, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,PBI,"West Palm Beach/Palm Beach, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,PBI,"West Palm Beach/Palm Beach, FL",JFK,"New York, NY",0,1,TRUE
+2007,1,20,B6,PBI,"West Palm Beach/Palm Beach, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,PBI,"West Palm Beach/Palm Beach, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,PBI,"West Palm Beach/Palm Beach, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,PBI,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,20,B6,PBI,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",0,0,FALSE
+2007,1,20,B6,PBI,"West Palm Beach/Palm Beach, FL",SWF,"Newburgh/Poughkeepsie, NY",0,0,FALSE
+2007,1,20,B6,PDX,"Portland, OR",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,PHX,"Phoenix, AZ",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,PHX,"Phoenix, AZ",JFK,"New York, NY",1,0,TRUE
+2007,1,20,B6,PHX,"Phoenix, AZ",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,PIT,"Pittsburgh, PA",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,PIT,"Pittsburgh, PA",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,PIT,"Pittsburgh, PA",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,PIT,"Pittsburgh, PA",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,PIT,"Pittsburgh, PA",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,PSE,"Ponce, PR",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,PWM,"Portland, ME",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,PWM,"Portland, ME",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,PWM,"Portland, ME",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,RDU,"Raleigh/Durham, NC",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,RDU,"Raleigh/Durham, NC",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,RDU,"Raleigh/Durham, NC",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,RDU,"Raleigh/Durham, NC",JFK,"New York, NY",0,1,TRUE
+2007,1,20,B6,RDU,"Raleigh/Durham, NC",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,RIC,"Richmond, VA",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,RIC,"Richmond, VA",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,RIC,"Richmond, VA",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,RIC,"Richmond, VA",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,RIC,"Richmond, VA",JFK,"New York, NY",0,1,TRUE
+2007,1,20,B6,RIC,"Richmond, VA",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,ROC,"Rochester, NY",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,ROC,"Rochester, NY",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,ROC,"Rochester, NY",JFK,"New York, NY",0,1,TRUE
+2007,1,20,B6,ROC,"Rochester, NY",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,ROC,"Rochester, NY",JFK,"New York, NY",0,1,TRUE
+2007,1,20,B6,RSW,"Fort Myers, FL",BOS,"Boston, MA",1,1,TRUE
+2007,1,20,B6,RSW,"Fort Myers, FL",BOS,"Boston, MA",0,0,FALSE
+2007,1,20,B6,RSW,"Fort Myers, FL",BOS,"Boston, MA",1,1,TRUE
+2007,1,20,B6,RSW,"Fort Myers, FL",EWR,"Newark, NJ",1,1,TRUE
+2007,1,20,B6,RSW,"Fort Myers, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,RSW,"Fort Myers, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,RSW,"Fort Myers, FL",JFK,"New York, NY",1,1,TRUE
+2007,1,20,B6,RSW,"Fort Myers, FL",JFK,"New York, NY",0,0,FALSE
+2007,1,20,B6,RSW,"Fort Myers, FL",JFK,"New York, NY",0,0,FALSE

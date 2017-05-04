@@ -168,7 +168,7 @@ public class AirTravelReducer extends Reducer<Text, Text, Text, Text> {
 
     private void Output2() throws IOException {
 
-        String Airportfile = "./output/Delayoutput/.AirportDelay.txt";
+        String Airportfile = "./output/Delayoutput/AirportDelay.txt";
         FileWriter f0 = new FileWriter(Airportfile);
         String newLine = System.getProperty("line.separator");
         //What is the best time to travel day/week/time of year to minimize delays?
